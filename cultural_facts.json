@@ -142,5 +142,141 @@
         "bild": "https://example.com/thai_national_park.jpg",
         "video": null,
         "tags": ["Natur", "Nationalparks", "Wildlife"]
-    }
-]
+    },
+    
+        {
+            "kategorie": "Kultur",
+            "thema": "Traditionen",
+            "beschreibung": "In Thailand werden bestimmte Farben traditionell mit Wochentagen assoziiert.",
+            "fakten": [
+                "Montag ist mit der Farbe Gelb verbunden.",
+                "Dienstag wird mit Rosa assoziiert.",
+                "Mittwoch steht für Grün.",
+                "Donnerstag ist Orange zugeordnet.",
+                "Freitag wird mit Blau verbunden.",
+                "Samstag steht für Lila.",
+                "Sonntag ist mit Rot assoziiert."
+            ],
+            "bild": "https://example.com/thai_colors.jpg",
+            "video": null,
+            "tags": ["Traditionen", "Farben", "Wochentage"]
+        },
+        {
+            "kategorie": "Geographie",
+            "thema": "Inseln",
+            "beschreibung": "Thailand verfügt über zahlreiche Inseln mit vielfältigen Landschaften.",
+            "fakten": [
+                "Phuket ist die größte Insel Thailands mit einer Fläche von 543 km².",
+                "Koh Samui ist die zweitgrößte Insel und bekannt für ihre Strände.",
+                "Koh Chang, die drittgrößte Insel, ist Teil eines Nationalparks."
+            ],
+            "bild": "https://example.com/thai_islands.jpg",
+            "video": null,
+            "tags": ["Inseln", "Phuket", "Koh Samui"]
+        },
+        {
+            "kategorie": "Bevölkerung",
+            "thema": "Ethnische Vielfalt",
+            "beschreibung": "Thailand ist Heimat verschiedener ethnischer Gruppen.",
+            "fakten": [
+                "Die ethnischen Thai machen etwa 75% der Bevölkerung aus.",
+                "Rund 14% der Bevölkerung sind chinesischer Abstammung.",
+                "In den südlichen Provinzen leben überwiegend ethnische Malaien."
+            ],
+            "bild": "https://example.com/thai_ethnic_groups.jpg",
+            "video": null,
+            "tags": ["Ethnien", "Vielfalt", "Demografie"]
+        },
+        {
+            "kategorie": "Geschichte",
+            "thema": "Unabhängigkeit",
+            "beschreibung": "Thailand ist das einzige Land in Südostasien, das nie kolonisiert wurde.",
+            "fakten": [
+                "Thailand bewahrte seine Unabhängigkeit während der Kolonialzeit.",
+                "Durch geschickte Diplomatie konnte Thailand zwischen Kolonialmächten balancieren.",
+                "Der frühere Name Thailands war Siam; die Umbenennung erfolgte 1939."
+            ],
+            "bild": "https://example.com/thailand_independence.jpg",
+            "video": null,
+            "tags": ["Unabhängigkeit", "Siam", "Kolonialgeschichte"]
+        },
+        {
+            "kategorie": "Wirtschaft",
+            "thema": "Industrie",
+            "beschreibung": "Thailand ist ein bedeutender Akteur in der Automobilproduktion.",
+            "fakten": [
+                "Thailand wird oft als 'Detroit Asiens' bezeichnet.",
+                "Das Land ist ein wichtiger Produktionsstandort für japanische Automobilhersteller.",
+                "Die Automobilindustrie trägt erheblich zum BIP Thailands bei."
+            ],
+            "bild": "https://example.com/thai_automobile_industry.jpg",
+            "video": null,
+            "tags": ["Industrie", "Automobilproduktion", "Wirtschaft"]
+        },
+        {
+            "kategorie": "Tourismus",
+            "thema": "Einzigartige Attraktionen",
+            "beschreibung": "Thailand bietet einige weltweit einzigartige Sehenswürdigkeiten.",
+            "fakten": [
+                "Der Tempel Wat Rong Khun, bekannt als 'Weißer Tempel', ist für seine moderne Architektur berühmt.",
+                "Der 'Erawan-Wasserfall' im Erawan-Nationalpark hat sieben Stufen.",
+                "Der 'Schwimmende Markt' in Damnoen Saduak ist ein beliebtes Touristenziel."
+            ],
+            "bild": "https://example.com/thai_attractions.jpg",
+            "video": null,
+            "tags": ["Sehenswürdigkeiten", "Tempel", "Märkte"]
+        },
+        {
+            "kategorie": "Küche",
+            "thema": "Straßenessen",
+            "beschreibung": "Thailands Straßenküche ist weltweit für ihre Vielfalt und ihren Geschmack bekannt.",
+            "fakten": [
+                "Garküchen bieten Gerichte wie 'Som Tam' (Papayasalat) und 'Moo Ping' (gegrillte Schweinespieße) an.",
+                "Straßenessen ist oft günstiger als Restaurantgerichte.",
+                "Bangkok gilt als Paradies für Liebhaber von Straßenessen."
+            ],
+            "bild": "https://example.com/thai_street_food.jpg",
+            "video": null,
+            "tags": ["Straßenessen", "Kulinarisch", "Bangkok"]
+        },
+        {
+            "kategorie": "Religion",
+            "thema": "Geisterhäuser",
+            "beschreibung": "In Thailand sind Geisterhäuser ein fester Bestandteil des religiösen Lebens.",
+            "fakten": [
+                "Geisterhäuser werden errichtet, um Schutzgeistern eine Unterkunft zu bieten.",
+                "Sie stehen oft vor Häusern und Geschäften.",
+                "Tägliche Opfergaben wie Essen und Blumen sind üblich."
+            ],
+            "bild": "https://example.com/thai_spirit_houses.jpg",
+            "video": null,
+            "tags": ["Geisterhäuser", "Animismus", "Traditionen"]
+        },
+        {
+            "kategorie": "Sprache",
+            "thema": "Schrift",
+            "beschreibung": "Die thailändische Schrift hat eine einzigartige Struktur.",
+            "fakten": [
+                "Das Thai-Alphabet besteht aus 44 Konsonanten und 32 Vokalen.",
+                "Es gibt keine Groß- und Kleinschreibung im Thai.",
+                "Die Schrift wird von links nach rechts geschrieben."
+            ],
+            "bild": "https://example.com/thai_script.jpg",
+            "video": null,
+            "tags": ["Schrift", "Alphabet", "Linguistik"]
+        },
+        {
+            "kategorie": "Natur",
+            "thema": "Tierwelt",
+            "beschreibung": "Thailand beherbergt eine reiche Vielfalt an Tierarten.",
+            "fakten": [
+                "Der Elefant ist das Nationaltier Thailands.",
+                "In thailändischen Gewässern kann man den Walhai, den größten Fisch der Welt, antreffen.",
+                "Der Khao Sok Nationalpark ist Heimat zahlreicher Wildtierarten."
+            ],
+            "bild": "https://example.com/thai_wildlife.jpg",
+            "video": null,
+            "tags": ["Tierwelt", "Nationalparks", "Elefanten"]
+        }
+    ]
+    
