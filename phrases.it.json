@@ -1,30 +1,30 @@
 [
     {
         "de": "Hallo, wie geht es dir?",
-        "it": "Ciao, come stai?",
+        "th": "Ciao, come stai?",
         "umschrift": "Ciao, come stai?",
-        "forma_educata": "Buongiorno/Buonasera, come sta?",
-        "informale": "Ciao, come stai?",
+        "maenner": "Buongiorno/Buonasera, come sta?",
+        "frauen": "Ciao, come stai?",
         "erklaerung": "Begruessung und Frage nach dem Befinden.",
         "wann": "Um ein Gespraech zu beginnen.",
         "kategorie": "Gruesse"
     },
     {
         "de": "Entschuldigung, können Sie mir helfen?",
-        "it": "Scusi, può aiutarmi?",
+        "th": "Scusi, può aiutarmi?",
         "umschrift": "Scusi, può aiutarmi?",
-        "forma_educata": "Scusi, potrebbe aiutarmi?",
-        "informale": "Scusa, mi aiuti?",
+        "maenner": "Scusi, potrebbe aiutarmi?",
+        "frauen": "Scusa, mi aiuti?",
         "erklaerung": "Bitte um Hilfe in einer formellen oder informellen Situation.",
         "wann": "Wenn man etwas nicht versteht oder Hilfe benötigt.",
         "kategorie": "Bitten"
     },
     {
         "de": "Danke",
-        "it": "Grazie",
+        "th": "Grazie",
         "umschrift": "Grazie",
-        "forma_educata": "Grazie mille",
-        "informale": "Grazie",
+        "maenner": "Grazie mille",
+        "frauen": "Grazie",
         "erklaerung": "Ausdruck der Dankbarkeit.",
         "wann": "Um sich für eine Hilfe oder Gefälligkeit zu bedanken.",
         "kategorie": "Höflichkeit"
