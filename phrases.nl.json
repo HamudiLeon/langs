@@ -1,0 +1,683 @@
+[
+    {
+      "de": "Entschuldigung, ich habe es nicht gewusst",
+      "lang": "Het spijt me, dat wist ik niet.",
+      "umschrift": "",
+      "formel": "Neemt u me niet kwalijk, dat wist ik niet.",
+      "informel": "Sorry, dat wist ik niet.",
+      "description": "Verontschuldigen voor onwetendheid.",
+      "when": "In elke situatie waarin men zich wil verontschuldigen voor gebrek aan kennis.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
+      "lang": "Pardon, kan ik een drankje bestellen?",
+      "umschrift": "",
+      "formel": "Neemt u me niet kwalijk, mag ik een drankje bestellen?",
+      "informel": "Sorry, kan ik een drankje krijgen?",
+      "description": "Beleefd vragen of men een drankje kan bestellen.",
+      "when": "In een café, bar of restaurant.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Können Sie mir Ihre Meinung geben?!",
+      "lang": "Kunt u mij uw mening geven?",
+      "umschrift": "",
+      "formel": "Kunt u mij uw mening geven?",
+      "informel": "Kun je me je mening geven?",
+      "description": "Beleefde vraag om een mening of advies.",
+      "when": "Als men om een mening of feedback vraagt.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Entschuldigung, kann ich dich um etwas bitten?!",
+      "lang": "Pardon, mag ik u om een gunst vragen?",
+      "umschrift": "",
+      "formel": "Neemt u me niet kwalijk, mag ik u om een gunst vragen?",
+      "informel": "Sorry, kan ik je om een gunst vragen?",
+      "description": "Beleefd om een kleine gunst vragen.",
+      "when": "Wanneer men iemands tijd of hulp nodig heeft.",
+      "categorie": "Beleefdheid"
+    },
+    {
+      "de": "Hallo, kannst Du mir deine Meinung zu meiner APP geben? Ich habe hier thailändische Sätze, die ich von dir untersuchen lassen möchte. Sagst Du mir ob diese korrekt sind?",
+      "lang": "Hallo, kunt u mij uw mening geven over mijn app? Ik heb hier Thaise zinnen die ik door u wil laten controleren. Kunt u me vertellen of ze correct zijn?",
+      "umschrift": "",
+      "formel": "Goedendag, zou u mij uw mening kunnen geven over mijn app? Ik heb enkele Thaise zinnen die ik graag door u wil laten controleren. Kunt u aangeven of ze correct zijn?",
+      "informel": "Hé, kun je me je mening geven over mijn app? Ik heb hier Thaise zinnen die ik door jou wil laten checken. Zeg me alsjeblieft of ze kloppen.",
+      "description": "Vragen om feedback over de correctheid van Thaise zinnen in een app.",
+      "when": "Als men feedback zoekt op taalgebruik of vertalingen.",
+      "categorie": "Feedback"
+    },
+    {
+      "de": "Haben Sie einen Moment Zeit?!",
+      "lang": "Heeft u een momentje?",
+      "umschrift": "",
+      "formel": "Heeft u even tijd, alstublieft?",
+      "informel": "Heb je even?",
+      "description": "Beleefd vragen of iemand tijd heeft.",
+      "when": "Bij het starten van een beleefd gesprek.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Wie kann ich das machen?",
+      "lang": "Hoe kan ik dit doen?",
+      "umschrift": "",
+      "formel": "Kunt u mij vertellen hoe ik dit kan doen?",
+      "informel": "Hoe doe ik dit?",
+      "description": "Vragen hoe een bepaalde handeling moet worden uitgevoerd.",
+      "when": "Bij het zoeken naar uitleg of hulp.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Kann ich Ihnen helfen?",
+      "lang": "Kan ik u helpen?",
+      "umschrift": "",
+      "formel": "Kan ik u ergens mee helpen?",
+      "informel": "Kan ik je helpen?",
+      "description": "Aanbieden om te helpen.",
+      "when": "Wanneer iemand wellicht hulp kan gebruiken.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Woher wissen Sie das?",
+      "lang": "Hoe weet u dat?",
+      "umschrift": "",
+      "formel": "Hoe weet u dat?",
+      "informel": "Hoe weet je dat?",
+      "description": "Vragen naar de bron van een informatie.",
+      "when": "Als men nieuwsgierig is hoe iemand iets weet.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Wann ist ein guter Zeitpunkt?",
+      "lang": "Wanneer is een goed moment?",
+      "umschrift": "",
+      "formel": "Wanneer zou een geschikt moment zijn?",
+      "informel": "Wanneer is een goed moment?",
+      "description": "Vragen naar een geschikt tijdstip.",
+      "when": "Als men een afspraak of timing wil plannen.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Was empfehlen Sie?",
+      "lang": "Wat raadt u aan?",
+      "umschrift": "",
+      "formel": "Wat raadt u aan?",
+      "informel": "Wat raad je aan?",
+      "description": "Om een aanbeveling of suggestie vragen.",
+      "when": "Als men advies of een idee nodig heeft.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Gibt es eine andere Möglichkeit?",
+      "lang": "Is er een andere mogelijkheid?",
+      "umschrift": "",
+      "formel": "Is er een alternatieve optie?",
+      "informel": "Is er nog een andere manier?",
+      "description": "Vragen naar alternatieven.",
+      "when": "Als men een andere oplossing zoekt.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Sind Sie sicher?",
+      "lang": "Weet u het zeker?",
+      "umschrift": "",
+      "formel": "Weet u het zeker?",
+      "informel": "Weet je het zeker?",
+      "description": "Om bevestiging of zekerheid vragen.",
+      "when": "Als men twijfelt of bevestiging zoekt.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Kann ich etwas fragen?",
+      "lang": "Mag ik iets vragen?",
+      "umschrift": "",
+      "formel": "Mag ik u iets vragen?",
+      "informel": "Mag ik je wat vragen?",
+      "description": "Toestemming vragen om een vraag te stellen.",
+      "when": "Als men beleefd om informatie wil verzoeken.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Kann ich das anprobieren?",
+      "lang": "Mag ik dit passen?",
+      "umschrift": "",
+      "formel": "Mag ik dit even passen?",
+      "informel": "Kan ik dit passen?",
+      "description": "Vragen of men kleding mag passen.",
+      "when": "In een kledingwinkel.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Haben Sie das in einer anderen Größe?",
+      "lang": "Heeft u dit in een andere maat?",
+      "umschrift": "",
+      "formel": "Heeft u deze in een andere maat?",
+      "informel": "Heb je dit in een andere maat?",
+      "description": "Vragen naar een andere maat van een artikel.",
+      "when": "Als de huidige maat niet geschikt is.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Haben Sie einen Rabatt?",
+      "lang": "Heeft u korting?",
+      "umschrift": "",
+      "formel": "Is er een korting mogelijk?",
+      "informel": "Heb je korting?",
+      "description": "Vragen of er korting beschikbaar is.",
+      "when": "Als men een prijsreductie zoekt.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Kann ich das zurückgeben?",
+      "lang": "Kan ik dit retourneren?",
+      "umschrift": "",
+      "formel": "Mag ik dit retourneren?",
+      "informel": "Kan ik dit terugbrengen?",
+      "description": "Vragen of men een artikel kan terugbrengen.",
+      "when": "Als men een aankoop wil ruilen of teruggeven.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Gibt es dieses Produkt in einer anderen Farbe?",
+      "lang": "Heeft u dit product in een andere kleur?",
+      "umschrift": "",
+      "formel": "Heeft u dit product ook in een andere kleur?",
+      "informel": "Heb je dit ook in een andere kleur?",
+      "description": "Naar een andere kleurvariant vragen.",
+      "when": "Bij het winkelen voor producten met meerdere kleuren.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Wo ist die Toilette?",
+      "lang": "Waar is het toilet?",
+      "umschrift": "",
+      "formel": "Kunt u mij vertellen waar het toilet is?",
+      "informel": "Waar is de wc?",
+      "description": "Vragen naar de locatie van het toilet.",
+      "when": "Als men een toilet zoekt in het openbaar.",
+      "categorie": "Dagelijks leven en oriëntatie"
+    },
+    {
+      "de": "Wie viel kostet das?",
+      "lang": "Hoeveel kost dat?",
+      "umschrift": "",
+      "formel": "Kunt u mij de prijs vertellen?",
+      "informel": "Wat kost dit?",
+      "description": "Vragen naar de prijs van een artikel.",
+      "when": "Bij het winkelen of prijsnavraag.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Können Sie mir helfen?",
+      "lang": "Kunt u mij helpen?",
+      "umschrift": "",
+      "formel": "Kunt u mij helpen, alstublieft?",
+      "informel": "Kun je me helpen?",
+      "description": "Om hulp vragen.",
+      "when": "Als men ondersteuning nodig heeft.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Kann ich mit Karte bezahlen?",
+      "lang": "Kan ik met pin betalen?",
+      "umschrift": "",
+      "formel": "Mag ik met mijn pinpas betalen?",
+      "informel": "Kan ik pinnen?",
+      "description": "Vragen of men met kaart kan betalen.",
+      "when": "Bij de kassa in winkels of restaurants.",
+      "categorie": "Winkelen en handel"
+    },
+    {
+      "de": "Entschuldigen Sie, ich bin verloren.",
+      "lang": "Pardon, ik ben verdwaald.",
+      "umschrift": "",
+      "formel": "Neemt u me niet kwalijk, ik ben de weg kwijt.",
+      "informel": "Sorry, ik ben verdwaald.",
+      "description": "Aangeven dat men is verdwaald.",
+      "when": "Als men hulp nodig heeft bij het vinden van de weg.",
+      "categorie": "Dagelijks leven en oriëntatie"
+    },
+    {
+      "de": "Gibt es hier WLAN?",
+      "lang": "Is er hier wifi?",
+      "umschrift": "",
+      "formel": "Kunt u mij vertellen of er hier wifi beschikbaar is?",
+      "informel": "Is hier wifi?",
+      "description": "Vragen naar wifi-toegang.",
+      "when": "In cafés, restaurants of openbare ruimtes.",
+      "categorie": "Technologie en communicatie"
+    },
+    {
+      "de": "Können Sie ein Foto von uns machen?",
+      "lang": "Kunt u een foto van ons maken?",
+      "umschrift": "",
+      "formel": "Zou u een foto van ons kunnen maken?",
+      "informel": "Kun je een foto van ons maken?",
+      "description": "Beleefd vragen of iemand een foto kan maken.",
+      "when": "Als men een groeps- of koppelportret wil.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Ich brauche einen Arzt.",
+      "lang": "Ik heb een dokter nodig.",
+      "umschrift": "",
+      "formel": "Ik heb een arts nodig, alstublieft.",
+      "informel": "Ik heb een dokter nodig.",
+      "description": "Aangeven dat men medische hulp nodig heeft.",
+      "when": "In noodgevallen of bij gezondheidsproblemen.",
+      "categorie": "Gezondheid en veiligheid"
+    },
+    {
+      "de": "Ich bin Krank.",
+      "lang": "Ik ben ziek.",
+      "umschrift": "",
+      "formel": "Ik voel me niet goed.",
+      "informel": "Ik ben ziek.",
+      "description": "Aangeven dat men zich niet lekker voelt.",
+      "when": "Wanneer men ziek is of zich onwel voelt.",
+      "categorie": "Gezondheid en veiligheid"
+    },
+    {
+      "de": "Ich habe Verletzt.",
+      "lang": "Ik ben gewond.",
+      "umschrift": "",
+      "formel": "Ik ben gewond, kunt u helpen?",
+      "informel": "Ik ben gewond.",
+      "description": "Aangeven dat men verwond is.",
+      "when": "Bij letsel of behoefte aan medische hulp.",
+      "categorie": "Gezondheid en veiligheid"
+    },
+    {
+      "de": "Wo ist der nächste Geldautomat?",
+      "lang": "Waar is de dichtstbijzijnde pinautomaat?",
+      "umschrift": "",
+      "formel": "Kunt u mij vertellen waar de dichtstbijzijnde geldautomaat is?",
+      "informel": "Waar is de dichtstbijzijnde pinautomaat?",
+      "description": "Vragen waar men geld kan opnemen.",
+      "when": "Als men contant geld wil opnemen.",
+      "categorie": "Dagelijks leven en oriëntatie"
+    },
+    {
+      "de": "Können Sie das bitte erklären?",
+      "lang": "Kunt u dat uitleggen, alstublieft?",
+      "umschrift": "",
+      "formel": "Zou u mij dat kunnen uitleggen, alstublieft?",
+      "informel": "Kun je dat even uitleggen?",
+      "description": "Beleefd om verduidelijking vragen.",
+      "when": "Als men meer details of uitleg nodig heeft.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Ich möchte bitte Reis mit viel Gemüse.",
+      "lang": "Mag ik alsjeblieft rijst met veel groenten?",
+      "umschrift": "",
+      "formel": "Zou ik alstublieft rijst met extra groenten kunnen krijgen?",
+      "informel": "Kan ik rijst met veel groenten hebben?",
+      "description": "Om een gerecht met veel groenten vragen.",
+      "when": "Tijdens het bestellen in een restaurant.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit frischem Gemüse?",
+      "lang": "Heeft u gebakken rijst met verse groenten?",
+      "umschrift": "",
+      "formel": "Heeft u gebakken rijst met verse groenten, alstublieft?",
+      "informel": "Heb je gebakken rijst met verse groenten?",
+      "description": "Vragen of er gebakken rijst met verse groenten beschikbaar is.",
+      "when": "Bij het kiezen van een gerecht in een restaurant.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit Gemüse?",
+      "lang": "Heeft u gebakken rijst met groenten?",
+      "umschrift": "",
+      "formel": "Heeft u gebakken rijst met groenten?",
+      "informel": "Heb je gebakken rijst met groenten?",
+      "description": "Vragen naar een variant met groenten.",
+      "when": "In een restaurant.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Ist das Fleisch drin?",
+      "lang": "Zit er vlees in?",
+      "umschrift": "",
+      "formel": "Bevat dit gerecht vlees?",
+      "informel": "Zit er vlees in?",
+      "description": "Vragen of een gerecht vlees bevat.",
+      "when": "Als men vlees wil vermijden.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Haben Sie Essen ohne Fleisch?",
+      "lang": "Heeft u gerechten zonder vlees?",
+      "umschrift": "",
+      "formel": "Heeft u een vegetarische optie (zonder vlees)?",
+      "informel": "Heb je iets zonder vlees?",
+      "description": "Vragen of er opties zonder vlees zijn.",
+      "when": "In een restaurant, als men vegetarisch wil eten.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Haben Sie vegetarisches Essen?",
+      "lang": "Heeft u vegetarische gerechten?",
+      "umschrift": "",
+      "formel": "Heeft u vegetarische opties?",
+      "informel": "Heb je vegetarisch eten?",
+      "description": "Vragen of er vegetarische opties zijn.",
+      "when": "Als men een vegetarisch gerecht zoekt.",
+      "categorie": "Eten en drinken"
+    },
+    {
+      "de": "Hallo oder Auf Wiedersehen",
+      "lang": "Hallo / Tot ziens",
+      "umschrift": "",
+      "formel": "Goedendag / Tot ziens",
+      "informel": "Hoi / Doei",
+      "description": "Algemene begroeting of afscheid.",
+      "when": "Bij aankomst of vertrek.",
+      "categorie": "Begroeting en afscheid"
+    },
+    {
+      "de": "Auf Wiedersehen",
+      "lang": "Tot ziens",
+      "umschrift": "",
+      "formel": "Tot ziens",
+      "informel": "Doei",
+      "description": "Formeel afscheid.",
+      "when": "Bij formeel vertrek.",
+      "categorie": "Begroeting en afscheid"
+    },
+    {
+      "de": "Ich gehe jetzt.",
+      "lang": "Ik ga nu.",
+      "umschrift": "",
+      "formel": "Ik vertrek nu.",
+      "informel": "Ik ga ervandoor.",
+      "description": "Aangeven dat men weggaat.",
+      "when": "Bij vertrek uit een ruimte of groep.",
+      "categorie": "Begroeting en afscheid"
+    },
+    {
+      "de": "Bis später / Bis zum nächsten Mal",
+      "lang": "Tot later / Tot de volgende keer",
+      "umschrift": "",
+      "formel": "Tot de volgende keer",
+      "informel": "Tot straks / Tot later",
+      "description": "Aangeven dat men elkaar later weer ziet.",
+      "when": "Bij een geplande volgende ontmoeting.",
+      "categorie": "Begroeting en afscheid"
+    },
+    {
+      "de": "Viel Glück",
+      "lang": "Veel succes",
+      "umschrift": "",
+      "formel": "Veel succes",
+      "informel": "Succes!",
+      "description": "Iemand succes wensen.",
+      "when": "Als aanmoediging voor iets dat komen gaat.",
+      "categorie": "Begroeting en afscheid"
+    },
+    {
+      "de": "Danke",
+      "lang": "Dank u",
+      "umschrift": "",
+      "formel": "Dank u wel",
+      "informel": "Bedankt",
+      "description": "Dankbaarheid uitspreken.",
+      "when": "Als men dankbaar is voor hulp of een gift.",
+      "categorie": "Dankbaarheid en verontschuldiging"
+    },
+    {
+      "de": "Entschuldigung",
+      "lang": "Neemt u me niet kwalijk",
+      "umschrift": "",
+      "formel": "Neemt u me niet kwalijk",
+      "informel": "Sorry",
+      "description": "Om verontschuldiging vragen of aandacht trekken.",
+      "when": "Bij het onderbreken of om hulp vragen.",
+      "categorie": "Dankbaarheid en verontschuldiging"
+    },
+    {
+      "de": "Kein Problem / Schon gut",
+      "lang": "Geen probleem",
+      "umschrift": "",
+      "formel": "Geen probleem",
+      "informel": "Geeft niks",
+      "description": "Uiten dat het in orde is.",
+      "when": "Om gerust te stellen of fouten te vergeven.",
+      "categorie": "Dankbaarheid en verontschuldiging"
+    },
+    {
+      "de": "Sprechen Sie bitte langsam.",
+      "lang": "Wilt u alstublieft langzamer spreken?",
+      "umschrift": "",
+      "formel": "Zou u wat langzamer kunnen spreken, alstublieft?",
+      "informel": "Kun je wat langzamer praten?",
+      "description": "Vragen om langzamer te spreken.",
+      "when": "Als men moeite heeft om te volgen.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Bitte wiederholen.",
+      "lang": "Kunt u dat herhalen, alstublieft?",
+      "umschrift": "",
+      "formel": "Kunt u dat nogmaals zeggen, alstublieft?",
+      "informel": "Kun je dat nog een keer zeggen?",
+      "description": "Vragen om herhaling.",
+      "when": "Als men iets niet goed heeft verstaan.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Verstehen Sie?",
+      "lang": "Begrijpt u het?",
+      "umschrift": "",
+      "formel": "Begrijpt u het?",
+      "informel": "Snap je het?",
+      "description": "Vragen of de ander het begrijpt.",
+      "when": "Om te controleren of de boodschap is overgekomen.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Ich verstehe nicht.",
+      "lang": "Ik begrijp het niet.",
+      "umschrift": "",
+      "formel": "Ik begrijp het niet.",
+      "informel": "Ik snap het niet.",
+      "description": "Aangeven dat men iets niet begrijpt.",
+      "when": "Als er onduidelijkheden zijn.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Entschuldigen Sie die Störung.",
+      "lang": "Neem me niet kwalijk voor de overlast.",
+      "umschrift": "",
+      "formel": "Neemt u me niet kwalijk voor de onderbreking.",
+      "informel": "Sorry dat ik stoor.",
+      "description": "Verontschuldigen voor het storen.",
+      "when": "Als men iemands tijd claimt.",
+      "categorie": "Beleefde verzoeken en vragen"
+    },
+    {
+      "de": "Vielleicht",
+      "lang": "Misschien",
+      "umschrift": "",
+      "formel": "Misschien",
+      "informel": "Misschien",
+      "description": "Aangeven van onzekerheid.",
+      "when": "Als men niet zeker is.",
+      "categorie": "Besluitvorming en onzekerheden"
+    },
+    {
+      "de": "Wohin soll ich gehen?",
+      "lang": "Waar moet ik heen gaan?",
+      "umschrift": "",
+      "formel": "Waar raad u mij aan heen te gaan?",
+      "informel": "Waar zou ik naartoe gaan?",
+      "description": "Vragen om een aanbeveling voor een bestemming.",
+      "when": "Als men orientatie of advies zoekt.",
+      "categorie": "Besluitvorming en onzekerheden"
+    },
+    {
+      "de": "Ich gehe zuerst.",
+      "lang": "Ik ga als eerste.",
+      "umschrift": "",
+      "formel": "Ik zal als eerste gaan.",
+      "informel": "Ik ga wel eerst.",
+      "description": "Aangeven dat men eerst zal gaan.",
+      "when": "Als men het initiatief neemt om als eerste te vertrekken of iets te doen.",
+      "categorie": "Besluitvorming en onzekerheden"
+    },
+    {
+      "de": "Es tut mir leid für deinen Verlust.",
+      "lang": "Het spijt me voor uw verlies.",
+      "umschrift": "",
+      "formel": "Gecondoleerd met uw verlies.",
+      "informel": "Het spijt me, gecondoleerd.",
+      "description": "Meeleven tonen bij een verlies.",
+      "when": "Bij het uiten van medeleven na een overlijden.",
+      "categorie": "Emotionele uitdrukkingen"
+    },
+    {
+      "de": "Ich freue mich für dich.",
+      "lang": "Ik ben blij voor u.",
+      "umschrift": "",
+      "formel": "Ik ben blij voor u.",
+      "informel": "Ik ben blij voor je.",
+      "description": "Blijdschap tonen voor andermans succes.",
+      "when": "Als iemand goed nieuws heeft of iets bereikt.",
+      "categorie": "Emotionele uitdrukkingen"
+    },
+    {
+      "de": "Ich bin stolz auf dich.",
+      "lang": "Ik ben trots op u.",
+      "umschrift": "",
+      "formel": "Ik ben trots op u.",
+      "informel": "Ik ben trots op je.",
+      "description": "Trots uitspreken.",
+      "when": "Als men iemand wil waarderen voor zijn prestatie.",
+      "categorie": "Emotionele uitdrukkingen"
+    },
+    {
+      "de": "Ich fange an zu essen.",
+      "lang": "Ik begin te eten.",
+      "umschrift": "",
+      "formel": "Ik zal beginnen met eten.",
+      "informel": "Ik ga eten.",
+      "description": "Aankondigen dat men begint met eten.",
+      "when": "Voorafgaand aan de maaltijd.",
+      "categorie": "Kleine dagelijkse interacties"
+    },
+    {
+      "de": "Gut gemacht!",
+      "lang": "Goed gedaan!",
+      "umschrift": "",
+      "formel": "Uitstekend gedaan!",
+      "informel": "Goed zo!",
+      "description": "Lof uitspreken voor een goede prestatie.",
+      "when": "Als iemand iets goed heeft gedaan.",
+      "categorie": "Kleine dagelijkse interacties"
+    },
+    {
+      "de": "Fantastisch!",
+      "lang": "Fantastisch!",
+      "umschrift": "",
+      "formel": "Fantastisch!",
+      "informel": "Geweldig!",
+      "description": "Admiraal of enthousiasme uitdrukken.",
+      "when": "Als iets indrukwekkend of opmerkelijk is.",
+      "categorie": "Kleine dagelijkse interacties"
+    },
+    {
+      "de": "Sehr schlau!",
+      "lang": "Heel slim!",
+      "umschrift": "",
+      "formel": "Zeer intelligent!",
+      "informel": "Wat slim!",
+      "description": "Iemand prijzen om zijn intelligentie of vindingrijkheid.",
+      "when": "Bij het erkennen van iemand zijn slimme idee.",
+      "categorie": "Kleine dagelijkse interacties"
+    },
+    {
+      "de": "Gibt es ein Problem?",
+      "lang": "Is er een probleem?",
+      "umschrift": "",
+      "formel": "Is er een probleem?",
+      "informel": "Is er iets mis?",
+      "description": "Vragen of er een probleem is.",
+      "when": "Als men voelt dat er iets niet goed gaat.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Kein Problem.",
+      "lang": "Geen probleem.",
+      "umschrift": "",
+      "formel": "Geen probleem.",
+      "informel": "Maakt niet uit.",
+      "description": "Aangeven dat er geen probleem is.",
+      "when": "Om gerust te stellen.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Wohin gehst du?",
+      "lang": "Waar gaat u naartoe?",
+      "umschrift": "",
+      "formel": "Waar gaat u heen?",
+      "informel": "Waar ga je naartoe?",
+      "description": "Vragen waar iemand naartoe gaat.",
+      "when": "In een alledaags gesprek om iemands bestemming te weten.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Was?",
+      "lang": "Wat zei u?",
+      "umschrift": "",
+      "formel": "Wat zei u, alstublieft?",
+      "informel": "Wat?",
+      "description": "Vragen om herhaling als men iets niet heeft verstaan.",
+      "when": "Als men iets niet heeft begrepen.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Kannst du das reparieren?",
+      "lang": "Kunt u dit repareren?",
+      "umschrift": "",
+      "formel": "Zou u dit kunnen repareren?",
+      "informel": "Kun je dit maken?",
+      "description": "Vragen of iets gemaakt kan worden.",
+      "when": "Bij een kapot voorwerp.",
+      "categorie": "Relevante vragen en zinnen"
+    },
+    {
+      "de": "Glückwunsch!",
+      "lang": "Gefeliciteerd!",
+      "umschrift": "",
+      "formel": "Mijn felicitaties!",
+      "informel": "Gefeliciteerd!",
+      "description": "Iemand feliciteren met een prestatie.",
+      "when": "Bij succes of een bijzondere gebeurtenis.",
+      "categorie": "Positieve feedback"
+    },
+    {
+      "de": "Gut gemacht!",
+      "lang": "Goed gedaan!",
+      "umschrift": "",
+      "formel": "Uitstekend gedaan!",
+      "informel": "Goed gedaan!",
+      "description": "Compliment voor een goede prestatie.",
+      "when": "Als iemand goed werk heeft geleverd.",
+      "categorie": "Positieve feedback"
+    },
+    {
+      "de": "Kein Glück.",
+      "lang": "Geen geluk.",
+      "umschrift": "",
+      "formel": "Helaas geen geluk.",
+      "informel": "Pech gehad.",
+      "description": "Uitdrukken dat er geen geluk was.",
+      "when": "Als iets niet goed is afgelopen.",
+      "categorie": "Positieve feedback"
+    }
+  ]
+  
