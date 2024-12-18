@@ -398,6 +398,123 @@
             "bild": "https://example.com/phuket_vegetarian_festival.jpg",
             "video": null,
             "tags": ["Festival", "Kultur", "Phuket"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Nationalhymne",
+            "beschreibung": "Die thailändische Nationalhymne wird täglich in öffentlichen Bereichen gespielt.",
+            "fakten": [
+                "Um 8:00 und 18:00 Uhr erklingt die Nationalhymne in öffentlichen Räumen, Parks und Verkehrsmitteln.",
+                "Während der Hymne ist es üblich, stehen zu bleiben und Respekt zu zeigen.",
+                "Diese Praxis stärkt das Nationalbewusstsein und den Gemeinschaftssinn."
+            ],
+            "bild": "https://example.com/thai_national_anthem.jpg",
+            "video": null,
+            "tags": ["Kultur", "Nationalhymne", "Tradition"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Königliche Familie",
+            "beschreibung": "Die thailändische Monarchie genießt hohen Respekt und Verehrung.",
+            "fakten": [
+                "Bilder des Königs und der königlichen Familie sind im ganzen Land präsent.",
+                "Kritik an der Monarchie ist gesetzlich verboten und kann strafrechtliche Konsequenzen haben.",
+                "Der Geburtstag des Königs wird als Nationalfeiertag gefeiert."
+            ],
+            "bild": "https://example.com/thai_monarchy.jpg",
+            "video": null,
+            "tags": ["Kultur", "Monarchie", "Tradition"]
+        },
+        {
+            "kategorie": "Küche",
+            "thema": "Straßenessen",
+            "beschreibung": "Thailands Straßenküche ist weltweit für ihre Vielfalt und ihren Geschmack bekannt.",
+            "fakten": [
+                "Garküchen bieten Gerichte wie 'Som Tam' (Papayasalat) und 'Moo Ping' (gegrillte Schweinespieße) an.",
+                "Straßenessen ist oft günstiger als Restaurantgerichte.",
+                "Bangkok gilt als Paradies für Liebhaber von Straßenessen."
+            ],
+            "bild": "https://example.com/thai_street_food.jpg",
+            "video": null,
+            "tags": ["Küche", "Straßenessen", "Kultur"]
+        },
+        {
+            "kategorie": "Geographie",
+            "thema": "Inseln",
+            "beschreibung": "Thailand verfügt über zahlreiche Inseln mit vielfältigen Landschaften.",
+            "fakten": [
+                "Phuket ist die größte Insel Thailands mit einer Fläche von 543 km².",
+                "Koh Samui ist die zweitgrößte Insel und bekannt für ihre Strände.",
+                "Koh Chang, die drittgrößte Insel, ist Teil eines Nationalparks."
+            ],
+            "bild": "https://example.com/thai_islands.jpg",
+            "video": null,
+            "tags": ["Geographie", "Inseln", "Tourismus"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Farben der Wochentage",
+            "beschreibung": "In Thailand sind bestimmte Farben traditionell mit den Wochentagen verbunden.",
+            "fakten": [
+                "Montag ist mit Gelb assoziiert, Dienstag mit Rosa, Mittwoch mit Grün, Donnerstag mit Orange, Freitag mit Blau, Samstag mit Lila und Sonntag mit Rot.",
+                "Viele Thailänder tragen Kleidung in der Farbe des jeweiligen Tages, was als glücksbringend gilt.",
+                "Diese Tradition hat ihre Wurzeln im Hinduismus und ist in der thailändischen Kultur fest verankert."
+            ],
+            "bild": "https://example.com/colors_of_week.jpg",
+            "video": null,
+            "tags": ["Kultur", "Tradition", "Farben"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Körperliche Gesten",
+            "beschreibung": "Bestimmte körperliche Gesten haben in Thailand besondere Bedeutungen.",
+            "fakten": [
+                "Es gilt als unhöflich, jemandem den Kopf zu berühren, da der Kopf als heiligster Teil des Körpers betrachtet wird.",
+                "Die Füße gelten als unrein; es ist respektlos, mit den Füßen auf Personen oder religiöse Objekte zu zeigen.",
+                "Beim Sitzen in Tempeln sollten die Füße niemals in Richtung von Buddha-Statuen zeigen."
+            ],
+            "bild": "https://example.com/thai_gestures.jpg",
+            "video": null,
+            "tags": ["Kultur", "Gesten", "Tradition"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Lächeln",
+            "beschreibung": "Thailand wird oft als 'Land des Lächelns' bezeichnet.",
+            "fakten": [
+                "Das Lächeln wird in Thailand in vielen sozialen Situationen verwendet, um Emotionen auszudrücken, Konflikte zu vermeiden oder Höflichkeit zu zeigen.",
+                "Es gibt verschiedene Arten von Lächeln, die unterschiedliche Bedeutungen haben, von Freude bis Verlegenheit.",
+                "Ein Lächeln kann auch als Entschuldigung oder Dankeschön dienen."
+            ],
+            "bild": "https://example.com/thai_smile.jpg",
+            "video": null,
+            "tags": ["Kultur", "Lächeln", "Tradition"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Geisterhäuser",
+            "beschreibung": "Geisterhäuser sind kleine Schreine, die in Thailand weit verbreitet sind.",
+            "fakten": [
+                "Sie werden errichtet, um die Geister des Landes zu besänftigen und ihnen einen Wohnsitz zu bieten.",
+                "Geisterhäuser stehen oft vor Gebäuden und werden täglich mit Opfergaben wie Essen, Getränken und Blumen versorgt.",
+                "Dieser Brauch spiegelt den tief verwurzelten Animismus in der thailändischen Kultur wider."
+            ],
+            "bild": "https://example.com/spirit_house.jpg",
+            "video": null,
+            "tags": ["Kultur", "Tradition", "Animismus"]
+        },
+        {
+            "kategorie": "Kultur",
+            "thema": "Khon-Tanz",
+            "beschreibung": "Khon ist eine traditionelle thailändische Tanzform, die Masken und aufwendige Kostüme beinhaltet.",
+            "fakten": [
+                "Der Khon-Tanz stellt Szenen aus dem thailändischen Epos Ramakien dar.",
+                "Früher wurde Khon ausschließlich von Männern aufgeführt, heute nehmen auch Frauen daran teil.",
+                "Die Tänzer tragen kunstvoll gestaltete Masken und führen präzise, stilisierte Bewegungen aus."
+            ],
+            "bild": "https://example.com/khon_dance.jpg",
+            "video": null,
+            "tags": ["Kultur", "Tanz", "Tradition"]
         }
         
     ]
