@@ -17,5 +17,12 @@
   , "name": "Niederlands"
   , "description":"Niederländische Sprache"
   }
+  ,
+  {
+    "speach-lang":"fr-FR"
+  , "key": "fr"
+  , "name": "Französisch"
+  , "description":"Französisch Sprache"
+  }
 
 ]
