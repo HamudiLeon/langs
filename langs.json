@@ -1,12 +1,12 @@
 [
   {
-    "language":"Thai"
+    "speach-lang":"th-TH"
   , "key": "thai"
   , "name": "Thailand"
   , "description":"Thailand language"
   },
   {
-    "language":"Italian"
+    "speach-lang":"it-IT"
   , "key": "it"
   , "name": "Italien"
   , "description":"Italien Language"
