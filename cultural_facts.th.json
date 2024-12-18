@@ -1,0 +1,15 @@
+[ 
+    {
+    "kategorie": "Kultur",
+    "thema": "Feste",
+    "beschreibung": "Songkran ist das thailändische Neujahr und eines der größten Feste des Landes.",
+    "fakten": [
+        "Songkran wird normalerweise vom 13. bis 15. April gefeiert.",
+        "Während Songkran werden Wasserfeste gefeiert.",
+        "Es ist Brauch, älteren Menschen Respekt zu erweisen, indem man Wasser über ihre Hände gießt."
+    ],
+    "bild": "https://example.com/songkran.jpg",
+    "video": "https://www.youtube.com/watch?v=your_video_id",
+    "tags": ["Fest", "Wasserfest", "April"]
+ } 
+]
