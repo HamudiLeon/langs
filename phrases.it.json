@@ -1,32 +1,32 @@
 [
-    {
+     {
         "de": "Hallo, wie geht es dir?",
-        "th": "Ciao, come stai?",
+        "lang": "Ciao, come stai?",
         "umschrift": "Ciao, come stai?",
-        "maenner": "Buongiorno/Buonasera, come sta?",
-        "frauen": "Ciao, come stai?",
-        "erklaerung": "Begruessung und Frage nach dem Befinden.",
-        "wann": "Um ein Gespraech zu beginnen.",
-        "kategorie": "Gruesse"
+        "formel": "Buongiorno/Buonasera, come sta?",
+        "informel": "Ciao, come stai?",
+        "description": "Begruessung und Frage nach dem Befinden.",
+        "when": "Um ein Gespraech zu beginnen.",
+        "categorie": "Gruesse"
     },
     {
         "de": "Entschuldigung, können Sie mir helfen?",
-        "th": "Scusi, può aiutarmi?",
+        "lang": "Scusi, può aiutarmi?",
         "umschrift": "Scusi, può aiutarmi?",
-        "maenner": "Scusi, potrebbe aiutarmi?",
-        "frauen": "Scusa, mi aiuti?",
-        "erklaerung": "Bitte um Hilfe in einer formellen oder informellen Situation.",
-        "wann": "Wenn man etwas nicht versteht oder Hilfe benötigt.",
-        "kategorie": "Bitten"
+        "formel": "Scusi, potrebbe aiutarmi?",
+        "informel": "Scusa, mi aiuti?",
+        "description": "Bitte um Hilfe in einer formellen oder informellen Situation.",
+        "when": "Wenn man etwas nicht versteht oder Hilfe benötigt.",
+        "categorie": "Bitten"
     },
     {
         "de": "Danke",
-        "th": "Grazie",
+        "lang": "Grazie",
         "umschrift": "Grazie",
-        "maenner": "Grazie mille",
-        "frauen": "Grazie",
-        "erklaerung": "Ausdruck der Dankbarkeit.",
-        "wann": "Um sich für eine Hilfe oder Gefälligkeit zu bedanken.",
-        "kategorie": "Höflichkeit"
+        "formel": "Grazie mille",
+        "informel": "Grazie",
+        "description": "Ausdruck der Dankbarkeit.",
+        "when": "Um sich für eine Hilfe oder Gefälligkeit zu bedanken.",
+        "categorie": "Höflichkeit"
     }
 ]
