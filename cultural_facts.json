@@ -11,5 +11,136 @@
     "bild": "https://example.com/songkran.jpg",
     "video": "https://www.youtube.com/watch?v=your_video_id",
     "tags": ["Fest", "Wasserfest", "April"]
- } 
+ } ,
+
+    {
+        "kategorie": "Geographie",
+        "thema": "Lage",
+        "beschreibung": "Thailand liegt in Südostasien und grenzt an Myanmar, Laos, Kambodscha und Malaysia.",
+        "fakten": [
+            "Thailand erstreckt sich über eine Fläche von 513.115 km².",
+            "Die Hauptstadt und größte Stadt Thailands ist Bangkok.",
+            "Thailand hat eine Küstenlinie von etwa 3.219 km."
+        ],
+        "bild": "https://example.com/thailand_map.jpg",
+        "video": null,
+        "tags": ["Geographie", "Südostasien", "Bangkok"]
+    },
+    {
+        "kategorie": "Bevölkerung",
+        "thema": "Demografie",
+        "beschreibung": "Thailand hat eine vielfältige Bevölkerung mit verschiedenen ethnischen Gruppen.",
+        "fakten": [
+            "Die geschätzte Bevölkerung Thailands beträgt etwa 65,9 Millionen Menschen.",
+            "Die offizielle Sprache ist Thai.",
+            "Etwa 94% der Bevölkerung sind Buddhisten."
+        ],
+        "bild": "https://example.com/thai_people.jpg",
+        "video": null,
+        "tags": ["Bevölkerung", "Demografie", "Religion"]
+    },
+    {
+        "kategorie": "Kultur",
+        "thema": "Feste",
+        "beschreibung": "Songkran ist das thailändische Neujahr und eines der größten Feste des Landes.",
+        "fakten": [
+            "Songkran wird normalerweise vom 13. bis 15. April gefeiert.",
+            "Während Songkran werden Wasserfeste gefeiert.",
+            "Es ist Brauch, älteren Menschen Respekt zu erweisen, indem man Wasser über ihre Hände gießt."
+        ],
+        "bild": "https://example.com/songkran.jpg",
+        "video": "https://www.youtube.com/watch?v=your_video_id",
+        "tags": ["Fest", "Wasserfest", "April"]
+    },
+    {
+        "kategorie": "Geschichte",
+        "thema": "Sukhothai-Königreich",
+        "beschreibung": "Das Sukhothai-Königreich gilt als das erste thailändische Königreich und existierte vom 13. bis 15. Jahrhundert.",
+        "fakten": [
+            "Sukhothai bedeutet 'Morgenröte des Glücks'.",
+            "König Ramkhamhaeng wird die Einführung des Thai-Alphabets zugeschrieben.",
+            "Die Sukhothai-Periode wird oft als goldenes Zeitalter der thailändischen Kultur betrachtet."
+        ],
+        "bild": "https://example.com/sukhothai.jpg",
+        "video": null,
+        "tags": ["Geschichte", "Sukhothai", "Königreich"]
+    },
+    {
+        "kategorie": "Wirtschaft",
+        "thema": "Landwirtschaft",
+        "beschreibung": "Thailand ist einer der weltweit größten Exporteure von Reis.",
+        "fakten": [
+            "Reis ist das Hauptnahrungsmittel und wird auf etwa der Hälfte der landwirtschaftlichen Fläche angebaut.",
+            "Thailand exportiert jährlich Millionen Tonnen Reis.",
+            "Neben Reis sind Gummi, Zucker und Tapioka wichtige Agrarprodukte."
+        ],
+        "bild": "https://example.com/thai_rice_field.jpg",
+        "video": null,
+        "tags": ["Wirtschaft", "Landwirtschaft", "Reis"]
+    },
+    {
+        "kategorie": "Tourismus",
+        "thema": "Beliebte Reiseziele",
+        "beschreibung": "Thailand ist bekannt für seine touristischen Attraktionen.",
+        "fakten": [
+            "Bangkok ist für seine Tempel und lebhaften Märkte bekannt.",
+            "Chiang Mai bietet kulturelle Sehenswürdigkeiten und Berglandschaften.",
+            "Phuket und Koh Samui sind für ihre Strände und Resorts berühmt."
+        ],
+        "bild": "https://example.com/thailand_tourism.jpg",
+        "video": null,
+        "tags": ["Tourismus", "Reiseziele", "Sehenswürdigkeiten"]
+    },
+    {
+        "kategorie": "Küche",
+        "thema": "Thailändische Gerichte",
+        "beschreibung": "Die thailändische Küche ist für ihre Vielfalt und intensiven Aromen bekannt.",
+        "fakten": [
+            "Pad Thai ist ein beliebtes Nudelgericht mit gebratenen Reisnudeln.",
+            "Tom Yum ist eine würzige und saure Suppe mit Garnelen.",
+            "Grünes Curry (Kaeng Khiao Wan) ist ein bekanntes thailändisches Currygericht."
+        ],
+        "bild": "https://example.com/thai_food.jpg",
+        "video": null,
+        "tags": ["Küche", "Gerichte", "Essen"]
+    },
+    {
+        "kategorie": "Religion",
+        "thema": "Buddhismus",
+        "beschreibung": "Der Theravada-Buddhismus ist die dominierende Religion in Thailand.",
+        "fakten": [
+            "Etwa 94% der thailändischen Bevölkerung sind Buddhisten.",
+            "Tempel (Wat) spielen eine zentrale Rolle im täglichen Leben.",
+            "Mönche genießen in der thailändischen Gesellschaft hohes Ansehen."
+        ],
+        "bild": "https://example.com/thai_temple.jpg",
+        "video": null,
+        "tags": ["Religion", "Buddhismus", "Tempel"]
+    },
+    {
+        "kategorie": "Sprache",
+        "thema": "Thai",
+        "beschreibung": "Thai ist die offizielle Sprache Thailands und wird von der Mehrheit der Bevölkerung gesprochen.",
+        "fakten": [
+            "Das Thai-Alphabet besteht aus 44 Konsonanten und 32 Vokalen.",
+            "Thai ist eine tonale Sprache mit fünf Tönen.",
+            "Es gibt mehrere Dialekte, darunter Zentralthai, Nordthai und Südthai."
+        ],
+        "bild": "https://example.com/thai_language.jpg",
+        "video": null,
+        "tags": ["Sprache", "Thai", "Linguistik"]
+    },
+    {
+        "kategorie": "Natur",
+        "thema": "Nationalparks",
+        "beschreibung": "Thailand beherbergt zahlreiche Nationalparks mit vielfältiger Flora und Fauna.",
+        "fakten": [
+            "Der Khao Sok Nationalpark ist für seinen Regenwald und Kalksteinfelsen bekannt.",
+            "Der Erawan Nationalpark beherbergt den berühmten Erawan-Wasserfall.",
+            "Thailand hat über 100 Nationalparks, die etwa 20% der Landesfläche ausmachen."
+        ],
+        "bild": "https://example.com/thai_national_park.jpg",
+        "video": null,
+        "tags": ["Natur", "Nationalparks", "Wildlife"]
+    }
 ]
