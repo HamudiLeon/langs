@@ -1,6 +1,16 @@
   
   [
-     {
+  {
+    "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
+    "th": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
+    "umschrift": "K̄hxthos̄ʹ kh̀a c̄hạn k̄hx s̄ạ̀ng kherụ̄̀xng dụ̄̀m dị̂ h̄ịm?",
+    "maenner": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
+    "frauen": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
+    "erklaerung": "Höflich fragen nach einem Drink",
+    "wann": "Im Cafe, Resturan.",
+    "kategorie": "Essen und Trinken"
+},   
+  {
         "de": "Können Sie mir Ihre Meinung geben?!",
         "th": "ช่วยบอกความคิดเห็นได้ไหมคะ",
         "umschrift": "chûai bòk khwám khít hěn dâi mái",
@@ -253,12 +263,22 @@
           "kategorie": "Gesundheit und Sicherheit"
       },
       {
-          "de": "Ich habe Schmerzen.",
+        "de": "Ich bin Krank.",
+        "th": "ฉันป่วย",
+        "umschrift": "chăn jèp kâ",
+        "maenner": "ฉันป่วย",
+        "frauen": "ฉันป่วย",
+        "erklaerung": "Ausdruck, dass man Verletzt ist .",
+        "wann": "Wenn man körperliches Unwohlsein ausdrücken möchte.",
+        "kategorie": "Gesundheit und Sicherheit"
+    },
+      {
+          "de": "Ich habe Verletzt.",
           "th": "ฉันเจ็บค่ะ",
           "umschrift": "chăn jèp kâ",
           "maenner": "ผมเจ็บครับ",
           "frauen": "ฉันเจ็บค่ะ",
-          "erklaerung": "Ausdruck, dass man Schmerzen hat.",
+          "erklaerung": "Ausdruck, dass man Verletzt ist .",
           "wann": "Wenn man körperliches Unwohlsein ausdrücken möchte.",
           "kategorie": "Gesundheit und Sicherheit"
       },
