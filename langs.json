@@ -2,7 +2,7 @@
   {
     "speach-lang":"th-TH"
   , "key": "th"
-  , "name": "Thailand"
+  , "name": "Thai Sprache"
   , "description":"Thailand language"
   },
   {
@@ -10,6 +10,12 @@
   , "key": "it"
   , "name": "Italien"
   , "description":"Italien Language"
+  },
+  {
+    "speach-lang":"nl-NL"
+  , "key": "nl"
+  , "name": "Niederlands"
+  , "description":"Niederländische Sprache"
   }
 
 ]
