@@ -1,0 +1,683 @@
+[
+    {
+      "de": "Entschuldigung, ich habe es nicht gewusst",
+      "lang": "Excusez-moi, je ne savais pas.",
+      "umschrift": "",
+      "formel": "Excusez-moi, je ne le savais pas.",
+      "informel": "Désolé, je ne savais pas.",
+      "description": "S’excuser de ne pas être au courant.",
+      "when": "Dans toute situation où l’on reconnaît son ignorance.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
+      "lang": "Excusez-moi, puis-je commander une boisson?",
+      "umschrift": "",
+      "formel": "Excusez-moi, pourrais-je commander une boisson s’il vous plaît?",
+      "informel": "Pardon, je peux commander un verre?",
+      "description": "Demander poliment si l’on peut commander une boisson.",
+      "when": "Dans un bar, café ou restaurant.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Können Sie mir Ihre Meinung geben?!",
+      "lang": "Pourriez-vous me donner votre avis?",
+      "umschrift": "",
+      "formel": "Pourriez-vous me donner votre avis, s’il vous plaît?",
+      "informel": "Tu peux me donner ton avis?",
+      "description": "Demander poliment l’opinion ou un conseil.",
+      "when": "Lorsqu’on souhaite un retour d’information.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Entschuldigung, kann ich dich um etwas bitten?!",
+      "lang": "Excusez-moi, puis-je vous demander une faveur?",
+      "umschrift": "",
+      "formel": "Excusez-moi, pourrais-je vous demander une faveur?",
+      "informel": "Pardon, je peux te demander un service?",
+      "description": "Demander poliment un petit service.",
+      "when": "Lorsqu’on a besoin de l’aide ou de l’attention de quelqu’un.",
+      "categorie": "Politesse"
+    },
+    {
+      "de": "Hallo, kannst Du mir deine Meinung zu meiner APP geben? Ich habe hier thailändische Sätze, die ich von dir untersuchen lassen möchte. Sagst Du mir ob diese korrekt sind?",
+      "lang": "Bonjour, pourriez-vous me donner votre avis sur mon application? J’ai quelques phrases en thaï que j’aimerais vous faire vérifier. Pourriez-vous me dire si elles sont correctes?",
+      "umschrift": "",
+      "formel": "Bonjour, pourriez-vous me donner votre avis sur mon application? J’ai des phrases en thaï à faire examiner. Pourriez-vous m’indiquer si elles sont correctes?",
+      "informel": "Salut, tu peux me donner ton avis sur mon appli? J’ai des phrases en thaï à faire vérifier. Tu peux me dire si elles sont justes?",
+      "description": "Demander un retour sur l’exactitude de phrases en thaï.",
+      "when": "Lorsqu’on veut un avis sur une traduction ou un contenu linguistique.",
+      "categorie": "Feedback"
+    },
+    {
+      "de": "Haben Sie einen Moment Zeit?!",
+      "lang": "Avez-vous un instant?",
+      "umschrift": "",
+      "formel": "Auriez-vous un moment, s’il vous plaît?",
+      "informel": "Tu as une minute?",
+      "description": "Demander poliment si quelqu’un a du temps.",
+      "when": "Pour amorcer une interaction polie.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Wie kann ich das machen?",
+      "lang": "Comment puis-je faire cela?",
+      "umschrift": "",
+      "formel": "Pourriez-vous m’expliquer comment faire, s’il vous plaît?",
+      "informel": "Comment je fais ça?",
+      "description": "Demander comment réaliser une action.",
+      "when": "Lorsqu’on a besoin d’explications ou d’aide.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Kann ich Ihnen helfen?",
+      "lang": "Puis-je vous aider?",
+      "umschrift": "",
+      "formel": "Puis-je vous aider en quelque chose?",
+      "informel": "Je peux t’aider?",
+      "description": "Offrir son aide.",
+      "when": "Quand on voit que quelqu’un pourrait avoir besoin d’assistance.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Woher wissen Sie das?",
+      "lang": "Comment le savez-vous?",
+      "umschrift": "",
+      "formel": "Comment savez-vous cela?",
+      "informel": "Comment tu sais ça?",
+      "description": "Demander la source ou la raison d’un savoir.",
+      "when": "Par curiosité sur l’origine de l’information.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Wann ist ein guter Zeitpunkt?",
+      "lang": "Quel est le bon moment?",
+      "umschrift": "",
+      "formel": "Quel serait le moment opportun?",
+      "informel": "C’est quand le meilleur moment?",
+      "description": "Demander un moment approprié.",
+      "when": "Pour planifier un rendez-vous ou une action.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Was empfehlen Sie?",
+      "lang": "Que me conseillez-vous?",
+      "umschrift": "",
+      "formel": "Que me recommandez-vous?",
+      "informel": "Qu’est-ce que tu me conseilles?",
+      "description": "Demander une recommandation ou un conseil.",
+      "when": "Lorsqu’on a besoin d’idées ou de conseils.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Gibt es eine andere Möglichkeit?",
+      "lang": "Y a-t-il une autre possibilité?",
+      "umschrift": "",
+      "formel": "Existe-t-il une alternative?",
+      "informel": "Il y a une autre option?",
+      "description": "Demander s’il existe des alternatives.",
+      "when": "Quand on cherche d’autres solutions.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Sind Sie sicher?",
+      "lang": "Êtes-vous sûr?",
+      "umschrift": "",
+      "formel": "Êtes-vous certain?",
+      "informel": "T’es sûr?",
+      "description": "Demander une confirmation ou une certitude.",
+      "when": "Lorsqu’on doute ou que l’on veut une assurance.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Kann ich etwas fragen?",
+      "lang": "Puis-je vous poser une question?",
+      "umschrift": "",
+      "formel": "Pourrais-je vous poser une question, s’il vous plaît?",
+      "informel": "Je peux te poser une question?",
+      "description": "Demander la permission de poser une question.",
+      "when": "Quand on veut solliciter une information avec politesse.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Kann ich das anprobieren?",
+      "lang": "Puis-je l’essayer?",
+      "umschrift": "",
+      "formel": "Pourrais-je essayer ceci, s’il vous plaît?",
+      "informel": "Je peux essayer ça?",
+      "description": "Demander à essayer un vêtement.",
+      "when": "Dans un magasin de vêtements.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Haben Sie das in einer anderen Größe?",
+      "lang": "L’avez-vous dans une autre taille?",
+      "umschrift": "",
+      "formel": "L’avez-vous dans une autre taille, s’il vous plaît?",
+      "informel": "Tu l’as dans une autre taille?",
+      "description": "Demander une autre taille pour un article.",
+      "when": "Si la taille actuelle ne convient pas.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Haben Sie einen Rabatt?",
+      "lang": "Avez-vous une réduction?",
+      "umschrift": "",
+      "formel": "Offrez-vous une remise, s’il vous plaît?",
+      "informel": "Vous faites une réduction?",
+      "description": "Demander s’il y a une réduction.",
+      "when": "Si l’on souhaite un prix réduit.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Kann ich das zurückgeben?",
+      "lang": "Puis-je le retourner?",
+      "umschrift": "",
+      "formel": "Puis-je retourner cet article, s’il vous plaît?",
+      "informel": "Je peux le ramener?",
+      "description": "Demander si un article peut être retourné.",
+      "when": "Lorsqu’on veut échanger ou se faire rembourser.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Gibt es dieses Produkt in einer anderen Farbe?",
+      "lang": "Avez-vous ce produit dans une autre couleur?",
+      "umschrift": "",
+      "formel": "Avez-vous ce produit dans une autre couleur, s’il vous plaît?",
+      "informel": "Tu as ça dans une autre couleur?",
+      "description": "Demander une autre couleur pour un produit.",
+      "when": "Lors de l’achat d’articles de différentes couleurs.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Wo ist die Toilette?",
+      "lang": "Où sont les toilettes?",
+      "umschrift": "",
+      "formel": "Pourriez-vous me dire où se trouvent les toilettes?",
+      "informel": "C’est où les toilettes?",
+      "description": "Demander l’emplacement des toilettes.",
+      "when": "Dans un lieu public.",
+      "categorie": "Vie quotidienne et orientation"
+    },
+    {
+      "de": "Wie viel kostet das?",
+      "lang": "Combien ça coûte?",
+      "umschrift": "",
+      "formel": "Pourriez-vous me dire le prix, s’il vous plaît?",
+      "informel": "Ça coûte combien?",
+      "description": "Demander le prix d’un objet.",
+      "when": "Lors de l’achat ou la consultation d’un tarif.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Können Sie mir helfen?",
+      "lang": "Pouvez-vous m’aider?",
+      "umschrift": "",
+      "formel": "Pourriez-vous m’aider, s’il vous plaît?",
+      "informel": "Tu peux m’aider?",
+      "description": "Demander de l’aide.",
+      "when": "Quand on a besoin de soutien.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Kann ich mit Karte bezahlen?",
+      "lang": "Puis-je payer par carte?",
+      "umschrift": "",
+      "formel": "Puis-je régler par carte, s’il vous plaît?",
+      "informel": "Je peux payer par carte?",
+      "description": "Demander s’il est possible de payer par carte.",
+      "when": "Lors du paiement dans un magasin ou restaurant.",
+      "categorie": "Achats et commerce"
+    },
+    {
+      "de": "Entschuldigen Sie, ich bin verloren.",
+      "lang": "Excusez-moi, je suis perdu(e).",
+      "umschrift": "",
+      "formel": "Excusez-moi, je me suis égaré(e).",
+      "informel": "Pardon, je suis un peu perdu(e).",
+      "description": "Indiquer que l’on ne trouve pas son chemin.",
+      "when": "Pour demander de l’aide ou des indications.",
+      "categorie": "Vie quotidienne et orientation"
+    },
+    {
+      "de": "Gibt es hier WLAN?",
+      "lang": "Y a-t-il du Wi-Fi ici?",
+      "umschrift": "",
+      "formel": "Y a-t-il un accès Wi-Fi disponible, s’il vous plaît?",
+      "informel": "Il y a du Wi-Fi?",
+      "description": "Demander s’il y a une connexion Wi-Fi.",
+      "when": "Dans un café, restaurant ou lieu public.",
+      "categorie": "Technologie et communication"
+    },
+    {
+      "de": "Können Sie ein Foto von uns machen?",
+      "lang": "Pourriez-vous nous prendre en photo?",
+      "umschrift": "",
+      "formel": "Pourriez-vous nous prendre en photo, s’il vous plaît?",
+      "informel": "Tu peux nous prendre en photo?",
+      "description": "Demander poliment à quelqu’un de prendre une photo.",
+      "when": "Quand on veut une photo de groupe ou de couple.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Ich brauche einen Arzt.",
+      "lang": "J’ai besoin d’un médecin.",
+      "umschrift": "",
+      "formel": "J’aurais besoin d’un médecin, s’il vous plaît.",
+      "informel": "J’ai besoin d’un docteur.",
+      "description": "Indiquer qu’on a besoin d’aide médicale.",
+      "when": "En cas d’urgence ou de problème de santé.",
+      "categorie": "Santé et sécurité"
+    },
+    {
+      "de": "Ich bin Krank.",
+      "lang": "Je suis malade.",
+      "umschrift": "",
+      "formel": "Je ne me sens pas bien.",
+      "informel": "Je suis malade.",
+      "description": "Indiquer que l’on ne se sent pas bien.",
+      "when": "Lorsque l’on est souffrant.",
+      "categorie": "Santé et sécurité"
+    },
+    {
+      "de": "Ich habe Verletzt.",
+      "lang": "Je suis blessé(e).",
+      "umschrift": "",
+      "formel": "Je suis blessé(e), pourriez-vous m’aider?",
+      "informel": "Je suis blessé(e).",
+      "description": "Signaler une blessure.",
+      "when": "Si on a besoin de soins médicaux.",
+      "categorie": "Santé et sécurité"
+    },
+    {
+      "de": "Wo ist der nächste Geldautomat?",
+      "lang": "Où est le distributeur le plus proche?",
+      "umschrift": "",
+      "formel": "Pourriez-vous m’indiquer où se trouve le distributeur le plus proche?",
+      "informel": "Où est le distributeur près d’ici?",
+      "description": "Demander l’emplacement d’un guichet automatique.",
+      "when": "Pour retirer de l’argent liquide.",
+      "categorie": "Vie quotidienne et orientation"
+    },
+    {
+      "de": "Können Sie das bitte erklären?",
+      "lang": "Pourriez-vous expliquer, s’il vous plaît?",
+      "umschrift": "",
+      "formel": "Pourriez-vous m’expliquer cela en détail, s’il vous plaît?",
+      "informel": "Tu peux m’expliquer?",
+      "description": "Demander une explication plus détaillée.",
+      "when": "Quand on a besoin de clarifications.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Ich möchte bitte Reis mit viel Gemüse.",
+      "lang": "Je voudrais du riz avec beaucoup de légumes, s’il vous plaît.",
+      "umschrift": "",
+      "formel": "Pourrais-je avoir du riz avec beaucoup de légumes, s’il vous plaît?",
+      "informel": "Je peux avoir du riz avec plein de légumes?",
+      "description": "Commander un plat avec beaucoup de légumes.",
+      "when": "Au restaurant.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit frischem Gemüse?",
+      "lang": "Avez-vous du riz sauté avec des légumes frais?",
+      "umschrift": "",
+      "formel": "Auriez-vous du riz sauté aux légumes frais, s’il vous plaît?",
+      "informel": "Vous avez du riz sauté avec des légumes frais?",
+      "description": "Demander si le plat existe avec légumes frais.",
+      "when": "Au restaurant, en choisissant un plat.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit Gemüse?",
+      "lang": "Avez-vous du riz sauté aux légumes?",
+      "umschrift": "",
+      "formel": "Auriez-vous du riz sauté aux légumes?",
+      "informel": "Vous avez du riz sauté aux légumes?",
+      "description": "Demander si une variante de riz aux légumes existe.",
+      "when": "Au restaurant.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Ist das Fleisch drin?",
+      "lang": "Y a-t-il de la viande dedans?",
+      "umschrift": "",
+      "formel": "Ce plat contient-il de la viande?",
+      "informel": "Y a de la viande là-dedans?",
+      "description": "Demander si un plat contient de la viande.",
+      "when": "Si l’on souhaite éviter la viande.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Haben Sie Essen ohne Fleisch?",
+      "lang": "Avez-vous des plats sans viande?",
+      "umschrift": "",
+      "formel": "Proposez-vous des plats sans viande?",
+      "informel": "Vous avez des plats sans viande?",
+      "description": "Demander des options sans viande.",
+      "when": "Si l’on est végétarien ou que l’on évite la viande.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Haben Sie vegetarisches Essen?",
+      "lang": "Avez-vous des plats végétariens?",
+      "umschrift": "",
+      "formel": "Proposez-vous des options végétariennes?",
+      "informel": "Vous avez du végétarien?",
+      "description": "Demander des options végétariennes.",
+      "when": "Au restaurant, si l’on veut éviter la viande.",
+      "categorie": "Nourriture et boissons"
+    },
+    {
+      "de": "Hallo oder Auf Wiedersehen",
+      "lang": "Bonjour / Au revoir",
+      "umschrift": "",
+      "formel": "Bonjour / Au revoir",
+      "informel": "Salut / À plus",
+      "description": "Salutation générale ou prise de congé.",
+      "when": "En arrivant ou en partant.",
+      "categorie": "Salutations et adieux"
+    },
+    {
+      "de": "Auf Wiedersehen",
+      "lang": "Au revoir",
+      "umschrift": "",
+      "formel": "Au revoir",
+      "informel": "Salut (en partant)",
+      "description": "Adieu formel.",
+      "when": "Lors d’un départ formel.",
+      "categorie": "Salutations et adieux"
+    },
+    {
+      "de": "Ich gehe jetzt.",
+      "lang": "Je pars maintenant.",
+      "umschrift": "",
+      "formel": "Je vais y aller maintenant.",
+      "informel": "Je m’en vais.",
+      "description": "Annoncer que l’on s’en va.",
+      "when": "En quittant un lieu ou des personnes.",
+      "categorie": "Salutations et adieux"
+    },
+    {
+      "de": "Bis später / Bis zum nächsten Mal",
+      "lang": "À plus tard / À la prochaine",
+      "umschrift": "",
+      "formel": "À la prochaine fois",
+      "informel": "À plus / À bientôt",
+      "description": "Indique qu’on se reverra ultérieurement.",
+      "when": "Quand on prévoit de se revoir.",
+      "categorie": "Salutations et adieux"
+    },
+    {
+      "de": "Viel Glück",
+      "lang": "Bonne chance",
+      "umschrift": "",
+      "formel": "Je vous souhaite bonne chance.",
+      "informel": "Bonne chance!",
+      "description": "Souhaiter de la chance à quelqu’un.",
+      "when": "Pour encourager avant un événement.",
+      "categorie": "Salutations et adieux"
+    },
+    {
+      "de": "Danke",
+      "lang": "Merci",
+      "umschrift": "",
+      "formel": "Je vous remercie",
+      "informel": "Merci",
+      "description": "Exprimer sa gratitude.",
+      "when": "Quand on reçoit une aide ou un cadeau.",
+      "categorie": "Remerciements et excuses"
+    },
+    {
+      "de": "Entschuldigung",
+      "lang": "Pardon / Excusez-moi",
+      "umschrift": "",
+      "formel": "Excusez-moi",
+      "informel": "Pardon",
+      "description": "S’excuser ou attirer l’attention poliment.",
+      "when": "Quand on interrompt ou qu’on commet un impair.",
+      "categorie": "Remerciements et excuses"
+    },
+    {
+      "de": "Kein Problem / Schon gut",
+      "lang": "Pas de problème",
+      "umschrift": "",
+      "formel": "Ce n’est rien",
+      "informel": "Pas de souci",
+      "description": "Indiquer que tout va bien, pas de souci.",
+      "when": "Pour rassurer ou minimiser un incident.",
+      "categorie": "Remerciements et excuses"
+    },
+    {
+      "de": "Sprechen Sie bitte langsam.",
+      "lang": "Pourriez-vous parler plus lentement, s’il vous plaît?",
+      "umschrift": "",
+      "formel": "Pourriez-vous parler plus lentement, s’il vous plaît?",
+      "informel": "Tu peux parler plus lentement?",
+      "description": "Demander de parler plus lentement.",
+      "when": "Quand on a du mal à comprendre.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Bitte wiederholen.",
+      "lang": "Pourriez-vous répéter, s’il vous plaît?",
+      "umschrift": "",
+      "formel": "Pourriez-vous répéter, s’il vous plaît?",
+      "informel": "Tu peux répéter?",
+      "description": "Demander de répéter quelque chose non compris.",
+      "when": "Quand on n’a pas saisi une information.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Verstehen Sie?",
+      "lang": "Comprenez-vous?",
+      "umschrift": "",
+      "formel": "Comprenez-vous?",
+      "informel": "Tu comprends?",
+      "description": "Vérifier la compréhension de l’interlocuteur.",
+      "when": "Pour s’assurer que le message est clair.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Ich verstehe nicht.",
+      "lang": "Je ne comprends pas.",
+      "umschrift": "",
+      "formel": "Je ne comprends pas.",
+      "informel": "Je comprends pas.",
+      "description": "Dire qu’on ne comprend pas.",
+      "when": "En cas d’incompréhension.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Entschuldigen Sie die Störung.",
+      "lang": "Excusez-moi de vous déranger.",
+      "umschrift": "",
+      "formel": "Veuillez m’excuser de vous déranger.",
+      "informel": "Désolé de te déranger.",
+      "description": "S’excuser pour l’interruption.",
+      "when": "Quand on sollicite l’attention de quelqu’un.",
+      "categorie": "Demandes polies et questions"
+    },
+    {
+      "de": "Vielleicht",
+      "lang": "Peut-être",
+      "umschrift": "",
+      "formel": "C’est possible.",
+      "informel": "Peut-être",
+      "description": "Exprimer une incertitude.",
+      "when": "Quand on n’est pas sûr.",
+      "categorie": "Prise de décision et incertitudes"
+    },
+    {
+      "de": "Wohin soll ich gehen?",
+      "lang": "Où devrais-je aller?",
+      "umschrift": "",
+      "formel": "Où me conseilleriez-vous d’aller?",
+      "informel": "Je devrais aller où?",
+      "description": "Demander une suggestion de lieu.",
+      "when": "Quand on cherche une recommandation ou de l’aide pour s’orienter.",
+      "categorie": "Prise de décision et incertitudes"
+    },
+    {
+      "de": "Ich gehe zuerst.",
+      "lang": "Je passe en premier.",
+      "umschrift": "",
+      "formel": "Je vais y aller en premier, si vous permettez.",
+      "informel": "Je vais d’abord.",
+      "description": "Annoncer son intention d’y aller en premier.",
+      "when": "Lorsqu’on prend l’initiative.",
+      "categorie": "Prise de décision et incertitudes"
+    },
+    {
+      "de": "Es tut mir leid für deinen Verlust.",
+      "lang": "Je suis désolé pour votre perte.",
+      "umschrift": "",
+      "formel": "Veuillez accepter mes condoléances.",
+      "informel": "Je suis désolé pour ta perte.",
+      "description": "Exprimer ses condoléances.",
+      "when": "Lorsqu’on montre de l’empathie après un décès.",
+      "categorie": "Expressions émotionnelles"
+    },
+    {
+      "de": "Ich freue mich für dich.",
+      "lang": "Je suis heureux(se) pour vous.",
+      "umschrift": "",
+      "formel": "Je suis heureux pour vous.",
+      "informel": "Je suis content(e) pour toi.",
+      "description": "Montrer de la joie pour le succès de quelqu’un.",
+      "when": "Quand une personne a une bonne nouvelle.",
+      "categorie": "Expressions émotionnelles"
+    },
+    {
+      "de": "Ich bin stolz auf dich.",
+      "lang": "Je suis fier/fière de vous.",
+      "umschrift": "",
+      "formel": "Je suis fier de vous.",
+      "informel": "Je suis fier/fière de toi.",
+      "description": "Exprimer la fierté.",
+      "when": "Pour féliciter et encourager quelqu’un.",
+      "categorie": "Expressions émotionnelles"
+    },
+    {
+      "de": "Ich fange an zu essen.",
+      "lang": "Je commence à manger.",
+      "umschrift": "",
+      "formel": "Je vais commencer à manger.",
+      "informel": "Je commence à manger.",
+      "description": "Annoncer qu’on va entamer son repas.",
+      "when": "Avant de commencer un repas.",
+      "categorie": "Petites interactions quotidiennes"
+    },
+    {
+      "de": "Gut gemacht!",
+      "lang": "Bien fait!",
+      "umschrift": "",
+      "formel": "Très bien fait!",
+      "informel": "Bravo!",
+      "description": "Féliciter pour un bon travail.",
+      "when": "Lorsqu’on reconnaît la réussite de quelqu’un.",
+      "categorie": "Petites interactions quotidiennes"
+    },
+    {
+      "de": "Fantastisch!",
+      "lang": "Fantastique!",
+      "umschrift": "",
+      "formel": "C’est fantastique!",
+      "informel": "Génial!",
+      "description": "Exprimer l’admiration ou l’étonnement.",
+      "when": "Pour souligner quelque chose d’exceptionnel.",
+      "categorie": "Petites interactions quotidiennes"
+    },
+    {
+      "de": "Sehr schlau!",
+      "lang": "Très intelligent!",
+      "umschrift": "",
+      "formel": "C’est très ingénieux!",
+      "informel": "C’est malin!",
+      "description": "Complimenter l’intelligence ou l’habileté.",
+      "when": "Quand on reconnaît la finesse d’une idée.",
+      "categorie": "Petites interactions quotidiennes"
+    },
+    {
+      "de": "Gibt es ein Problem?",
+      "lang": "Y a-t-il un problème?",
+      "umschrift": "",
+      "formel": "Y a-t-il un problème, s’il vous plaît?",
+      "informel": "Il y a un souci?",
+      "description": "Demander s’il y a une difficulté.",
+      "when": "Pour vérifier s’il y a un problème.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Kein Problem.",
+      "lang": "Pas de problème.",
+      "umschrift": "",
+      "formel": "Ce n’est pas un problème.",
+      "informel": "Pas de souci.",
+      "description": "Assurer que tout va bien.",
+      "when": "Pour rassurer ou apaiser.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Wohin gehst du?",
+      "lang": "Où allez-vous?",
+      "umschrift": "",
+      "formel": "Où allez-vous, s’il vous plaît?",
+      "informel": "Tu vas où?",
+      "description": "Demander la destination de quelqu’un.",
+      "when": "Dans une conversation informelle pour savoir le but.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Was?",
+      "lang": "Comment?",
+      "umschrift": "",
+      "formel": "Pardon, qu’avez-vous dit?",
+      "informel": "Hein, quoi?",
+      "description": "Demander de répéter quand on n’a pas compris.",
+      "when": "Si on n’a pas saisi ce qui a été dit.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Kannst du das reparieren?",
+      "lang": "Pouvez-vous le réparer?",
+      "umschrift": "",
+      "formel": "Pourriez-vous le réparer, s’il vous plaît?",
+      "informel": "Tu peux le réparer?",
+      "description": "Demander si quelque chose peut être réparé.",
+      "when": "Lorsqu’on souhaite faire réparer un objet.",
+      "categorie": "Questions pertinentes"
+    },
+    {
+      "de": "Glückwunsch!",
+      "lang": "Félicitations!",
+      "umschrift": "",
+      "formel": "Toutes mes félicitations!",
+      "informel": "Bravo, félicitations!",
+      "description": "Exprimer des félicitations.",
+      "when": "Pour célébrer le succès de quelqu’un.",
+      "categorie": "Feedback positif"
+    },
+    {
+      "de": "Gut gemacht!",
+      "lang": "Bien joué!",
+      "umschrift": "",
+      "formel": "C’est très bien réalisé!",
+      "informel": "Bien joué!",
+      "description": "Reconnaître une bonne performance.",
+      "when": "Pour motiver et féliciter.",
+      "categorie": "Feedback positif"
+    },
+    {
+      "de": "Kein Glück.",
+      "lang": "Pas de chance.",
+      "umschrift": "",
+      "formel": "Malheureusement, pas de chance.",
+      "informel": "Pas de bol.",
+      "description": "Exprimer le manque de chance ou la déception.",
+      "when": "Quand les choses ne se passent pas comme prévu.",
+      "categorie": "Feedback positif"
+    }
+  ]
+  
