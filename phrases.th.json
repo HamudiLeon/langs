@@ -1,0 +1,687 @@
+  
+  [{
+    "de": "Entschuldigung, ich habe es nicht gewusst",
+    "th": "ขออภัย ฉันไม่รู้!",
+    "umschrift": "K̄hxxp̣hạy c̄hạn mị̀rū̂!",
+    "maenner": "ขออภัย ฉันไม่รู้!",
+    "frauen": "ขออภัย ฉันไม่รู้!",
+    "erklaerung": "Entschuldigen, nicht wissen",
+    "wann": "Überall",
+    "kategorie": "Höfliche Bitten und Fragen"
+}, 
+  {
+    "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
+    "th": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
+    "umschrift": "K̄hxthos̄ʹ kh̀a c̄hạn k̄hx s̄ạ̀ng kherụ̄̀xng dụ̄̀m dị̂ h̄ịm?",
+    "maenner": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
+    "frauen": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
+    "erklaerung": "Höflich fragen nach einem Drink",
+    "wann": "Im Cafe, Resturan.",
+    "kategorie": "Essen und Trinken"
+},   
+  {
+        "de": "Können Sie mir Ihre Meinung geben?!",
+        "th": "ช่วยบอกความคิดเห็นได้ไหมคะ",
+        "umschrift": "chûai bòk khwám khít hěn dâi mái",
+        "maenner": "ช่วยบอกความคิดเห็นได้ไหมครับ",
+        "frauen": "ช่วยบอกความคิดเห็นได้ไหมคะ",
+        "erklaerung": "Höfliche Bitte, nach der Meinung zu fragen.",
+        "wann": "Wenn man um Rat oder Meinungen bittet.",
+        "kategorie": "Höfliche Bitten und Fragen"
+    },
+
+    {
+      "de": "Entschuldigung, kann ich dich um etwas bitten?!",
+      "th": "ขอโทษนะคะ/ครับ ขอรบกวนคุณหน่อยได้ไหมคะ/ครับ?",
+      "umschrift": "Kho tot na ka/krab kho rop kwon khun noi dai mai ka/krab?",
+      "maenner": "ขอโทษครับ ขอรบกวนคุณหน่อยได้ไหมครับ?",
+      "frauen": "ขอโทษนะคะ ขอรบกวนคุณหน่อยได้ไหมคะ?",
+      "erklaerung": "Eine höfliche Bitte um einen Gefallen. Die Formulierung 'รบกวน' (rop kwon) wird verwendet, um auszudrücken, dass man sich bewusst ist, dass man die Zeit oder Aufmerksamkeit des anderen in Anspruch nimmt.",
+      "wann": "Wenn man jemanden um einen kleinen Gefallen bitten möchte, z.B. um etwas zu zeigen, zu erklären oder um eine kleine Bitte.",
+      "kategorie": "Höflichkeit"
+  },
+      {
+        "de": "Hallo, kannst Du mir deine Meinung zu meiner APP geben? Ich habe hier thailändische Sätze, die ich von dir untersuchen lassen möchte. Sagst Du mir ob diese korrekt sind?",
+        "th": "สวัสดีค่ะ/ครับ คุณช่วยให้ความคิดเห็นเกี่ยวกับแอปของฉันได้ไหมคะ/ครับ? ฉันมีประโยคภาษาไทยที่อยากให้คุณตรวจสอบให้หน่อยค่ะ/ครับ ว่าถูกต้องหรือเปล่าคะ/ครับ?",
+        "umschrift": "Sawasdi ka/krab khun chuai hai khwam khit hen kieo kap aep khong chan dai mai ka/krab? Chan mee pra yok phasa thai thi yak hai khun trwod sob hai noi ka/krab wa thuk tong reu plao ka/krab?",
+        "maenner": "สวัสดีครับ คุณช่วยให้ความคิดเห็นเกี่ยวกับแอปของฉันได้ไหมครับ? ฉันมีประโยคภาษาไทยที่อยากให้คุณตรวจสอบให้หน่อยครับ ว่าถูกต้องหรือเปล่าครับ?",
+        "frauen": "สวัสดีค่ะ คุณช่วยให้ความคิดเห็นเกี่ยวกับแอปของฉันได้ไหมคะ? ฉันมีประโยคภาษาไทยที่อยากให้คุณตรวจสอบให้หน่อยค่ะ ว่าถูกต้องหรือเปล่าคะ?",
+        "erklaerung": "Eine Anfrage an einen Sprachpartner, um die Korrektheit von thailändischen Sätzen in einer App zu überprüfen.",
+        "wann": "Wenn man Feedback zu einer Sprachlern-App oder einem Übersetzungstool sucht.",
+        "kategorie": "Feedback"
+    },
+    {
+        "de": "Haben Sie einen Moment Zeit?!",
+        "th": "คุณมีเวลาสักครู่ไหมคะ",
+        "umschrift": "khun mii we-laa sàk-krûu mái",
+        "maenner": "คุณมีเวลาสักครู่ไหมครับ",
+        "frauen": "คุณมีเวลาสักครู่ไหมคะ",
+        "erklaerung": "Frage nach der Verfügbarkeit für ein Gespräch.",
+        "wann": "Wenn man jemanden höflich ansprechen möchte.",
+        "kategorie": "Höfliche Bitten und Fragen"
+    },
+    {
+        "de": "Wie kann ich das machen?",
+        "th": "ฉันจะทำยังไงดีคะ",
+        "umschrift": "chăn jà tham yang-ngai dee",
+        "maenner": "ผมจะทำยังไงดีครับ",
+        "frauen": "ฉันจะทำยังไงดีคะ",
+        "erklaerung": "Frage nach einer Handlungsempfehlung.",
+        "wann": "Wenn man um Anleitung oder Hilfe bittet.",
+        "kategorie": "Höfliche Bitten und Fragen"
+    },
+    {
+        "de": "Kann ich Ihnen helfen?",
+        "th": "ให้ฉันช่วยอะไรไหมคะ",
+        "umschrift": "hâi chăn chûai à-rai mái",
+        "maenner": "ให้ผมช่วยอะไรไหมครับ",
+        "frauen": "ให้ฉันช่วยอะไรไหมคะ",
+        "erklaerung": "Angebot zur Hilfeleistung.",
+        "wann": "Wenn man jemandem Unterstützung anbieten möchte.",
+        "kategorie": "Höfliche Bitten und Fragen"
+    },
+    {
+        "de": "Woher wissen Sie das?",
+        "th": "คุณรู้ได้ยังไงคะ",
+        "umschrift": "khun rúu dâi yang-ngai",
+        "maenner": "คุณรู้ได้ยังไงครับ",
+        "frauen": "คุณรู้ได้ยังไงคะ",
+        "erklaerung": "Frage nach der Quelle der Information.",
+        "wann": "Wenn man wissen möchte, wie jemand zu einer Information gekommen ist.",
+        "kategorie": "Relevante Fragen und Sätze"
+    },
+    {
+        "de": "Wann ist ein guter Zeitpunkt?",
+        "th": "เวลาไหนเหมาะสมที่สุดคะ",
+        "umschrift": "wee-laa năi mòh-sŏm tîi sùt",
+        "maenner": "เวลาไหนเหมาะสมที่สุดครับ",
+        "frauen": "เวลาไหนเหมาะสมที่สุดคะ",
+        "erklaerung": "Frage nach einem passenden Zeitpunkt.",
+        "wann": "Wenn man nach einem geeigneten Zeitpunkt für etwas sucht.",
+        "kategorie": "Relevante Fragen und Sätze"
+    },
+    {
+        "de": "Was empfehlen Sie?",
+        "th": "คุณแนะนำอะไรได้บ้างคะ",
+        "umschrift": "khun nâe-nam à-rai dâi bâang",
+        "maenner": "คุณแนะนำอะไรได้บ้างครับ",
+        "frauen": "คุณแนะนำอะไรได้บ้างคะ",
+        "erklaerung": "Bitte um Empfehlungen.",
+        "wann": "Wenn man Rat oder Vorschläge sucht.",
+        "kategorie": "Relevante Fragen und Sätze"
+    },
+    {
+        "de": "Gibt es eine andere Möglichkeit?",
+        "th": "มีทางเลือกอื่นอีกไหมคะ",
+        "umschrift": "mii thaang lêuak ùuen ìik mái",
+        "maenner": "มีทางเลือกอื่นอีกไหมครับ",
+        "frauen": "มีทางเลือกอื่นอีกไหมคะ",
+        "erklaerung": "Frage nach Alternativen.",
+        "wann": "Wenn man andere Optionen oder Wege erkunden möchte.",
+        "kategorie": "Relevante Fragen und Sätze"
+    },
+    {
+        "de": "Sind Sie sicher?",
+        "th": "คุณมั่นใจไหมคะ",
+        "umschrift": "khun mân jai mái",
+        "maenner": "คุณมั่นใจไหมครับ",
+        "frauen": "คุณมั่นใจไหมคะ",
+        "erklaerung": "Frage nach der Sicherheit oder Gewissheit.",
+        "wann": "Wenn man Zweifel oder Bestätigung sucht.",
+        "kategorie": "Relevante Fragen und Sätze"
+    },
+    {
+    "de": "Kann ich etwas fragen?",
+    "th": "ขอถามอะไรหน่อยได้ไหมคะ",
+    "umschrift": "khǒo thăam à-rai nòi dâi mái",
+    "maenner": "ขอถามอะไรหน่อยได้ไหมครับ",
+    "frauen": "ขอถามอะไรหน่อยได้ไหมคะ",
+    "erklaerung": "Höfliche Einleitung, um eine Frage zu stellen.",
+    "wann": "Wenn man jemanden um Erlaubnis für eine Frage bittet.",
+    "kategorie": "Höfliche Bitten und Fragen"
+},
+    {
+      "de": "Kann ich das anprobieren?",
+      "th": "ฉันลองใส่ได้ไหมคะ",
+      "umschrift": "chăn long sài dâi mái",
+      "maenner": "ผมลองใส่ได้ไหมครับ",
+      "frauen": "ฉันลองใส่ได้ไหมคะ",
+      "erklaerung": "Frage, ob man Kleidung anprobieren kann.",
+      "wann": "Beim Einkauf von Kleidung.",
+      "kategorie": "Einkaufen und Handel"
+  },
+  {
+      "de": "Haben Sie das in einer anderen Größe?",
+      "th": "อันนี้มีขนาดอื่นไหมคะ",
+      "umschrift": "an níi mii khá-nàat ùuen mái",
+      "maenner": "อันนี้มีขนาดอื่นไหมครับ",
+      "frauen": "อันนี้มีขนาดอื่นไหมคะ",
+      "erklaerung": "Frage nach einer anderen Größe.",
+      "wann": "Wenn die aktuelle Größe nicht passt.",
+      "kategorie": "Einkaufen und Handel"
+  },
+  {
+      "de": "Haben Sie einen Rabatt?",
+      "th": "มีส่วนลดไหมคะ",
+      "umschrift": "mii sùuan lót mái",
+      "maenner": "มีส่วนลดไหมครับ",
+      "frauen": "มีส่วนลดไหมคะ",
+      "erklaerung": "Frage nach einem Rabatt oder Sonderangebot.",
+      "wann": "Beim Verhandeln oder Nachfragen nach Rabatten.",
+      "kategorie": "Einkaufen und Handel"
+  },
+  {
+      "de": "Kann ich das zurückgeben?",
+      "th": "ฉันคืนอันนี้ได้ไหมคะ",
+      "umschrift": "chăn khuen an níi dâi mái",
+      "maenner": "ผมคืนอันนี้ได้ไหมครับ",
+      "frauen": "ฉันคืนอันนี้ได้ไหมคะ",
+      "erklaerung": "Frage nach Rückgabemöglichkeit eines Artikels.",
+      "wann": "Wenn man etwas umtauschen oder zurückgeben möchte.",
+      "kategorie": "Einkaufen und Handel"
+  },
+  {
+      "de": "Gibt es dieses Produkt in einer anderen Farbe?",
+      "th": "อันนี้มีสีอื่นไหมคะ",
+      "umschrift": "an níi mii sǐi ùuen mái",
+      "maenner": "อันนี้มีสีอื่นไหมครับ",
+      "frauen": "อันนี้มีสีอื่นไหมคะ",
+      "erklaerung": "Frage nach einer anderen Farbauswahl für ein Produkt.",
+      "wann": "Beim Einkauf von Produkten in verschiedenen Farben.",
+      "kategorie": "Einkaufen und Handel"
+  },
+  
+      {
+          "de": "Wo ist die Toilette?",
+          "th": "ห้องน้ำอยู่ที่ไหนคะ",
+          "umschrift": "hông nám yùu tîi năi",
+          "maenner": "ห้องน้ำอยู่ที่ไหนครับ",
+          "frauen": "ห้องน้ำอยู่ที่ไหนคะ",
+          "erklaerung": "Frage nach dem Ort der Toilette.",
+          "wann": "Wenn man nach der Toilette sucht.",
+          "kategorie": "Alltag und Orientierung"
+      },
+      {
+          "de": "Wie viel kostet das?",
+          "th": "อันนี้ราคาเท่าไหร่คะ",
+          "umschrift": "an níi raa-khaa tâo-rai",
+          "maenner": "อันนี้ราคาเท่าไหร่ครับ",
+          "frauen": "อันนี้ราคาเท่าไหร่คะ",
+          "erklaerung": "Frage nach dem Preis eines Gegenstands.",
+          "wann": "Beim Einkaufen oder Nachfragen von Preisen.",
+          "kategorie": "Einkaufen und Handel"
+      },
+      {
+          "de": "Können Sie mir helfen?",
+          "th": "ช่วยฉันหน่อยได้ไหมคะ",
+          "umschrift": "chûai chăn nòi dâi mái",
+          "maenner": "ช่วยผมหน่อยได้ไหมครับ",
+          "frauen": "ช่วยฉันหน่อยได้ไหมคะ",
+          "erklaerung": "Höfliche Bitte um Hilfe.",
+          "wann": "Wenn man Unterstützung braucht.",
+          "kategorie": "Höfliche Bitten und Fragen"
+      },
+      {
+          "de": "Kann ich mit Karte bezahlen?",
+          "th": "จ่ายด้วยบัตรได้ไหมคะ",
+          "umschrift": "jàai dûai bàt dâi mái",
+          "maenner": "จ่ายด้วยบัตรได้ไหมครับ",
+          "frauen": "จ่ายด้วยบัตรได้ไหมคะ",
+          "erklaerung": "Frage nach Zahlungsmöglichkeit mit Karte.",
+          "wann": "Beim Bezahlen in Geschäften oder Restaurants.",
+          "kategorie": "Einkaufen und Handel"
+      },
+      {
+          "de": "Entschuldigen Sie, ich bin verloren.",
+          "th": "ขอโทษนะคะ ฉันหลงทาง",
+          "umschrift": "khǒo thôot ná chăn lŏng thaang",
+          "maenner": "ขอโทษนะครับ ผมหลงทาง",
+          "frauen": "ขอโทษนะคะ ฉันหลงทาง",
+          "erklaerung": "Ausdruck, dass man den Weg verloren hat.",
+          "wann": "Wenn man Hilfe bei der Orientierung benötigt.",
+          "kategorie": "Alltag und Orientierung"
+      },
+      {
+          "de": "Gibt es hier WLAN?",
+          "th": "ที่นี่มีไวไฟไหมคะ",
+          "umschrift": "tîi nîi mii wi-fi mái",
+          "maenner": "ที่นี่มีไวไฟไหมครับ",
+          "frauen": "ที่นี่มีไวไฟไหมคะ",
+          "erklaerung": "Frage nach Verfügbarkeit von WLAN.",
+          "wann": "In Cafés, Restaurants oder öffentlichen Orten.",
+          "kategorie": "Technologie und Kommunikation"
+      },
+      {
+          "de": "Können Sie ein Foto von uns machen?",
+          "th": "ช่วยถ่ายรูปให้หน่อยได้ไหมคะ",
+          "umschrift": "chûai thài rûup hâi nòi dâi mái",
+          "maenner": "ช่วยถ่ายรูปให้หน่อยได้ไหมครับ",
+          "frauen": "ช่วยถ่ายรูปให้หน่อยได้ไหมคะ",
+          "erklaerung": "Höfliche Bitte, ein Foto zu machen.",
+          "wann": "Wenn man ein Bild von sich haben möchte.",
+          "kategorie": "Höfliche Bitten und Fragen"
+      },
+      {
+          "de": "Ich brauche einen Arzt.",
+          "th": "ฉันต้องการหมอค่ะ",
+          "umschrift": "chăn dtông gaan mór kâ",
+          "maenner": "ผมต้องการหมอครับ",
+          "frauen": "ฉันต้องการหมอค่ะ",
+          "erklaerung": "Ausdruck, dass man medizinische Hilfe benötigt.",
+          "wann": "Im Notfall oder bei gesundheitlichen Problemen.",
+          "kategorie": "Gesundheit und Sicherheit"
+      },
+      {
+        "de": "Ich bin Krank.",
+        "th": "ฉันป่วย",
+        "umschrift": "chăn jèp kâ",
+        "maenner": "ฉันป่วย",
+        "frauen": "ฉันป่วย",
+        "erklaerung": "Ausdruck, dass man Verletzt ist .",
+        "wann": "Wenn man körperliches Unwohlsein ausdrücken möchte.",
+        "kategorie": "Gesundheit und Sicherheit"
+    },
+      {
+          "de": "Ich habe Verletzt.",
+          "th": "ฉันเจ็บค่ะ",
+          "umschrift": "chăn jèp kâ",
+          "maenner": "ผมเจ็บครับ",
+          "frauen": "ฉันเจ็บค่ะ",
+          "erklaerung": "Ausdruck, dass man Verletzt ist .",
+          "wann": "Wenn man körperliches Unwohlsein ausdrücken möchte.",
+          "kategorie": "Gesundheit und Sicherheit"
+      },
+      {
+          "de": "Wo ist der nächste Geldautomat?",
+          "th": "ตู้เอทีเอ็มที่ใกล้ที่สุดอยู่ที่ไหนคะ",
+          "umschrift": "dtûu ATM tîi glâi tîi sùt yùu tîi năi",
+          "maenner": "ตู้เอทีเอ็มที่ใกล้ที่สุดอยู่ที่ไหนครับ",
+          "frauen": "ตู้เอทีเอ็มที่ใกล้ที่สุดอยู่ที่ไหนคะ",
+          "erklaerung": "Frage nach der Lage des nächsten Geldautomaten.",
+          "wann": "Wenn man Bargeld abheben möchte.",
+          "kategorie": "Alltag und Orientierung"
+      },
+      {
+          "de": "Können Sie das bitte erklären?",
+          "th": "ช่วยอธิบายหน่อยได้ไหมคะ",
+          "umschrift": "chûai à-thí-baai nòi dâi mái",
+          "maenner": "ช่วยอธิบายหน่อยได้ไหมครับ",
+          "frauen": "ช่วยอธิบายหน่อยได้ไหมคะ",
+          "erklaerung": "Höfliche Bitte um eine erklaerung.",
+          "wann": "Wenn man mehr Details zu etwas benötigt.",
+          "kategorie": "Höfliche Bitten und Fragen"
+      }
+   
+  
+    ,
+    {
+      "de": "Ich möchte bitte Reis mit viel Gemüse.",
+      "th": "ขอข้าวกับผักเยอะๆ นะคะ",
+      "umschrift": "Kho khao kap phak yoe yoe na ka",
+      "maenner": "ขอข้าวกับผักเยอะๆ นะคะ ครับ",
+      "frauen": "ขอข้าวกับผักเยอะๆ นะคะ",
+      "erklaerung": "Ich möchte bitte Reis mit viel Gemüse.",
+      "wann": "Allgemein im Resturant",
+      "kategorie": "Essen und Trinken"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit frischem Gemüse?",
+      "th": "มีข้าวผัดกับผักสดไหมคะ",
+      "umschrift": "Mee khao pad kap phak sot mai",
+      "maenner": "มีข้าวผัดกับผักสดไหมคะ ครับ",
+      "frauen": "มีข้าวผัดกับผักสดไหมคะ",
+      "erklaerung": "Haben Sie gebratenen Reis mit frischem Gemüse?",
+      "wann": "Allgemein im Resturant",
+      "kategorie": "Essen und Trinken"
+    },
+    {
+    "de": "Haben Sie gebratenen Reis mit Gemüse?",
+    "th": "มีข้าวผัดผักไหมคะ",
+    "umschrift": "Mee khao pad phak mai",
+    "maenner": "มีข้าวผัดผักไหมคะ ครับ",
+    "frauen": "มีข้าวผัดผักไหมคะ",
+    "erklaerung": "Haben Sie gebratenen Reis mit Gemüse?",
+    "wann": "Allgemein im Resturant",
+    "kategorie": "Essen und Trinken"
+  },
+    {
+    "de": "Ist das Fleisch drin?",
+    "th": "อันนี้มีเนื้อสัตว์ไหมคะ",
+    "umschrift": "An nee mee nuea sat mai ka",
+    "maenner": "อันนี้มีเนื้อสัตว์ไหมคะ ครับ",
+    "frauen": "อันนี้มีเนื้อสัตว์ไหมคะ",
+    "erklaerung": "Zeige auf ein Gericht: Wenn du auf der Speisekarte etwas siehst, das interessant aussieht, zeige darauf und frage: อันนี้มีเนื้อสัตว์ไหมคะ/ครับ? (An nee mee nuea sat mai ka/krab?) – Ist das Fleisch drin?",
+    "wann": "Allgemein im Resturant",
+    "kategorie": "Essen und Trinken"
+  },
+  {
+    "de": "Haben Sie Essen ohne Fleisch?",
+    "th": "มีอาหารที่ไม่มีเนื้อสัตว์ไหมคะ",
+    "umschrift": "Mee ahaan tee mai mee nuea sat mai",
+    "maenner": "มีอาหารที่ไม่มีเนื้อสัตว์ไหมคะ ครับ",
+    "frauen": "มีอาหารที่ไม่มีเนื้อสัตว์ไหมคะ",
+    "erklaerung": "Haben Sie Essen ohne Fleisch?",
+    "wann": "Allgemein im Resturant",
+    "kategorie": "Essen und Trinken"
+  },
+  {
+  "de": "Haben Sie vegetarisches Essen?",
+  "th": "มีอาหารเจไหมคะ",
+  "umschrift": "Mee ahaan jai mai",
+  "maenner": "มีอาหารเจไหมคะ ครับ",
+  "frauen": "มีอาหารเจไหมคะ",
+  "erklaerung": "Haben Sie vegetarisches Essen?",
+  "wann": "Allgemein im Resturant",
+  "kategorie": "Essen und Trinken"
+},
+  {
+    "de": "Hallo oder Auf Wiedersehen",
+    "th": "สวัสดี",
+    "umschrift": "sà-wàt-dee",
+    "maenner": "สวัสดีครับ",
+    "frauen": "สวัสดีค่ะ",
+    "erklaerung": "Hallo oder Auf Wiedersehen, oft mit Wai (Respektgeste).",
+    "wann": "Allgemeine Begrüßung oder Verabschiedung.",
+    "kategorie": "Begrüßung und Verabschiedung"
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "th": "ลาก่อน",
+    "umschrift": "laa gòn",
+    "maenner": "ลาก่อนครับ",
+    "frauen": "ลาก่อนค่ะ",
+    "erklaerung": "Bedeutet Auf Wiedersehen.",
+    "wann": "Formaler Abschied.",
+    "kategorie": "Begrüßung und Verabschiedung"
+  },
+  {
+    "de": "Ich gehe jetzt.",
+    "th": "ไปแล้วนะ",
+    "umschrift": "bai láew ná",
+    "maenner": "ไปแล้วนะครับ",
+    "frauen": "ไปแล้วนะคะ",
+    "erklaerung": "Ankündigung, dass man jetzt geht.",
+    "wann": "Informelle Situation, um den Aufbruch anzukündigen.",
+    "kategorie": "Begrüßung und Verabschiedung"
+  },
+  {
+    "de": "Bis später / Bis zum nächsten Mal",
+    "th": "แล้วเจอกันใหม่",
+    "umschrift": "láew jəə gan mài",
+    "maenner": "แล้วเจอกันใหม่ครับ",
+    "frauen": "แล้วเจอกันใหม่ค่ะ",
+    "erklaerung": "Drückt aus, dass man sich wiedersehen möchte.",
+    "wann": "Wenn man plant, sich erneut zu treffen.",
+    "kategorie": "Begrüßung und Verabschiedung"
+  },
+  {
+    "de": "Viel Glück",
+    "th": "โชคดี",
+    "umschrift": "chôk dee",
+    "maenner": "โชคดีครับ",
+    "frauen": "โชคดีค่ะ",
+    "erklaerung": "Wünscht jemandem Glück.",
+    "wann": "Um jemandem Glück zu wünschen.",
+    "kategorie": "Begrüßung und Verabschiedung"
+  },
+  {
+    "de": "Danke",
+    "th": "ขอบคุณ",
+    "umschrift": "khòp khun",
+    "maenner": "ขอบคุณครับ",
+    "frauen": "ขอบคุณค่ะ",
+    "erklaerung": "Drückt Dankbarkeit aus.",
+    "wann": "Um Dank auszusprechen.",
+    "kategorie": "Dankbarkeit und Entschuldigungen"
+  },
+  {
+    "de": "Entschuldigung",
+    "th": "ขอโทษ",
+    "umschrift": "khǒo thôot",
+    "maenner": "ขอโทษครับ",
+    "frauen": "ขอโทษค่ะ",
+    "erklaerung": "Bedeutet Entschuldigung oder 'Es tut mir leid'.",
+    "wann": "Beim Entschuldigen oder höflichem Unterbrechen.",
+    "kategorie": "Dankbarkeit und Entschuldigungen"
+  },
+  {
+    "de": "Kein Problem / Schon gut",
+    "th": "ไม่เป็นไร",
+    "umschrift": "mâi bpen rai",
+    "maenner": "ไม่เป็นไรครับ",
+    "frauen": "ไม่เป็นไรค่ะ",
+    "erklaerung": "Signalisiert, dass alles in Ordnung ist.",
+    "wann": "Um Verständnis, Vergebung oder Gelassenheit auszudrücken.",
+    "kategorie": "Dankbarkeit und Entschuldigungen"
+  },
+  {
+    "de": "Sprechen Sie bitte langsam.",
+    "th": "พูดช้าๆ หน่อย",
+    "umschrift": "phûut cháa cháa nòi",
+    "maenner": "พูดช้าๆ หน่อยครับ",
+    "frauen": "พูดช้าๆ หน่อยค่ะ",
+    "erklaerung": "Bitte langsamer sprechen.",
+    "wann": "Wenn man Schwierigkeiten hat, zu folgen.",
+    "kategorie": "Höfliche Bitten und Fragen"
+  },
+  {
+    "de": "Bitte wiederholen.",
+    "th": "พูดอีกครั้ง",
+    "umschrift": "phûut ìik kráng",
+    "maenner": "พูดอีกครั้งครับ",
+    "frauen": "พูดอีกครั้งค่ะ",
+    "erklaerung": "Bitte etwas noch einmal sagen.",
+    "wann": "Um etwas erneut zu hören.",
+    "kategorie": "Höfliche Bitten und Fragen"
+  },
+  {
+    "de": "Verstehen Sie?",
+    "th": "เข้าใจไหม",
+    "umschrift": "khâo jai mái",
+    "maenner": "เข้าใจไหมครับ",
+    "frauen": "เข้าใจไหมคะ",
+    "erklaerung": "Frage, ob verstanden wurde.",
+    "wann": "Um sich zu vergewissern, dass das Gesagte ankommt.",
+    "kategorie": "Höfliche Bitten und Fragen"
+  },
+  {
+    "de": "Ich verstehe nicht.",
+    "th": "ไม่เข้าใจ",
+    "umschrift": "mâi khâo jai",
+    "maenner": "ผมไม่เข้าใจครับ",
+    "frauen": "ฉันไม่เข้าใจค่ะ",
+    "erklaerung": "Ausdruck, dass man etwas nicht versteht.",
+    "wann": "Wenn man Unklarheiten hat.",
+    "kategorie": "Höfliche Bitten und Fragen"
+  },
+  {
+    "de": "Entschuldigen Sie die Störung.",
+    "th": "รบกวน",
+    "umschrift": "róp guan",
+    "maenner": "รบกวนครับ",
+    "frauen": "รบกวนค่ะ",
+    "erklaerung": "Höfliche Einleitung, um Hilfe zu bitten.",
+    "wann": "Wenn man jemanden um Unterstützung bittet.",
+    "kategorie": "Höfliche Bitten und Fragen"
+  },
+  {
+    "de": "Vielleicht",
+    "th": "อาจจะ",
+    "umschrift": "àat jà",
+    "maenner": "อาจจะครับ",
+    "frauen": "อาจจะค่ะ",
+    "erklaerung": "Drückt Unsicherheit aus.",
+    "wann": "Wenn man sich nicht sicher ist.",
+    "kategorie": "Entscheidungsfindung und Unsicherheiten"
+  },
+  {
+    "de": "Wohin soll ich gehen?",
+    "th": "ไปไหนดี",
+    "umschrift": "bai năi dee",
+    "maenner": "ไปไหนดีครับ",
+    "frauen": "ไปไหนดีคะ",
+    "erklaerung": "Frage nach einer Empfehlung für einen Ort.",
+    "wann": "Um Rat oder Ideen für ein Ziel zu erfragen.",
+    "kategorie": "Entscheidungsfindung und Unsicherheiten"
+  },
+  {
+    "de": "Ich gehe zuerst.",
+    "th": "ไปก่อนนะ",
+    "umschrift": "bai gòn ná",
+    "maenner": "ไปก่อนนะครับ",
+    "frauen": "ไปก่อนนะคะ",
+    "erklaerung": "Ankündigung, dass man vorangeht.",
+    "wann": "Wenn man vor anderen aufbricht.",
+    "kategorie": "Entscheidungsfindung und Unsicherheiten"
+  },
+  {
+    "de": "Es tut mir leid für deinen Verlust.",
+    "th": "เสียใจด้วยนะ",
+    "umschrift": "sǐa jai dûai ná",
+    "maenner": "เสียใจด้วยนะครับ",
+    "frauen": "เสียใจด้วยนะคะ",
+    "erklaerung": "Ausdruck von Mitgefühl.",
+    "wann": "Bei Beileidsbekundungen.",
+    "kategorie": "Emotionale Ausdrücke"
+  },
+  {
+    "de": "Ich freue mich für dich.",
+    "th": "ดีใจด้วยนะ",
+    "umschrift": "dee jai dûai ná",
+    "maenner": "ดีใจด้วยนะครับ",
+    "frauen": "ดีใจด้วยนะคะ",
+    "erklaerung": "Ausdruck von Mitfreude.",
+    "wann": "Wenn jemand etwas erreicht hat.",
+    "kategorie": "Emotionale Ausdrücke"
+  },
+  {
+    "de": "Ich bin stolz auf dich.",
+    "th": "ภูมิใจในตัวคุณ",
+    "umschrift": "puum jai nai tua khun",
+    "maenner": "ภูมิใจในตัวคุณครับ",
+    "frauen": "ภูมิใจในตัวคุณค่ะ",
+    "erklaerung": "Drückt Stolz aus.",
+    "wann": "Um Ermutigung und Anerkennung zu zeigen.",
+    "kategorie": "Emotionale Ausdrücke"
+  },
+  {
+    "de": "Ich fange an zu essen.",
+    "th": "กินแล้วนะ",
+    "umschrift": "gin láew ná",
+    "maenner": "กินแล้วนะครับ",
+    "frauen": "กินแล้วนะคะ",
+    "erklaerung": "Höfliche Ankündigung beim Essen.",
+    "wann": "Bevor man mit dem Essen beginnt.",
+    "kategorie": "Smalltalk und Alltag"
+  },
+  {
+    "de": "Gut gemacht!",
+    "th": "ทำได้ดีมาก",
+    "umschrift": "tam dâi dee mâak",
+    "maenner": "ทำได้ดีมากครับ",
+    "frauen": "ทำได้ดีมากค่ะ",
+    "erklaerung": "Lob für eine gute Leistung.",
+    "wann": "Um jemanden für seine Arbeit zu loben.",
+    "kategorie": "Smalltalk und Alltag"
+  },
+  {
+    "de": "Fantastisch!",
+    "th": "เยี่ยมมาก",
+    "umschrift": "yîam mâak",
+    "maenner": "เยี่ยมมากครับ",
+    "frauen": "เยี่ยมมากค่ะ",
+    "erklaerung": "Drückt große Bewunderung aus.",
+    "wann": "Um etwas Außergewöhnliches zu würdigen.",
+    "kategorie": "Smalltalk und Alltag"
+  },
+  {
+    "de": "Sehr schlau!",
+    "th": "เก่งมาก",
+    "umschrift": "gèng mâak",
+    "maenner": "เก่งมากครับ",
+    "frauen": "เก่งมากค่ะ",
+    "erklaerung": "Kompliment für Intelligenz oder Talent.",
+    "wann": "Um jemanden für seine Fähigkeit zu loben.",
+    "kategorie": "Smalltalk und Alltag"
+  },
+  {
+    "de": "Gibt es ein Problem?",
+    "th": "มีปัญหาไหม",
+    "umschrift": "mii panhăa mái",
+    "maenner": "มีปัญหาไหมครับ",
+    "frauen": "มีปัญหาไหมคะ",
+    "erklaerung": "Nachfragen nach Problemen.",
+    "wann": "Um festzustellen, ob Schwierigkeiten bestehen.",
+    "kategorie": "Relevante Fragen und Sätze"
+  },
+  {
+    "de": "Kein Problem.",
+    "th": "ไม่มีปัญหา",
+    "umschrift": "mâi mii panhăa",
+    "maenner": "ไม่มีปัญหาครับ",
+    "frauen": "ไม่มีปัญหาค่ะ",
+    "erklaerung": "Versichert, dass es kein Problem gibt.",
+    "wann": "Um Zuverlässigkeit oder Gelassenheit auszudrücken.",
+    "kategorie": "Relevante Fragen und Sätze"
+  },
+  {
+    "de": "Wohin gehst du?",
+    "th": "ไปไหน",
+    "umschrift": "bai năi",
+    "maenner": "ไปไหนครับ",
+    "frauen": "ไปไหนคะ",
+    "erklaerung": "Frage nach dem Zielort.",
+    "wann": "Für alltägliche Gespräche, um zu erfahren, wohin jemand geht.",
+    "kategorie": "Relevante Fragen und Sätze"
+  },
+  {
+    "de": "Was?",
+    "th": "อะไรนะ",
+    "umschrift": "à-rai ná",
+    "maenner": "อะไรนะครับ",
+    "frauen": "อะไรนะคะ",
+    "erklaerung": "Rückfrage, wenn man etwas nicht verstanden hat.",
+    "wann": "Wenn man die Aussage des Gesprächspartners nicht klar mitbekommen hat.",
+    "kategorie": "Relevante Fragen und Sätze"
+  },
+  {
+    "de": "Kannst du das reparieren?",
+    "th": "ซ่อมได้ไหม",
+    "umschrift": "sôm dâi mái",
+    "maenner": "ซ่อมได้ไหมครับ",
+    "frauen": "ซ่อมได้ไหมคะ",
+    "erklaerung": "Frage nach Reparaturmöglichkeiten.",
+    "wann": "Wenn man wissen will, ob etwas repariert werden kann.",
+    "kategorie": "Relevante Fragen und Sätze"
+  },
+  {
+    "de": "Glückwunsch!",
+    "th": "ยินดีด้วย",
+    "umschrift": "yin dee dûai",
+    "maenner": "ยินดีด้วยครับ",
+    "frauen": "ยินดีด้วยค่ะ",
+    "erklaerung": "Gratulation zu einem Erfolg.",
+    "wann": "Um Erfolge zu feiern oder Glückwünsche auszusprechen.",
+    "kategorie": "Positives Feedback"
+  },
+  {
+    "de": "Gut gemacht!",
+    "th": "ทำได้ดี",
+    "umschrift": "tam dâi dee",
+    "maenner": "ทำได้ดีครับ",
+    "frauen": "ทำได้ดีค่ะ",
+    "erklaerung": "Anerkennung für eine gute Leistung.",
+    "wann": "Um jemanden zu motivieren und zu loben.",
+    "kategorie": "Positives Feedback"
+  },
+  {
+    "de": "Kein Glück.",
+    "th": "โชคไม่ดีเลย",
+    "umschrift": "chôk mâi dee loei",
+    "maenner": "โชคไม่ดีเลยครับ",
+    "frauen": "โชคไม่ดีเลยค่ะ",
+    "erklaerung": "Ausdruck von Pech oder Enttäuschung.",
+    "wann": "Wenn etwas nicht gut läuft und man Pech hatte.",
+    "kategorie": "Positives Feedback"
+  }
+]
