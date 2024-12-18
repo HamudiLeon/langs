@@ -1,5 +1,14 @@
   
-  [
+  [{
+    "de": "Entschuldigung, ich habe es nicht gewusst",
+    "th": "ขออภัย ฉันไม่รู้!",
+    "umschrift": "K̄hxxp̣hạy c̄hạn mị̀rū̂!",
+    "maenner": "ขออภัย ฉันไม่รู้!",
+    "frauen": "ขออภัย ฉันไม่รู้!",
+    "erklaerung": "Entschuldigen, nicht wissen",
+    "wann": "Überall",
+    "kategorie": "Höfliche Bitten und Fragen"
+}, 
   {
     "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
     "th": "ขอโทษค่ะ ฉันขอสั่งเครื่องดื่มได้ไหม?",
