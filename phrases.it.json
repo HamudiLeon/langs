@@ -1,32 +1,683 @@
 [
-     {
-        "de": "Hallo, wie geht es dir?",
-        "lang": "Ciao, come stai?",
-        "umschrift": "Ciao, come stai?",
-        "formel": "Buongiorno/Buonasera, come sta?",
-        "informel": "Ciao, come stai?",
-        "description": "Begruessung und Frage nach dem Befinden.",
-        "when": "Um ein Gespraech zu beginnen.",
-        "categorie": "Gruesse"
+    {
+      "de": "Entschuldigung, ich habe es nicht gewusst",
+      "lang": "Mi scusi, non lo sapevo.",
+      "umschrift": "",
+      "formel": "Mi scusi, non lo sapevo.",
+      "informel": "Scusa, non lo sapevo.",
+      "description": "Chiedere scusa per Unwissenheit o Unkenntnis.",
+      "when": "In qualsiasi situazione in cui si chiede scusa per ignoranza di un fatto.",
+      "categorie": "Richieste e domande cortesi"
     },
     {
-        "de": "Entschuldigung, können Sie mir helfen?",
-        "lang": "Scusi, può aiutarmi?",
-        "umschrift": "Scusi, può aiutarmi?",
-        "formel": "Scusi, potrebbe aiutarmi?",
-        "informel": "Scusa, mi aiuti?",
-        "description": "Bitte um Hilfe in einer formellen oder informellen Situation.",
-        "when": "Wenn man etwas nicht versteht oder Hilfe benötigt.",
-        "categorie": "Bitten"
+      "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
+      "lang": "Mi scusi, posso ordinare una bevanda?",
+      "umschrift": "",
+      "formel": "Mi scusi, potrei ordinare una bevanda?",
+      "informel": "Scusa, posso ordinare da bere?",
+      "description": "Chiedere cortesemente se è possibile ordinare da bere.",
+      "when": "In un bar, ristorante o caffetteria.",
+      "categorie": "Cibo e bevande"
     },
     {
-        "de": "Danke",
-        "lang": "Grazie",
-        "umschrift": "Grazie",
-        "formel": "Grazie mille",
-        "informel": "Grazie",
-        "description": "Ausdruck der Dankbarkeit.",
-        "when": "Um sich für eine Hilfe oder Gefälligkeit zu bedanken.",
-        "categorie": "Höflichkeit"
+      "de": "Können Sie mir Ihre Meinung geben?!",
+      "lang": "Mi potrebbe dare la sua opinione?",
+      "umschrift": "",
+      "formel": "Mi potrebbe dare la sua opinione?",
+      "informel": "Mi dai la tua opinione?",
+      "description": "Richiesta educata di un parere o un consiglio.",
+      "when": "Quando si desidera un’opinione o un feedback.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Entschuldigung, kann ich dich um etwas bitten?!",
+      "lang": "Mi scusi, posso chiederle un favore?",
+      "umschrift": "",
+      "formel": "Mi scusi, posso chiederle un favore?",
+      "informel": "Scusa, posso chiederti un favore?",
+      "description": "Chiedere gentilmente un piccolo favore a qualcuno.",
+      "when": "Quando si desidera l’aiuto o l’attenzione di qualcuno per un compito.",
+      "categorie": "Cortesia"
+    },
+    {
+      "de": "Hallo, kannst Du mir deine Meinung zu meiner APP geben? Ich habe hier thailändische Sätze, die ich von dir untersuchen lassen möchte. Sagst Du mir ob diese korrekt sind?",
+      "lang": "Ciao, potresti darmi la tua opinione sulla mia app? Ho alcune frasi in tailandese che vorrei tu verificassi. Puoi dirmi se sono corrette?",
+      "umschrift": "",
+      "formel": "Buongiorno, potrebbe darmi la sua opinione sulla mia app? Ho alcune frasi in thailandese da farle controllare. Potrebbe dirmi se sono corrette?",
+      "informel": "Ciao, mi dai la tua opinione sulla mia app? Ho alcune frasi in thailandese da farti controllare. Mi dici se sono corrette?",
+      "description": "Richiedere un feedback sulla correttezza di frasi in una lingua straniera.",
+      "when": "Quando si cerca un parere su traduzioni o contenuti linguistici.",
+      "categorie": "Feedback"
+    },
+    {
+      "de": "Haben Sie einen Moment Zeit?!",
+      "lang": "Ha un momento?",
+      "umschrift": "",
+      "formel": "Ha un momento, per favore?",
+      "informel": "Hai un attimo?",
+      "description": "Chiedere gentilmente se l’interlocutore ha tempo per ascoltare o aiutare.",
+      "when": "Quando si vuole iniziare un’interazione rispettosa.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Wie kann ich das machen?",
+      "lang": "Come posso farlo?",
+      "umschrift": "",
+      "formel": "Come posso farlo?",
+      "informel": "Come faccio a farlo?",
+      "description": "Domanda su come eseguire una certa azione.",
+      "when": "Quando si cerca una spiegazione o un consiglio pratico.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Kann ich Ihnen helfen?",
+      "lang": "Posso aiutarla?",
+      "umschrift": "",
+      "formel": "Posso aiutarla?",
+      "informel": "Posso aiutarti?",
+      "description": "Offrire il proprio aiuto a qualcuno.",
+      "when": "Quando si nota che qualcuno potrebbe aver bisogno di assistenza.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Woher wissen Sie das?",
+      "lang": "Come lo sa?",
+      "umschrift": "",
+      "formel": "Come lo sa?",
+      "informel": "Come lo sai?",
+      "description": "Chiedere la fonte o la ragione di una conoscenza.",
+      "when": "Quando si è curiosi su come l’altro ha appreso un’informazione.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Wann ist ein guter Zeitpunkt?",
+      "lang": "Qual è un buon momento?",
+      "umschrift": "",
+      "formel": "Qual è un momento opportuno?",
+      "informel": "Quando è un buon momento?",
+      "description": "Chiedere un momento adatto o conveniente per qualcosa.",
+      "when": "Quando si cerca di programmare un incontro o un’azione.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Was empfehlen Sie?",
+      "lang": "Cosa mi consiglia?",
+      "umschrift": "",
+      "formel": "Cosa mi consiglia?",
+      "informel": "Cosa mi consigli?",
+      "description": "Richiedere una raccomandazione o un suggerimento.",
+      "when": "Quando si ha bisogno di un consiglio o un’idea.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Gibt es eine andere Möglichkeit?",
+      "lang": "C’è un’altra possibilità?",
+      "umschrift": "",
+      "formel": "C’è un’altra possibilità?",
+      "informel": "C’è un’altra opzione?",
+      "description": "Chiedere se esistono alternative.",
+      "when": "Quando si cercano soluzioni differenti.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Sind Sie sicher?",
+      "lang": "È sicuro(a)?",
+      "umschrift": "",
+      "formel": "È sicuro?",
+      "informel": "Sei sicuro(a)?",
+      "description": "Chiedere conferma o certezza su un’informazione.",
+      "when": "Quando si dubita o si cerca rassicurazione.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Kann ich etwas fragen?",
+      "lang": "Posso chiedere qualcosa?",
+      "umschrift": "",
+      "formel": "Posso chiederle qualcosa?",
+      "informel": "Posso chiederti qualcosa?",
+      "description": "Richiedere il permesso di fare una domanda.",
+      "when": "Quando si vuole porre una domanda in modo cortese.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Kann ich das anprobieren?",
+      "lang": "Posso provarlo?",
+      "umschrift": "",
+      "formel": "Posso provarlo?",
+      "informel": "Posso provarlo?",
+      "description": "Chiedere di provare un capo di abbigliamento.",
+      "when": "Quando si fanno acquisti in un negozio di vestiti.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Haben Sie das in einer anderen Größe?",
+      "lang": "Ce l’ha in un’altra taglia?",
+      "umschrift": "",
+      "formel": "Ce l’ha in un’altra taglia?",
+      "informel": "Ce l’hai in un’altra taglia?",
+      "description": "Chiedere una taglia diversa per un articolo.",
+      "when": "Quando la taglia attuale non va bene.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Haben Sie einen Rabatt?",
+      "lang": "C’è uno sconto?",
+      "umschrift": "",
+      "formel": "C’è uno sconto?",
+      "informel": "C’è lo sconto?",
+      "description": "Chiedere se è disponibile uno sconto.",
+      "when": "Quando si desidera acquistare a un prezzo ridotto.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Kann ich das zurückgeben?",
+      "lang": "Posso restituirlo?",
+      "umschrift": "",
+      "formel": "Posso restituirlo?",
+      "informel": "Posso restituirlo?",
+      "description": "Chiedere se è possibile restituire un articolo.",
+      "when": "Quando si vuole cambiare o rimborsare un acquisto.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Gibt es dieses Produkt in einer anderen Farbe?",
+      "lang": "Ce l’ha in un altro colore?",
+      "umschrift": "",
+      "formel": "Ce l’ha in un altro colore?",
+      "informel": "Ce l’hai in un altro colore?",
+      "description": "Chiedere la disponibilità di un prodotto in altri colori.",
+      "when": "Durante l’acquisto di prodotti.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Wo ist die Toilette?",
+      "lang": "Dov’è il bagno?",
+      "umschrift": "",
+      "formel": "Dov’è la toilette?",
+      "informel": "Dov’è il bagno?",
+      "description": "Chiedere la posizione del bagno.",
+      "when": "Quando si cerca un bagno in un luogo pubblico.",
+      "categorie": "Vita quotidiana e orientamento"
+    },
+    {
+      "de": "Wie viel kostet das?",
+      "lang": "Quanto costa?",
+      "umschrift": "",
+      "formel": "Quanto costa?",
+      "informel": "Quanto viene?",
+      "description": "Chiedere il prezzo di un oggetto.",
+      "when": "Durante lo shopping o la consultazione di un listino prezzi.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Können Sie mir helfen?",
+      "lang": "Può aiutarmi?",
+      "umschrift": "",
+      "formel": "Può aiutarmi?",
+      "informel": "Puoi aiutarmi?",
+      "description": "Richiedere assistenza.",
+      "when": "Quando si ha bisogno di aiuto.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Kann ich mit Karte bezahlen?",
+      "lang": "Posso pagare con la carta?",
+      "umschrift": "",
+      "formel": "Posso pagare con la carta?",
+      "informel": "Posso pagare con la carta?",
+      "description": "Chiedere se è possibile pagare con carta di credito/debito.",
+      "when": "Durante il pagamento in negozi o ristoranti.",
+      "categorie": "Acquisti e commercio"
+    },
+    {
+      "de": "Entschuldigen Sie, ich bin verloren.",
+      "lang": "Mi scusi, mi sono perso(a).",
+      "umschrift": "",
+      "formel": "Mi scusi, mi sono perso.",
+      "informel": "Scusa, mi sono perso(a).",
+      "description": "Comunicare che ci si è smarriti.",
+      "when": "Quando si ha bisogno di indicazioni stradali.",
+      "categorie": "Vita quotidiana e orientamento"
+    },
+    {
+      "de": "Gibt es hier WLAN?",
+      "lang": "C’è il Wi-Fi qui?",
+      "umschrift": "",
+      "formel": "C’è il Wi-Fi disponibile?",
+      "informel": "C’è il Wi-Fi qui?",
+      "description": "Chiedere la disponibilità di una connessione wireless.",
+      "when": "In caffetterie, ristoranti o spazi pubblici.",
+      "categorie": "Tecnologia e comunicazione"
+    },
+    {
+      "de": "Können Sie ein Foto von uns machen?",
+      "lang": "Può farci una foto?",
+      "umschrift": "",
+      "formel": "Potrebbe farci una foto?",
+      "informel": "Puoi farci una foto?",
+      "description": "Chiedere gentilmente a qualcuno di scattare una foto.",
+      "when": "Quando si vuole una fotografia di gruppo o di coppia.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Ich brauche einen Arzt.",
+      "lang": "Ho bisogno di un medico.",
+      "umschrift": "",
+      "formel": "Ho bisogno di un medico.",
+      "informel": "Ho bisogno di un dottore.",
+      "description": "Comunicare la necessità di assistenza medica.",
+      "when": "In caso di emergenze o problemi di salute.",
+      "categorie": "Salute e sicurezza"
+    },
+    {
+      "de": "Ich bin Krank.",
+      "lang": "Sono malato(a).",
+      "umschrift": "",
+      "formel": "Sono malato.",
+      "informel": "Sono malato(a).",
+      "description": "Dichiarare di non sentirsi bene.",
+      "when": "Quando ci si sente poco bene fisicamente.",
+      "categorie": "Salute e sicurezza"
+    },
+    {
+      "de": "Ich habe Verletzt.",
+      "lang": "Mi sono ferito(a).",
+      "umschrift": "",
+      "formel": "Mi sono ferito.",
+      "informel": "Mi sono ferito(a).",
+      "description": "Comunicare di essersi fatto male.",
+      "when": "Quando si necessita di aiuto medico o di cure.",
+      "categorie": "Salute e sicurezza"
+    },
+    {
+      "de": "Wo ist der nächste Geldautomat?",
+      "lang": "Dov’è il bancomat più vicino?",
+      "umschrift": "",
+      "formel": "Mi scusi, dov’è il bancomat più vicino?",
+      "informel": "Dov’è il bancomat più vicino?",
+      "description": "Chiedere la posizione del bancomat più vicino.",
+      "when": "Quando si ha bisogno di prelevare contanti.",
+      "categorie": "Vita quotidiana e orientamento"
+    },
+    {
+      "de": "Können Sie das bitte erklären?",
+      "lang": "Può spiegarmelo, per favore?",
+      "umschrift": "",
+      "formel": "Potrebbe spiegarmelo, per favore?",
+      "informel": "Puoi spiegarmelo, per favore?",
+      "description": "Richiedere una spiegazione più dettagliata.",
+      "when": "Quando si hanno dubbi su una questione.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Ich möchte bitte Reis mit viel Gemüse.",
+      "lang": "Vorrei del riso con molte verdure, per favore.",
+      "umschrift": "",
+      "formel": "Vorrei del riso con molte verdure, per favore.",
+      "informel": "Posso avere del riso con tante verdure?",
+      "description": "Ordinare un piatto di riso con abbondanti verdure.",
+      "when": "Al ristorante, durante l’ordine.",
+      "categorie": "Cibo e bevande"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit frischem Gemüse?",
+      "lang": "Avete del riso saltato con verdure fresche?",
+      "umschrift": "",
+      "formel": "Avete del riso saltato con verdure fresche?",
+      "informel": "C’è il riso saltato con verdure fresche?",
+      "description": "Chiedere se esiste una variante di riso con verdure fresche.",
+      "when": "Al ristorante, selezionando un piatto.",
+      "categorie": "Cibo e bevande"
+    },
+    {
+      "de": "Haben Sie gebratenen Reis mit Gemüse?",
+      "lang": "Avete del riso saltato con verdure?",
+      "umschrift": "",
+      "formel": "Avete del riso saltato con verdure?",
+      "informel": "C’è il riso saltato con verdure?",
+      "description": "Chiedere se c’è una versione di riso con verdure.",
+      "when": "Al ristorante.",
+      "categorie": "Cibo e bevande"
+    },
+    {
+      "de": "Ist das Fleisch drin?",
+      "lang": "C’è della carne dentro?",
+      "umschrift": "",
+      "formel": "C’è della carne in questo piatto?",
+      "informel": "C’è carne dentro?",
+      "description": "Chiedere se un piatto contiene carne.",
+      "when": "Quando si vuole evitare carne.",
+      "categorie": "Cibo e bevande"
+    },
+    {
+      "de": "Haben Sie Essen ohne Fleisch?",
+      "lang": "Avete piatti senza carne?",
+      "umschrift": "",
+      "formel": "Avete piatti senza carne?",
+      "informel": "C’è qualcosa senza carne?",
+      "description": "Chiedere se il menù offre opzioni senza carne.",
+      "when": "Al ristorante, se si è vegetariani o si evita la carne.",
+      "categorie": "Cibo e bevande"
+    },
+    {
+      "de": "Haben Sie vegetarisches Essen?",
+      "lang": "Avete piatti vegetariani?",
+      "umschrift": "",
+      "formel": "Avete piatti vegetariani?",
+      "informel": "Ci sono piatti vegetariani?",
+      "description": "Chiedere se il ristorante offre opzioni vegetariane.",
+      "when": "Al ristorante.",
+      "categorie": "Cibo e bevande"
+    },
+    {
+      "de": "Hallo oder Auf Wiedersehen",
+      "lang": "Salve / Arrivederci",
+      "umschrift": "",
+      "formel": "Salve / Arrivederci",
+      "informel": "Ciao",
+      "description": "Saluto generale per incontrarsi o lasciarsi.",
+      "when": "All’inizio o alla fine di un incontro.",
+      "categorie": "Saluti e congedi"
+    },
+    {
+      "de": "Auf Wiedersehen",
+      "lang": "Arrivederci",
+      "umschrift": "",
+      "formel": "Arrivederci",
+      "informel": "Ciao (quando ci si rivede)",
+      "description": "Congedo formale.",
+      "when": "Quando ci si lascia in modo formale.",
+      "categorie": "Saluti e congedi"
+    },
+    {
+      "de": "Ich gehe jetzt.",
+      "lang": "Ora vado.",
+      "umschrift": "",
+      "formel": "Adesso vado.",
+      "informel": "Devo andare.",
+      "description": "Annunciare che si sta per andar via.",
+      "when": "Quando si lascia un luogo o una compagnia.",
+      "categorie": "Saluti e congedi"
+    },
+    {
+      "de": "Bis später / Bis zum nächsten Mal",
+      "lang": "A dopo / Alla prossima",
+      "umschrift": "",
+      "formel": "A dopo / Alla prossima volta",
+      "informel": "Ci vediamo dopo / Alla prossima",
+      "description": "Esprime l’intenzione di rivedersi.",
+      "when": "Quando si progetta di incontrarsi nuovamente.",
+      "categorie": "Saluti e congedi"
+    },
+    {
+      "de": "Viel Glück",
+      "lang": "Buona fortuna",
+      "umschrift": "",
+      "formel": "Buona fortuna",
+      "informel": "In bocca al lupo",
+      "description": "Augurare buona sorte.",
+      "when": "Per incoraggiare qualcuno.",
+      "categorie": "Saluti e congedi"
+    },
+    {
+      "de": "Danke",
+      "lang": "Grazie",
+      "umschrift": "",
+      "formel": "La ringrazio",
+      "informel": "Grazie",
+      "description": "Esprimere gratitudine.",
+      "when": "Quando si riceve un aiuto o un dono.",
+      "categorie": "Ringraziamenti e scuse"
+    },
+    {
+      "de": "Entschuldigung",
+      "lang": "Scusi / Scusa",
+      "umschrift": "",
+      "formel": "Mi scusi",
+      "informel": "Scusa",
+      "description": "Chiedere perdono o attirare l’attenzione.",
+      "when": "Quando si interrompe o si chiede qualcosa con cortesia.",
+      "categorie": "Ringraziamenti e scuse"
+    },
+    {
+      "de": "Kein Problem / Schon gut",
+      "lang": "Nessun problema",
+      "umschrift": "",
+      "formel": "Nessun problema",
+      "informel": "Tranquillo/a, tutto ok",
+      "description": "Far capire che va bene così, non ci sono problemi.",
+      "when": "Per rassicurare o minimizzare un inconveniente.",
+      "categorie": "Ringraziamenti e scuse"
+    },
+    {
+      "de": "Sprechen Sie bitte langsam.",
+      "lang": "Per favore, parli più lentamente.",
+      "umschrift": "",
+      "formel": "Per favore, potrebbe parlare più lentamente?",
+      "informel": "Puoi parlare più piano, per favore?",
+      "description": "Chiedere di rallentare il ritmo della conversazione.",
+      "when": "Quando si fa fatica a capire una lingua.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Bitte wiederholen.",
+      "lang": "Può ripetere, per favore?",
+      "umschrift": "",
+      "formel": "Potrebbe ripetere, per favore?",
+      "informel": "Puoi ripetere, per favore?",
+      "description": "Chiedere di ripetere qualcosa non compreso.",
+      "when": "Quando non si è afferrato un concetto.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Verstehen Sie?",
+      "lang": "Capisce?",
+      "umschrift": "",
+      "formel": "Capisce?",
+      "informel": "Capisci?",
+      "description": "Chiedere se l’interlocutore ha compreso.",
+      "when": "Per verificare la comprensione.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Ich verstehe nicht.",
+      "lang": "Non capisco.",
+      "umschrift": "",
+      "formel": "Non capisco.",
+      "informel": "Non capisco.",
+      "description": "Dichiarare di non aver compreso.",
+      "when": "Quando si è confusi o incerti.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Entschuldigen Sie die Störung.",
+      "lang": "Mi scusi per il disturbo.",
+      "umschrift": "",
+      "formel": "Mi scusi per il disturbo.",
+      "informel": "Scusa se disturbo.",
+      "description": "Scusarsi per aver interferito o interrotto.",
+      "when": "Quando si chiede aiuto in modo educato.",
+      "categorie": "Richieste e domande cortesi"
+    },
+    {
+      "de": "Vielleicht",
+      "lang": "Forse",
+      "umschrift": "",
+      "formel": "Forse",
+      "informel": "Forse",
+      "description": "Indica incertezza.",
+      "when": "Quando non si è sicuri.",
+      "categorie": "Decisioni e incertezze"
+    },
+    {
+      "de": "Wohin soll ich gehen?",
+      "lang": "Dove dovrei andare?",
+      "umschrift": "",
+      "formel": "Dove dovrei andare?",
+      "informel": "Dove devo andare?",
+      "description": "Chiedere un consiglio su una destinazione.",
+      "when": "Quando si cerca orientamento o suggerimenti.",
+      "categorie": "Decisioni e incertezze"
+    },
+    {
+      "de": "Ich gehe zuerst.",
+      "lang": "Vado prima io.",
+      "umschrift": "",
+      "formel": "Vado prima io.",
+      "informel": "Vado io per primo.",
+      "description": "Comunicare l’intenzione di andare per primi.",
+      "when": "Quando si prende l’iniziativa di partire.",
+      "categorie": "Decisioni e incertezze"
+    },
+    {
+      "de": "Es tut mir leid für deinen Verlust.",
+      "lang": "Mi dispiace per la tua perdita.",
+      "umschrift": "",
+      "formel": "Mi dispiace per la sua perdita.",
+      "informel": "Mi dispiace per la tua perdita.",
+      "description": "Espressione di cordoglio.",
+      "when": "Quando si vuole mostrare empatia per un lutto.",
+      "categorie": "Espressioni emotive"
+    },
+    {
+      "de": "Ich freue mich für dich.",
+      "lang": "Sono felice per te.",
+      "umschrift": "",
+      "formel": "Sono lieto per lei.",
+      "informel": "Sono felice per te.",
+      "description": "Mostrare gioia per i successi altrui.",
+      "when": "Quando qualcuno ha ottenuto un risultato positivo.",
+      "categorie": "Espressioni emotive"
+    },
+    {
+      "de": "Ich bin stolz auf dich.",
+      "lang": "Sono orgoglioso(a) di te.",
+      "umschrift": "",
+      "formel": "Sono orgoglioso di lei.",
+      "informel": "Sono orgoglioso(a) di te.",
+      "description": "Comunicare orgoglio verso qualcuno.",
+      "when": "Quando si vuole lodare una persona amata o amica.",
+      "categorie": "Espressioni emotive"
+    },
+    {
+      "de": "Ich fange an zu essen.",
+      "lang": "Comincio a mangiare.",
+      "umschrift": "",
+      "formel": "Inizio a mangiare.",
+      "informel": "Comincio a mangiare.",
+      "description": "Annunciare che si sta per iniziare a mangiare.",
+      "when": "Prima di cominciare il pasto.",
+      "categorie": "Piccole interazioni quotidiane"
+    },
+    {
+      "de": "Gut gemacht!",
+      "lang": "Ben fatto!",
+      "umschrift": "",
+      "formel": "Ben fatto!",
+      "informel": "Bravo/a!",
+      "description": "Lodare una buona prestazione.",
+      "when": "Quando si vuole riconoscere il merito di qualcuno.",
+      "categorie": "Piccole interazioni quotidiane"
+    },
+    {
+      "de": "Fantastisch!",
+      "lang": "Fantastico!",
+      "umschrift": "",
+      "formel": "Fantastico!",
+      "informel": "Fantastico!",
+      "description": "Esprimere ammirazione e stupore.",
+      "when": "Quando si ammira qualcosa di straordinario.",
+      "categorie": "Piccole interazioni quotidiane"
+    },
+    {
+      "de": "Sehr schlau!",
+      "lang": "Molto intelligente!",
+      "umschrift": "",
+      "formel": "Molto intelligente!",
+      "informel": "Che furbo!",
+      "description": "Complimentarsi per l’intelligenza o l’abilità.",
+      "when": "Quando si riconosce l’arguzia di qualcuno.",
+      "categorie": "Piccole interazioni quotidiane"
+    },
+    {
+      "de": "Gibt es ein Problem?",
+      "lang": "C’è un problema?",
+      "umschrift": "",
+      "formel": "C’è qualche problema?",
+      "informel": "C’è un problema?",
+      "description": "Chiedere se ci sono difficoltà.",
+      "when": "Per verificare la presenza di problemi.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Kein Problem.",
+      "lang": "Nessun problema.",
+      "umschrift": "",
+      "formel": "Nessun problema.",
+      "informel": "Tutto ok.",
+      "description": "Tranquillizzare che va tutto bene.",
+      "when": "Per rassicurare qualcuno.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Wohin gehst du?",
+      "lang": "Dove stai andando?",
+      "umschrift": "",
+      "formel": "Dove sta andando?",
+      "informel": "Dove vai?",
+      "description": "Chiedere la destinazione dell’altra persona.",
+      "when": "Conversazione informale o per curiosità.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Was?",
+      "lang": "Come, scusa?",
+      "umschrift": "",
+      "formel": "Mi scusi, come ha detto?",
+      "informel": "Come, scusa?",
+      "description": "Richiedere di ripetere quando non si è capito.",
+      "when": "Quando non si è sentito o compreso qualcosa.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Kannst du das reparieren?",
+      "lang": "Puoi ripararlo?",
+      "umschrift": "",
+      "formel": "Può ripararlo?",
+      "informel": "Puoi ripararlo?",
+      "description": "Chiedere se una cosa può essere aggiustata.",
+      "when": "Quando si cerca una soluzione a un oggetto rotto.",
+      "categorie": "Domande rilevanti"
+    },
+    {
+      "de": "Glückwunsch!",
+      "lang": "Congratulazioni!",
+      "umschrift": "",
+      "formel": "Le mie congratulazioni!",
+      "informel": "Congratulazioni!",
+      "description": "Esprimere felicitazioni per un risultato.",
+      "when": "Per celebrare il successo di qualcuno.",
+      "categorie": "Feedback positivo"
+    },
+    {
+      "de": "Gut gemacht!",
+      "lang": "Ben fatto!",
+      "umschrift": "",
+      "formel": "Ben fatto!",
+      "informel": "Bravo!",
+      "description": "Riconoscere una buona prestazione.",
+      "when": "Quando qualcuno compie un buon lavoro.",
+      "categorie": "Feedback positivo"
+    },
+    {
+      "de": "Kein Glück.",
+      "lang": "Niente fortuna.",
+      "umschrift": "",
+      "formel": "Non è andata bene.",
+      "informel": "Che sfortuna!",
+      "description": "Esprimere sfortuna o delusione.",
+      "when": "Quando le cose non vanno come previsto.",
+      "categorie": "Feedback positivo"
     }
-]
+  ]
+  
