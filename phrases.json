@@ -684,86 +684,84 @@
     "when": "Wenn etwas nicht gut läuft und man Pech hatte.",
     "categorie": "Positives Feedback"
   },
-  
-    {
-      "de": "Ich möchte einen Espresso bestellen.",
-      "lang": "Je voudrais un espresso, s’il vous plaît.",
-      "umschrift": "",
-      "formel": "Pourrais-je avoir un espresso, s’il vous plaît?",
-      "informel": "Je peux avoir un espresso, s’il te plaît?",
-      "description": "Demander poliment un espresso au café.",
-      "when": "Au moment de passer commande dans un café.",
-      "categorie": "Nourriture et boissons (Café)"
-    },
-    {
-      "de": "Können Sie mir bitte ein Glas Wasser bringen?",
-      "lang": "Pourriez-vous m’apporter un verre d’eau, s’il vous plaît?",
-      "umschrift": "",
-      "formel": "Auriez-vous la gentillesse de m’apporter un verre d’eau, s’il vous plaît?",
-      "informel": "Tu peux me donner un verre d’eau, s’il te plaît?",
-      "description": "Demander poliment un verre d’eau dans un café.",
-      "when": "Lorsqu’on a soif ou qu’on accompagne sa boisson.",
-      "categorie": "Nourriture et boissons (Café)"
-    },
-    {
-      "de": "Das ist ein guter Kaffee, danke.",
-      "lang": "C’est un bon café, merci.",
-      "umschrift": "",
-      "formel": "Votre café est excellent, merci.",
-      "informel": "Ton café est super, merci.",
-      "description": "Faire un compliment sur le café.",
-      "when": "Après avoir dégusté un bon café dans un café.",
-      "categorie": "Feedback positif (Café)"
-    },
-    {
-      "de": "Haben Sie auch Tee?",
-      "lang": "Avez-vous aussi du thé?",
-      "umschrift": "",
-      "formel": "Proposez-vous également du thé, s’il vous plaît?",
-      "informel": "Vous avez aussi du thé?",
-      "description": "Demander s’il y a du thé disponible.",
-      "when": "Lorsqu’on souhaite une alternative au café.",
-      "categorie": "Nourriture et boissons (Café)"
-    },
-    {
-      "de": "Kann ich mich hier hinsetzen?",
-      "lang": "Puis-je m’asseoir ici?",
-      "umschrift": "",
-      "formel": "Puis-je prendre place à cette table, s’il vous plaît?",
-      "informel": "Je peux m’asseoir là?",
-      "description": "Demander la permission de s’asseoir quelque part.",
-      "when": "Lorsqu’on arrive dans un café et qu’on veut s’installer.",
-      "categorie": "Vie quotidienne (Café)"
-    },
-    {
-      "de": "Entschuldigung, die Rechnung bitte.",
-      "lang": "Excusez-moi, l’addition s’il vous plaît.",
-      "umschrift": "",
-      "formel": "Pourriez-vous m’apporter l’addition, s’il vous plaît?",
-      "informel": "L’addition, s’il te plaît?",
-      "description": "Demander poliment l’addition.",
-      "when": "Lorsque l’on a fini de consommer et qu’on veut payer.",
-      "categorie": "Achats et commerce (Café)"
-    },
-    {
-      "de": "Haben Sie etwas Süßes zum Kaffee?",
-      "lang": "Avez-vous quelque chose de sucré pour accompagner le café?",
-      "umschrift": "",
-      "formel": "Proposez-vous un accompagnement sucré avec le café?",
-      "informel": "Vous avez un truc sucré avec le café?",
-      "description": "Demander une pâtisserie ou un dessert avec le café.",
-      "when": "Lorsqu’on souhaite une gourmandise avec sa boisson.",
-      "categorie": "Nourriture et boissons (Café)"
-    },
-    {
-      "de": "Kann ich die Milch separat bekommen?",
-      "lang": "Puis-je avoir le lait à part?",
-      "umschrift": "",
-      "formel": "Pourriez-vous me servir le lait séparément, s’il vous plaît?",
-      "informel": "Je peux avoir le lait à part?",
-      "description": "Demander à recevoir le lait à part pour le café.",
-      "when": "Lorsqu’on veut doser soi-même le lait.",
-      "categorie": "Nourriture et boissons (Café)"
-    }
-    
+  {
+    "de": "Ich möchte einen Espresso bestellen.",
+    "lang": "ฉันขอเอสเพรสโซ่หนึ่งแก้วได้ไหมคะ",
+    "umschrift": "chăn khǒo espresso nùeng gâeo dâi mái khá",
+    "formel": "ขอเอสเพรสโซ่หนึ่งแก้วได้ไหมครับ",
+    "informel": "ขอเอสเพรสโซ่หนึ่งแก้วได้ไหมคะ",
+    "description": "การขอสั่งเอสเพรสโซ่ด้วยความสุภาพ",
+    "when": "เมื่อต้องการสั่งกาแฟในร้านกาแฟ",
+    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+  },
+  {
+    "de": "Können Sie mir bitte ein Glas Wasser bringen?",
+    "lang": "คุณช่วยนำน้ำหนึ่งแก้วมาให้ได้ไหมคะ",
+    "umschrift": "khun chûai nam náam nùeng gâeo maa hâi dâi mái khá",
+    "formel": "ขอรบกวนขอน้ำหนึ่งแก้วได้ไหมครับ",
+    "informel": "ขอน้ำหนึ่งแก้วได้ไหมคะ",
+    "description": "ขอน้ำดื่มด้วยความสุภาพ",
+    "when": "เมื่อต้องการน้ำดื่มเพิ่มเติมในร้านกาแฟ",
+    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+  },
+  {
+    "de": "Das ist ein guter Kaffee, danke.",
+    "lang": "กาแฟนี้อร่อยมาก ขอบคุณค่ะ",
+    "umschrift": "gaa-fae níi à-ròi mâak, khàawp-khun kâ",
+    "formel": "กาแฟนี้อร่อยมากครับ ขอบคุณครับ",
+    "informel": "กาแฟนี้อร่อยมากค่ะ ขอบคุณค่ะ",
+    "description": "ชมเชยรสชาติกาแฟและแสดงความขอบคุณ",
+    "when": "หลังจากดื่มกาแฟแล้วรู้สึกพอใจ",
+    "categorie": "คำชมเชยและขอบคุณ (ร้านกาแฟ)"
+  },
+  {
+    "de": "Haben Sie auch Tee?",
+    "lang": "มีชาไหมคะ",
+    "umschrift": "mii chaa mái khá",
+    "formel": "มีชาไหมครับ",
+    "informel": "มีชาไหมคะ",
+    "description": "ถามว่าร้านมีชาหรือไม่",
+    "when": "เมื่อต้องการสอบถามเครื่องดื่มชนิดอื่นนอกจากกาแฟ",
+    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+  },
+  {
+    "de": "Kann ich mich hier hinsetzen?",
+    "lang": "ฉันนั่งตรงนี้ได้ไหมคะ",
+    "umschrift": "chăn nâng trong níi dâi mái khá",
+    "formel": "ผมนั่งตรงนี้ได้ไหมครับ",
+    "informel": "ฉันนั่งตรงนี้ได้ไหมคะ",
+    "description": "ขออนุญาตนั่งในตำแหน่งดังกล่าว",
+    "when": "เมื่อต้องการหาที่นั่งในร้านกาแฟ",
+    "categorie": "ชีวิตประจำวัน (ร้านกาแฟ)"
+  },
+  {
+    "de": "Entschuldigung, die Rechnung bitte.",
+    "lang": "ขอคิดเงินด้วยค่ะ",
+    "umschrift": "khǒo khít-ngoen dûai khâ",
+    "formel": "ขอคิดเงินด้วยครับ",
+    "informel": "ขอคิดเงินด้วยค่ะ",
+    "description": "ขอเรียกเก็บเงินอย่างสุภาพ",
+    "when": "เมื่อต้องการจ่ายเงินหลังจากสั่งและดื่มกาแฟแล้ว",
+    "categorie": "การชำระเงิน (ร้านกาแฟ)"
+  },
+  {
+    "de": "Haben Sie etwas Süßes zum Kaffee?",
+    "lang": "มีของหวานทานกับกาแฟไหมคะ",
+    "umschrift": "mii khǒng-wăan thaan kap gaa-fae mái khá",
+    "formel": "มีของหวานทานกับกาแฟไหมครับ",
+    "informel": "มีของหวานทานกับกาแฟไหมคะ",
+    "description": "สอบถามว่ามีขนมหรือของหวานให้ทานคู่กาแฟหรือไม่",
+    "when": "เมื่ออยากได้ของหวานเพิ่มรสชาติกาแฟ",
+    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+  },
+  {
+    "de": "Kann ich die Milch separat bekommen?",
+    "lang": "ขอรับนมแยกได้ไหมคะ",
+    "umschrift": "khǒo ráp nom yâek dâi mái khá",
+    "formel": "ขอรับนมแยกได้ไหมครับ",
+    "informel": "ขอรับนมแยกได้ไหมคะ",
+    "description": "ขอรับนมแยกต่างหากเพื่อปรับรสชาติกาแฟเอง",
+    "when": "เมื่อต้องการควบคุมปริมาณนมในกาแฟด้วยตนเอง",
+    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+  }
 ]
