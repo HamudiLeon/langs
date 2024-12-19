@@ -675,93 +675,75 @@
     "categorie": "Positives Feedback"
   },
   {
-    "de": "Kein Glück.",
-    "lang": "โชคไม่ดีเลย",
-    "umschrift": "chôk mâi dee loei",
-    "formel": "โชคไม่ดีเลยครับ",
-    "informel": "โชคไม่ดีเลยค่ะ",
-    "description": "Ausdruck von Pech oder Enttäuschung.",
-    "when": "Wenn etwas nicht gut läuft und man Pech hatte.",
-    "categorie": "Positives Feedback"
-  },
-  {
     "de": "Ich möchte einen Espresso bestellen.",
     "lang": "ฉันขอเอสเพรสโซ่หนึ่งแก้วได้ไหมคะ",
-    "umschrift": "chăn khǒo espresso nùeng gâeo dâi mái khá",
     "formel": "ขอเอสเพรสโซ่หนึ่งแก้วได้ไหมครับ",
     "informel": "ขอเอสเพรสโซ่หนึ่งแก้วได้ไหมคะ",
-    "description": "การขอสั่งเอสเพรสโซ่ด้วยความสุภาพ",
-    "when": "เมื่อต้องการสั่งกาแฟในร้านกาแฟ",
-    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+    "description": "Höfliche Frage, um einen Espresso zu bestellen.",
+    "when": "Wenn man in einem Café etwas bestellen möchte.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Können Sie mir bitte ein Glas Wasser bringen?",
     "lang": "คุณช่วยนำน้ำหนึ่งแก้วมาให้ได้ไหมคะ",
-    "umschrift": "khun chûai nam náam nùeng gâeo maa hâi dâi mái khá",
     "formel": "ขอรบกวนขอน้ำหนึ่งแก้วได้ไหมครับ",
     "informel": "ขอน้ำหนึ่งแก้วได้ไหมคะ",
-    "description": "ขอน้ำดื่มด้วยความสุภาพ",
-    "when": "เมื่อต้องการน้ำดื่มเพิ่มเติมในร้านกาแฟ",
-    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+    "description": "Höfliche Bitte um ein Glas Wasser.",
+    "when": "Wenn man zusätzlich zum Kaffee etwas Wasser möchte.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Das ist ein guter Kaffee, danke.",
     "lang": "กาแฟนี้อร่อยมาก ขอบคุณค่ะ",
-    "umschrift": "gaa-fae níi à-ròi mâak, khàawp-khun kâ",
     "formel": "กาแฟนี้อร่อยมากครับ ขอบคุณครับ",
     "informel": "กาแฟนี้อร่อยมากค่ะ ขอบคุณค่ะ",
-    "description": "ชมเชยรสชาติกาแฟและแสดงความขอบคุณ",
-    "when": "หลังจากดื่มกาแฟแล้วรู้สึกพอใจ",
-    "categorie": "คำชมเชยและขอบคุณ (ร้านกาแฟ)"
+    "description": "Lob für den guten Kaffee, verbunden mit Dank.",
+    "when": "Nach dem Genuss eines guten Kaffees.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Haben Sie auch Tee?",
     "lang": "มีชาไหมคะ",
-    "umschrift": "mii chaa mái khá",
     "formel": "มีชาไหมครับ",
     "informel": "มีชาไหมคะ",
-    "description": "ถามว่าร้านมีชาหรือไม่",
-    "when": "เมื่อต้องการสอบถามเครื่องดื่มชนิดอื่นนอกจากกาแฟ",
-    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+    "description": "Frage, ob auch Tee angeboten wird.",
+    "when": "Wenn man statt Kaffee lieber Tee möchte.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Kann ich mich hier hinsetzen?",
     "lang": "ฉันนั่งตรงนี้ได้ไหมคะ",
-    "umschrift": "chăn nâng trong níi dâi mái khá",
     "formel": "ผมนั่งตรงนี้ได้ไหมครับ",
     "informel": "ฉันนั่งตรงนี้ได้ไหมคะ",
-    "description": "ขออนุญาตนั่งในตำแหน่งดังกล่าว",
-    "when": "เมื่อต้องการหาที่นั่งในร้านกาแฟ",
-    "categorie": "ชีวิตประจำวัน (ร้านกาแฟ)"
+    "description": "Höfliche Frage, ob man sich an diesen Platz setzen darf.",
+    "when": "Wenn man im Café einen Sitzplatz auswählen möchte.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Entschuldigung, die Rechnung bitte.",
     "lang": "ขอคิดเงินด้วยค่ะ",
-    "umschrift": "khǒo khít-ngoen dûai khâ",
     "formel": "ขอคิดเงินด้วยครับ",
     "informel": "ขอคิดเงินด้วยค่ะ",
-    "description": "ขอเรียกเก็บเงินอย่างสุภาพ",
-    "when": "เมื่อต้องการจ่ายเงินหลังจากสั่งและดื่มกาแฟแล้ว",
-    "categorie": "การชำระเงิน (ร้านกาแฟ)"
+    "description": "Höfliche Bitte um die Rechnung.",
+    "when": "Wenn man im Café bezahlen möchte.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Haben Sie etwas Süßes zum Kaffee?",
     "lang": "มีของหวานทานกับกาแฟไหมคะ",
-    "umschrift": "mii khǒng-wăan thaan kap gaa-fae mái khá",
     "formel": "มีของหวานทานกับกาแฟไหมครับ",
     "informel": "มีของหวานทานกับกาแฟไหมคะ",
-    "description": "สอบถามว่ามีขนมหรือของหวานให้ทานคู่กาแฟหรือไม่",
-    "when": "เมื่ออยากได้ของหวานเพิ่มรสชาติกาแฟ",
-    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+    "description": "Frage nach einer süßen Beilage zum Kaffee.",
+    "when": "Wenn man zum Kaffee etwas Süßes möchte.",
+    "categorie": "Im Cafe"
   },
   {
     "de": "Kann ich die Milch separat bekommen?",
     "lang": "ขอรับนมแยกได้ไหมคะ",
-    "umschrift": "khǒo ráp nom yâek dâi mái khá",
     "formel": "ขอรับนมแยกได้ไหมครับ",
     "informel": "ขอรับนมแยกได้ไหมคะ",
-    "description": "ขอรับนมแยกต่างหากเพื่อปรับรสชาติกาแฟเอง",
-    "when": "เมื่อต้องการควบคุมปริมาณนมในกาแฟด้วยตนเอง",
-    "categorie": "อาหารและเครื่องดื่ม (ร้านกาแฟ)"
+    "description": "Bitte um Milch separat, um den Kaffee selbst abzuschmecken.",
+    "when": "Wenn man die Menge der Milch selbst bestimmen möchte.",
+    "categorie": "Im Cafe"
   }
 ]
