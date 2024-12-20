@@ -1,0 +1,576 @@
+{
+    "language": {
+      "code": "th",
+      "name": "Thai"
+    },
+    "categories": {
+        "alphabet": [
+            {
+              "letter": "ก",
+              "transliteration": "k",
+              "example_word": {
+                "th": "กอ",
+                "de": "Baum",
+                "transliteration": "ko"
+              }
+            },
+            {
+              "letter": "ข",
+              "transliteration": "kh",
+              "example_word": {
+                "th": "ข้าว",
+                "de": "Reis",
+                "transliteration": "khao"
+              }
+            },
+            {
+              "letter": "ค",
+              "transliteration": "kh",
+              "example_word": {
+                "th": "คน",
+                "de": "Person",
+                "transliteration": "khon"
+              }
+            },
+            {
+              "letter": "ง",
+              "transliteration": "ng",
+              "example_word": {
+                "th": "งู",
+                "de": "Schlange",
+                "transliteration": "ngu"
+              }
+            },
+            {
+              "letter": "จ",
+              "transliteration": "ch",
+              "example_word": {
+                "th": "จาน",
+                "de": "Teller",
+                "transliteration": "jan"
+              }
+            },
+            {
+              "letter": "ฉ",
+              "transliteration": "ch",
+              "example_word": {
+                "th": "ฉลาม",
+                "de": "Hai",
+                "transliteration": "chalaam"
+              }
+            },
+            {
+              "letter": "ช",
+              "transliteration": "ch",
+              "example_word": {
+                "th": "ช้าง",
+                "de": "Elefant",
+                "transliteration": "chang"
+              }
+            },
+            {
+              "letter": "ซ",
+              "transliteration": "s",
+              "example_word": {
+                "th": "ซุป",
+                "de": "Suppe",
+                "transliteration": "sup"
+              }
+            },
+            {
+              "letter": "ญ",
+              "transliteration": "y",
+              "example_word": {
+                "th": "หญิง",
+                "de": "Frau",
+                "transliteration": "ying"
+              }
+            },
+            {
+              "letter": "ด",
+              "transliteration": "d",
+              "example_word": {
+                "th": "ดิน",
+                "de": "Erde",
+                "transliteration": "din"
+              }
+            },
+            {
+              "letter": "ต",
+              "transliteration": "t",
+              "example_word": {
+                "th": "ต้นไม้",
+                "de": "Baum",
+                "transliteration": "ton mai"
+              }
+            },
+            {
+              "letter": "ท",
+              "transliteration": "th",
+              "example_word": {
+                "th": "ทหาร",
+                "de": "Soldat",
+                "transliteration": "thahan"
+              }
+            },
+            {
+              "letter": "น",
+              "transliteration": "n",
+              "example_word": {
+                "th": "น้ำ",
+                "de": "Wasser",
+                "transliteration": "nam"
+              }
+            },
+            {
+              "letter": "ป",
+              "transliteration": "p",
+              "example_word": {
+                "th": "ปลา",
+                "de": "Fisch",
+                "transliteration": "pla"
+              }
+            },
+            {
+              "letter": "ผ",
+              "transliteration": "ph",
+              "example_word": {
+                "th": "ผัก",
+                "de": "Gemüse",
+                "transliteration": "phak"
+              }
+            },
+            {
+              "letter": "ฝ",
+              "transliteration": "f",
+              "example_word": {
+                "th": "ฝน",
+                "de": "Regen",
+                "transliteration": "fon"
+              }
+            },
+            {
+              "letter": "พ",
+              "transliteration": "ph",
+              "example_word": {
+                "th": "พ่อ",
+                "de": "Vater",
+                "transliteration": "pho"
+              }
+            },
+            {
+              "letter": "ฟ",
+              "transliteration": "f",
+              "example_word": {
+                "th": "ฟัน",
+                "de": "Zahn",
+                "transliteration": "fan"
+              }
+            },
+            {
+              "letter": "ม",
+              "transliteration": "m",
+              "example_word": {
+                "th": "แม่",
+                "de": "Mutter",
+                "transliteration": "mae"
+              }
+            },
+            {
+              "letter": "ย",
+              "transliteration": "y",
+              "example_word": {
+                "th": "ยา",
+                "de": "Medizin",
+                "transliteration": "ya"
+              }
+            },
+            {
+              "letter": "ร",
+              "transliteration": "r",
+              "example_word": {
+                "th": "รถ",
+                "de": "Auto",
+                "transliteration": "rot"
+              }
+            },
+            {
+              "letter": "ล",
+              "transliteration": "l",
+              "example_word": {
+                "th": "ลิง",
+                "de": "Affe",
+                "transliteration": "ling"
+              }
+            },
+            {
+              "letter": "ว",
+              "transliteration": "w",
+              "example_word": {
+                "th": "วัว",
+                "de": "Kuh",
+                "transliteration": "wua"
+              }
+            },
+            {
+              "letter": "ส",
+              "transliteration": "s",
+              "example_word": {
+                "th": "เสือ",
+                "de": "Tiger",
+                "transliteration": "suea"
+              }
+            },
+            {
+              "letter": "ห",
+              "transliteration": "h",
+              "example_word": {
+                "th": "หัว",
+                "de": "Kopf",
+                "transliteration": "hua"
+              }
+            },
+            {
+              "letter": "อ",
+              "transliteration": "o",
+              "example_word": {
+                "th": "องุ่น",
+                "de": "Traube",
+                "transliteration": "angoon"
+              }
+            }
+          ],
+      "numbers": [
+        {
+          "digit": 1,
+          "th": "หนึ่ง",
+          "de": "eins",
+          "transliteration": "neung"
+        },
+        {
+          "digit": 2,
+          "th": "สอง",
+          "de": "zwei",
+          "transliteration": "song"
+        },
+        {
+          "digit": 10,
+          "th": "สิบ",
+          "de": "zehn",
+          "transliteration": "sip"
+        }
+      ],
+      "colors": [
+        {
+            "th": "แดง",
+            "de": "rot",
+            "transliteration": "daeng"
+        },
+        {
+            "th": "น้ำเงิน",
+            "de": "blau",
+            "transliteration": "nam-ngern"
+        },
+        {
+            "th": "เขียว",
+            "de": "grün",
+            "transliteration": "khiao"
+        },
+        {
+            "th": "เหลือง",
+            "de": "gelb",
+            "transliteration": "leuang"
+        },
+        {
+            "th": "ดำ",
+            "de": "schwarz",
+            "transliteration": "dam"
+        },
+        {
+            "th": "ขาว",
+            "de": "weiß",
+            "transliteration": "khao"
+        },
+        {
+            "th": "ชมพู",
+            "de": "rosa",
+            "transliteration": "chom-phu"
+        },
+        {
+            "th": "ม่วง",
+            "de": "lila",
+            "transliteration": "muang"
+        },
+        {
+            "th": "ส้ม",
+            "de": "orange",
+            "transliteration": "som"
+        },
+        {
+            "th": "เทา",
+            "de": "grau",
+            "transliteration": "thao"
+        }
+        ]
+,
+     "body": [
+        {
+        "th": "หัว",
+        "de": "Kopf",
+        "transliteration": "hua"
+        },
+        {
+        "th": "ตา",
+        "de": "Auge",
+        "transliteration": "ta"
+        },
+        {
+        "th": "ปาก",
+        "de": "Mund",
+        "transliteration": "pak"
+        },
+        {
+        "th": "มือ",
+        "de": "Hand",
+        "transliteration": "mue"
+        },
+        {
+        "th": "ขา",
+        "de": "Bein",
+        "transliteration": "kha"
+        },
+        {
+        "th": "จมูก",
+        "de": "Nase",
+        "transliteration": "ja-muuk"
+        },
+        {
+        "th": "หู",
+        "de": "Ohr",
+        "transliteration": "hu"
+        },
+        {
+        "th": "นิ้ว",
+        "de": "Finger",
+        "transliteration": "niu"
+        },
+        {
+        "th": "เท้า",
+        "de": "Fuß",
+        "transliteration": "thao"
+        },
+        {
+        "th": "เข่า",
+        "de": "Knie",
+        "transliteration": "khao"
+        },
+        {
+        "th": "แขน",
+        "de": "Arm",
+        "transliteration": "khaen"
+        },
+        {
+        "th": "ไหล่",
+        "de": "Schulter",
+        "transliteration": "lai"
+        },
+        {
+        "th": "ฟัน",
+        "de": "Zahn",
+        "transliteration": "fan"
+        },
+        {
+        "th": "ลิ้น",
+        "de": "Zunge",
+        "transliteration": "lin"
+        },
+        {
+        "th": "หัวใจ",
+        "de": "Herz",
+        "transliteration": "hua-jai"
+        },
+        {
+        "th": "กระดูก",
+        "de": "Knochen",
+        "transliteration": "kra-duuk"
+        },
+        {
+        "th": "ผิวหนัง",
+        "de": "Haut",
+        "transliteration": "phiu-nang"
+        },
+        {
+        "th": "ท้อง",
+        "de": "Bauch",
+        "transliteration": "thong"
+        },
+        {
+        "th": "หลัง",
+        "de": "Rücken",
+        "transliteration": "lang"
+        },
+        {
+        "th": "คอ",
+        "de": "Hals",
+        "transliteration": "kho"
+        }
+    ],
+      "animals": [
+            {
+            "th": "แมว",
+            "de": "Katze",
+            "transliteration": "maeo"
+            },
+            {
+            "th": "สุนัข",
+            "de": "Hund",
+            "transliteration": "sunak"
+            },
+            {
+            "th": "ช้าง",
+            "de": "Elefant",
+            "transliteration": "chang"
+            },
+            {
+            "th": "นก",
+            "de": "Vogel",
+            "transliteration": "nok"
+            },
+            {
+            "th": "ปลา",
+            "de": "Fisch",
+            "transliteration": "pla"
+            }
+        ],
+      "food": [
+    {
+      "th": "ข้าว",
+      "de": "Reis",
+      "transliteration": "khao"
+    },
+    {
+      "th": "ไก่",
+      "de": "Hähnchen",
+      "transliteration": "gai"
+    },
+    {
+      "th": "ผัก",
+      "de": "Gemüse",
+      "transliteration": "phak"
+    },
+    {
+      "th": "ผลไม้",
+      "de": "Obst",
+      "transliteration": "phonlamai"
+    },
+    {
+      "th": "นéม",
+      "de": "Wasser",
+      "transliteration": "nam"
+    },
+    {
+      "th": "ไข่",
+      "de": "Ei",
+      "transliteration": "khai"
+    },
+    {
+      "th": "ปลา",
+      "de": "Fisch",
+      "transliteration": "pla"
+    },
+    {
+      "th": "ขนมปัง",
+      "de": "Brot",
+      "transliteration": "khanom pang"
+    },
+    {
+      "th": "เนื้อ",
+      "de": "Fleisch",
+      "transliteration": "nuea"
+    },
+    {
+      "th": "นม",
+      "de": "Milch",
+      "transliteration": "nom"
+    },
+    {
+      "th": "กาแฟ",
+      "de": "Kaffee",
+      "transliteration": "kafe"
+    },
+    {
+      "th": "น้ำผลไม้",
+      "de": "Fruchtsaft",
+      "transliteration": "nam phonlamai"
+    },
+    {
+      "th": "เค้ก",
+      "de": "Kuchen",
+      "transliteration": "kek"
+    },
+    {
+      "th": "ช็อกโกแลต",
+      "de": "Schokolade",
+      "transliteration": "chokkolat"
+    },
+    {
+      "th": "พริก",
+      "de": "Chili",
+      "transliteration": "phrik"
+    },
+    {
+      "th": "เกลือ",
+      "de": "Salz",
+      "transliteration": "kluea"
+    },
+    {
+      "th": "น้ำตาล",
+      "de": "Zucker",
+      "transliteration": "namtan"
+    },
+    {
+      "th": "ขนมหวาน",
+      "de": "Dessert",
+      "transliteration": "khanom wan"
+    },
+    {
+      "th": "ซุป",
+      "de": "Suppe",
+      "transliteration": "sup"
+    },
+    {
+      "th": "ส้ม",
+      "de": "Orange",
+      "transliteration": "som"
+    }
+  ],
+      "clothing": [
+        {
+          "th": "เสื้อ",
+          "de": "Hemd",
+          "transliteration": "suea"
+        },
+        {
+          "th": "กางเกง",
+          "de": "Hose",
+          "transliteration": "kang-keng"
+        },
+        {
+          "th": "รองเท้า",
+          "de": "Schuhe",
+          "transliteration": "rong-thao"
+        },
+        {
+          "th": "หมวก",
+          "de": "Hut",
+          "transliteration": "muak"
+        },
+        {
+          "th": "ถุงเท้า",
+          "de": "Socken",
+          "transliteration": "thung-thao"
+        }
+      ]
+    }
+  }
+  
