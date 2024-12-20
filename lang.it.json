@@ -1,0 +1,271 @@
+{
+  "language": {
+    "code": "it",
+    "name": "Italian"
+  },
+  "categories": {
+    "alphabet": [
+      {
+        "letter": "A",
+        "transliteration": "a",
+        "example_word": {
+          "it": "Amico",
+          "de": "Freund",
+          "transliteration": "a-mee-ko"
+        }
+      },
+      {
+        "letter": "B",
+        "transliteration": "bi",
+        "example_word": {
+          "it": "Bambino",
+          "de": "Kind",
+          "transliteration": "bam-bee-no"
+        }
+      },
+      {
+        "letter": "C",
+        "transliteration": "ci",
+        "example_word": {
+          "it": "Casa",
+          "de": "Haus",
+          "transliteration": "ka-sa"
+        }
+      },
+      {
+        "letter": "D",
+        "transliteration": "di",
+        "example_word": {
+          "it": "Dolce",
+          "de": "Süßigkeit",
+          "transliteration": "dol-che"
+        }
+      },
+      {
+        "letter": "E",
+        "transliteration": "e",
+        "example_word": {
+          "it": "Elefante",
+          "de": "Elefant",
+          "transliteration": "e-le-fan-te"
+        }
+      },
+      {
+        "letter": "F",
+        "transliteration": "effe",
+        "example_word": {
+          "it": "Fiore",
+          "de": "Blume",
+          "transliteration": "fyo-re"
+        }
+      },
+      {
+        "letter": "G",
+        "transliteration": "gi",
+        "example_word": {
+          "it": "Gatto",
+          "de": "Katze",
+          "transliteration": "gat-to"
+        }
+      },
+      {
+        "letter": "H",
+        "transliteration": "acca",
+        "example_word": {
+          "it": "Hotel",
+          "de": "Hotel",
+          "transliteration": "o-tel"
+        }
+      },
+      {
+        "letter": "I",
+        "transliteration": "i",
+        "example_word": {
+          "it": "Isola",
+          "de": "Insel",
+          "transliteration": "i-so-la"
+        }
+      },
+      {
+        "letter": "L",
+        "transliteration": "elle",
+        "example_word": {
+          "it": "Libro",
+          "de": "Buch",
+          "transliteration": "lee-bro"
+        }
+      },
+      {
+        "letter": "M",
+        "transliteration": "emme",
+        "example_word": {
+          "it": "Mela",
+          "de": "Apfel",
+          "transliteration": "me-la"
+        }
+      },
+      {
+        "letter": "N",
+        "transliteration": "enne",
+        "example_word": {
+          "it": "Nave",
+          "de": "Schiff",
+          "transliteration": "na-ve"
+        }
+      },
+      {
+        "letter": "O",
+        "transliteration": "o",
+        "example_word": {
+          "it": "Oca",
+          "de": "Gans",
+          "transliteration": "o-ka"
+        }
+      },
+      {
+        "letter": "P",
+        "transliteration": "pi",
+        "example_word": {
+          "it": "Pane",
+          "de": "Brot",
+          "transliteration": "pa-ne"
+        }
+      },
+      {
+        "letter": "Q",
+        "transliteration": "cu",
+        "example_word": {
+          "it": "Quaderno",
+          "de": "Heft",
+          "transliteration": "kwa-der-no"
+        }
+      },
+      {
+        "letter": "R",
+        "transliteration": "erre",
+        "example_word": {
+          "it": "Rosa",
+          "de": "Rose",
+          "transliteration": "ro-sa"
+        }
+      },
+      {
+        "letter": "S",
+        "transliteration": "esse",
+        "example_word": {
+          "it": "Scuola",
+          "de": "Schule",
+          "transliteration": "skwo-la"
+        }
+      },
+      {
+        "letter": "T",
+        "transliteration": "ti",
+        "example_word": {
+          "it": "Tavolo",
+          "de": "Tisch",
+          "transliteration": "ta-vo-lo"
+        }
+      },
+      {
+        "letter": "U",
+        "transliteration": "u",
+        "example_word": {
+          "it": "Uva",
+          "de": "Traube",
+          "transliteration": "u-va"
+        }
+      },
+      {
+        "letter": "V",
+        "transliteration": "vi",
+        "example_word": {
+          "it": "Vino",
+          "de": "Wein",
+          "transliteration": "vee-no"
+        }
+      },
+      {
+        "letter": "Z",
+        "transliteration": "zeta",
+        "example_word": {
+          "it": "Zucchero",
+          "de": "Zucker",
+          "transliteration": "tsu-ke-ro"
+        }
+      }
+    ],
+    "numbers": [
+      {
+        "digit": 1,
+        "it": "Uno",
+        "de": "Eins",
+        "transliteration": "oo-no"
+      },
+      {
+        "digit": 2,
+        "it": "Due",
+        "de": "Zwei",
+        "transliteration": "doo-e"
+      },
+      {
+        "digit": 10,
+        "it": "Dieci",
+        "de": "Zehn",
+        "transliteration": "dye-chi"
+      }
+    ],
+    "colors": [
+      {
+        "it": "Rosso",
+        "de": "Rot",
+        "transliteration": "ros-so"
+      },
+      {
+        "it": "Blu",
+        "de": "Blau",
+        "transliteration": "blu"
+      },
+      {
+        "it": "Verde",
+        "de": "Grün",
+        "transliteration": "ver-de"
+      },
+      {
+        "it": "Giallo",
+        "de": "Gelb",
+        "transliteration": "jal-lo"
+      },
+      {
+        "it": "Nero",
+        "de": "Schwarz",
+        "transliteration": "ne-ro"
+      },
+      {
+        "it": "Bianco",
+        "de": "Weiß",
+        "transliteration": "byan-ko"
+      },
+      {
+        "it": "Rosa",
+        "de": "Rosa",
+        "transliteration": "ro-sa"
+      },
+      {
+        "it": "Arancione",
+        "de": "Orange",
+        "transliteration": "a-ran-cho-ne"
+      },
+      {
+        "it": "Viola",
+        "de": "Lila",
+        "transliteration": "vyo-la"
+      },
+      {
+        "it": "Grigio",
+        "de": "Grau",
+        "transliteration": "gri-jo"
+      }
+    ]
+  }
+}
