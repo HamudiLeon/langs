@@ -1,0 +1,682 @@
+[
+  {
+    "de": "Entschuldigung, ich habe es nicht gewusst",
+    "lang": "Извините, я не знал.",
+    "umschrift": "Izvinite, ya ne znal.",
+    "formel": "Извините, я не знал.",
+    "informel": "Извините, я не знал.",
+    "description": "Diese Phrase wird verwendet, um sich zu entschuldigen, wenn man etwas nicht wusste oder nicht bewusst war. In Russland wird es häufig in formellen und informellen Situationen genutzt.",
+    "when": "Verwendet, wenn man sich entschuldigen möchte, weil man sich einer bestimmten Information nicht bewusst war.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
+    "lang": "Извините, могу я заказать напиток?",
+    "umschrift": "Izvinite, mogu ya zakazat' napitok?",
+    "formel": "Извините, могу я заказать напиток?",
+    "informel": "Извините, могу я заказать напиток?",
+    "description": "Diese Frage wird in Bars oder Restaurants verwendet, um höflich nach einem Getränk zu fragen. In Russland wird es meist in formeller Weise genutzt, aber auch informell unter Freunden.",
+    "when": "Wird in Restaurants oder Bars genutzt, um höflich eine Bestellung aufzugeben.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Können Sie mir Ihre Meinung geben?!",
+    "lang": "Можете дать мне своё мнение?",
+    "umschrift": "Mozhete dat' mne svoyo mnenie?",
+    "formel": "Можете дать мне своё мнение?",
+    "informel": "Можете дать мне своё мнение?",
+    "description": "Diese Phrase wird genutzt, um nach einer ehrlichen Meinung oder einem Feedback zu fragen. In Russland ist es üblich, eine direkte und offene Antwort zu erwarten.",
+    "when": "Verwendet, wenn man ehrliches Feedback oder eine Meinung von jemandem einholen möchte.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Entschuldigung, kann ich dich um etwas bitten?!",
+    "lang": "Извините, могу я вас попросить об одолжении?",
+    "umschrift": "Izvinite, mogu ya vas poprosit' ob odolzhenii?",
+    "formel": "Извините, могу я вас попросить об одолжении?",
+    "informel": "Извините, могу я вас попросить об одолжении?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Hallo, kannst Du mir deine Meinung zu meiner APP geben? Ich habe hier thailändische Sätze, die ich von dir untersuchen lassen möchte. Sagst Du mir ob diese korrekt sind?",
+    "lang": "Ciao, potresti darmi la tua opinione sulla mia app? Ho alcune frasi in tailandese che vorrei tu verificassi. Puoi dirmi se sono corrette?",
+    "umschrift": "",
+    "formel": "Buongiorno, potrebbe darmi la sua opinione sulla mia app? Ho alcune frasi in thailandese da farle controllare. Potrebbe dirmi se sono corrette?",
+    "informel": "Ciao, mi dai la tua opinione sulla mia app? Ho alcune frasi in thailandese da farti controllare. Mi dici se sono corrette?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie einen Moment Zeit?!",
+    "lang": "У вас есть минутка?",
+    "umschrift": "U vas yest' minutka?",
+    "formel": "У вас есть минутка?",
+    "informel": "У вас есть минутка?",
+    "description": "Eine höfliche Art zu fragen, ob jemand kurz Zeit hat, um eine Frage zu beantworten oder etwas zu besprechen.",
+    "when": "Wird genutzt, wenn man höflich um Aufmerksamkeit für eine kurze Frage oder ein Anliegen bittet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wie kann ich das machen?",
+    "lang": "Как мне это сделать?",
+    "umschrift": "Kak mne eto sdelat'?",
+    "formel": "Как мне это сделать?",
+    "informel": "Как мне это сделать?",
+    "description": "Wird verwendet, um zu fragen, wie eine bestimmte Aufgabe oder Handlung durchgeführt werden kann.",
+    "when": "Wird verwendet, wenn man eine Anleitung oder Hilfe bei der Durchführung einer Aufgabe benötigt.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kann ich Ihnen helfen?",
+    "lang": "Могу я вам помочь?",
+    "umschrift": "Mogu ya vam pomoch'?",
+    "formel": "Могу я вам помочь?",
+    "informel": "Могу я вам помочь?",
+    "description": "Eine höfliche Art anzubieten, jemandem Unterstützung zu geben, entweder bei der Arbeit oder im Alltag.",
+    "when": "Wird benutzt, wenn man Unterstützung oder Hilfe anbietet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Woher wissen Sie das?",
+    "lang": "Откуда вы это знаете?",
+    "umschrift": "Otkuda vy eto znaete?",
+    "formel": "Откуда вы это знаете?",
+    "informel": "Откуда вы это знаете?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wann ist ein guter Zeitpunkt?",
+    "lang": "Когда удобное время?",
+    "umschrift": "Kogda udobnoye vremya?",
+    "formel": "Когда удобное время?",
+    "informel": "Когда удобное время?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Was empfehlen Sie?",
+    "lang": "Что вы порекомендуете?",
+    "umschrift": "Chto vy porekomenduete?",
+    "formel": "Что вы порекомендуете?",
+    "informel": "Что вы порекомендуете?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Gibt es eine andere Möglichkeit?",
+    "lang": "Есть ли другой вариант?",
+    "umschrift": "Yest' li drugoy variant?",
+    "formel": "Есть ли другой вариант?",
+    "informel": "Есть ли другой вариант?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Sind Sie sicher?",
+    "lang": "Вы уверены?",
+    "umschrift": "Vy uvereny?",
+    "formel": "Вы уверены?",
+    "informel": "Вы уверены?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kann ich etwas fragen?",
+    "lang": "Можно задать вопрос?",
+    "umschrift": "Mozhno zadat' vopros?",
+    "formel": "Можно задать вопрос?",
+    "informel": "Можно задать вопрос?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kann ich das anprobieren?",
+    "lang": "Могу я это примерить?",
+    "umschrift": "Mogu ya eto primerit'?",
+    "formel": "Могу я это примерить?",
+    "informel": "Могу я это примерить?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie das in einer anderen Größe?",
+    "lang": "Есть ли это в другом размере?",
+    "umschrift": "Yest' li eto v drugom razmere?",
+    "formel": "Есть ли это в другом размере?",
+    "informel": "Есть ли это в другом размере?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie einen Rabatt?",
+    "lang": "У вас есть скидка?",
+    "umschrift": "U vas yest' skidka?",
+    "formel": "У вас есть скидка?",
+    "informel": "У вас есть скидка?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kann ich das zurückgeben?",
+    "lang": "Могу я это вернуть?",
+    "umschrift": "Mogu ya eto vernut'?",
+    "formel": "Могу я это вернуть?",
+    "informel": "Могу я это вернуть?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Gibt es dieses Produkt in einer anderen Farbe?",
+    "lang": "Есть ли этот товар в другом цвете?",
+    "umschrift": "Yest' li etot tovar v drugom cvete?",
+    "formel": "Есть ли этот товар в другом цвете?",
+    "informel": "Есть ли этот товар в другом цвете?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wo ist die Toilette?",
+    "lang": "Где находится туалет?",
+    "umschrift": "Gde nakhoditsya tualet?",
+    "formel": "Где находится туалет?",
+    "informel": "Где находится туалет?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wie viel kostet das?",
+    "lang": "Сколько это стоит?",
+    "umschrift": "Skol'ko eto stoit?",
+    "formel": "Сколько это стоит?",
+    "informel": "Сколько это стоит?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Können Sie mir helfen?",
+    "lang": "Вы можете мне помочь?",
+    "umschrift": "Vy mozhete mne pomoch'?",
+    "formel": "Вы можете мне помочь?",
+    "informel": "Вы можете мне помочь?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kann ich mit Karte bezahlen?",
+    "lang": "Можно оплатить картой?",
+    "umschrift": "Mozhno oplatit' kartoy?",
+    "formel": "Можно оплатить картой?",
+    "informel": "Можно оплатить картой?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Entschuldigen Sie, ich bin verloren.",
+    "lang": "Извините, я заблудился.",
+    "umschrift": "Izvinite, ya zabludilsya.",
+    "formel": "Извините, я заблудился.",
+    "informel": "Извините, я заблудился.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Gibt es hier WLAN?",
+    "lang": "Здесь есть Wi-Fi?",
+    "umschrift": "Zdes' yest' Wi-Fi?",
+    "formel": "Здесь есть Wi-Fi?",
+    "informel": "Здесь есть Wi-Fi?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Können Sie ein Foto von uns machen?",
+    "lang": "Вы можете нас сфотографировать?",
+    "umschrift": "Vy mozhete nas sfotografirovat'?",
+    "formel": "Вы можете нас сфотографировать?",
+    "informel": "Вы можете нас сфотографировать?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich brauche einen Arzt.",
+    "lang": "Мне нужен врач.",
+    "umschrift": "Mne nuzhen vrach.",
+    "formel": "Мне нужен врач.",
+    "informel": "Мне нужен врач.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich bin Krank.",
+    "lang": "Я болен.",
+    "umschrift": "Ya bolen.",
+    "formel": "Я болен.",
+    "informel": "Я болен.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich habe Verletzt.",
+    "lang": "Я получил травму.",
+    "umschrift": "Ya poluchil travmu.",
+    "formel": "Я получил травму.",
+    "informel": "Я получил травму.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wo ist der nächste Geldautomat?",
+    "lang": "Где ближайший банкомат?",
+    "umschrift": "Gde blizhayshiy bankomat?",
+    "formel": "Где ближайший банкомат?",
+    "informel": "Где ближайший банкомат?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Können Sie das bitte erklären?",
+    "lang": "Можете объяснить, пожалуйста?",
+    "umschrift": "Mozhete obyasnit', pozhaluysta?",
+    "formel": "Можете объяснить, пожалуйста?",
+    "informel": "Можете объяснить, пожалуйста?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich möchte bitte Reis mit viel Gemüse.",
+    "lang": "Я бы хотел рис с большим количеством овощей.",
+    "umschrift": "Ya by khotel ris s bol'shim kolichestvom ovoschey.",
+    "formel": "Я бы хотел рис с большим количеством овощей.",
+    "informel": "Я бы хотел рис с большим количеством овощей.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie gebratenen Reis mit frischem Gemüse?",
+    "lang": "У вас есть жареный рис со свежими овощами?",
+    "umschrift": "U vas yest' zharenyy ris so svezhimi ovoschami?",
+    "formel": "У вас есть жареный рис со свежими овощами?",
+    "informel": "У вас есть жареный рис со свежими овощами?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie gebratenen Reis mit Gemüse?",
+    "lang": "Avete del riso saltato con verdure?",
+    "umschrift": "",
+    "formel": "Avete del riso saltato con verdure?",
+    "informel": "C’è il riso saltato con verdure?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ist das Fleisch drin?",
+    "lang": "C’è della carne dentro?",
+    "umschrift": "",
+    "formel": "C’è della carne in questo piatto?",
+    "informel": "C’è carne dentro?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie Essen ohne Fleisch?",
+    "lang": "Avete piatti senza carne?",
+    "umschrift": "",
+    "formel": "Avete piatti senza carne?",
+    "informel": "C’è qualcosa senza carne?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Haben Sie vegetarisches Essen?",
+    "lang": "У вас есть вегетарианская еда?",
+    "umschrift": "U vas yest' vegetarijanskaya yeda?",
+    "formel": "У вас есть вегетарианская еда?",
+    "informel": "У вас есть вегетарианская еда?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Hallo oder Auf Wiedersehen",
+    "lang": "Привет / До свидания",
+    "umschrift": "Privet / Do svidaniya",
+    "formel": "Привет / До свидания",
+    "informel": "Привет / До свидания",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Auf Wiedersehen",
+    "lang": "Arrivederci",
+    "umschrift": "",
+    "formel": "Arrivederci",
+    "informel": "Ciao (quando ci si rivede)",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich gehe jetzt.",
+    "lang": "Ora vado.",
+    "umschrift": "",
+    "formel": "Adesso vado.",
+    "informel": "Devo andare.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Bis später / Bis zum nächsten Mal",
+    "lang": "A dopo / Alla prossima",
+    "umschrift": "",
+    "formel": "A dopo / Alla prossima volta",
+    "informel": "Ci vediamo dopo / Alla prossima",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Viel Glück",
+    "lang": "Удачи!",
+    "umschrift": "Udachi!",
+    "formel": "Удачи!",
+    "informel": "Удачи!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Danke",
+    "lang": "Спасибо",
+    "umschrift": "Spasibo",
+    "formel": "Спасибо",
+    "informel": "Спасибо",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Entschuldigung",
+    "lang": "Извините",
+    "umschrift": "Izvinite",
+    "formel": "Извините",
+    "informel": "Извините",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kein Problem / Schon gut",
+    "lang": "Без проблем",
+    "umschrift": "Bez problem",
+    "formel": "Без проблем",
+    "informel": "Без проблем",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Sprechen Sie bitte langsam.",
+    "lang": "Пожалуйста, говорите медленнее.",
+    "umschrift": "Pozhaluysta, govorite medlennee.",
+    "formel": "Пожалуйста, говорите медленнее.",
+    "informel": "Пожалуйста, говорите медленнее.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Bitte wiederholen.",
+    "lang": "Пожалуйста, повторите.",
+    "umschrift": "Pozhaluysta, povtorite.",
+    "formel": "Пожалуйста, повторите.",
+    "informel": "Пожалуйста, повторите.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Verstehen Sie?",
+    "lang": "Capisce?",
+    "umschrift": "",
+    "formel": "Capisce?",
+    "informel": "Capisci?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich verstehe nicht.",
+    "lang": "Я не понимаю.",
+    "umschrift": "Ya ne ponimayu.",
+    "formel": "Я не понимаю.",
+    "informel": "Я не понимаю.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Entschuldigen Sie die Störung.",
+    "lang": "Mi scusi per il disturbo.",
+    "umschrift": "",
+    "formel": "Mi scusi per il disturbo.",
+    "informel": "Scusa se disturbo.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Vielleicht",
+    "lang": "Forse",
+    "umschrift": "",
+    "formel": "Forse",
+    "informel": "Forse",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wohin soll ich gehen?",
+    "lang": "Dove dovrei andare?",
+    "umschrift": "",
+    "formel": "Dove dovrei andare?",
+    "informel": "Dove devo andare?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich gehe zuerst.",
+    "lang": "Vado prima io.",
+    "umschrift": "",
+    "formel": "Vado prima io.",
+    "informel": "Vado io per primo.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Es tut mir leid für deinen Verlust.",
+    "lang": "Mi dispiace per la tua perdita.",
+    "umschrift": "",
+    "formel": "Mi dispiace per la sua perdita.",
+    "informel": "Mi dispiace per la tua perdita.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich freue mich für dich.",
+    "lang": "Я рад за тебя.",
+    "umschrift": "Ya rad za tebya.",
+    "formel": "Я рад за тебя.",
+    "informel": "Я рад за тебя.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich bin stolz auf dich.",
+    "lang": "Я горжусь тобой.",
+    "umschrift": "Ya gorzhus' toboy.",
+    "formel": "Я горжусь тобой.",
+    "informel": "Я горжусь тобой.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Ich fange an zu essen.",
+    "lang": "Comincio a mangiare.",
+    "umschrift": "",
+    "formel": "Inizio a mangiare.",
+    "informel": "Comincio a mangiare.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Gut gemacht!",
+    "lang": "Молодец!",
+    "umschrift": "Molodets!",
+    "formel": "Молодец!",
+    "informel": "Молодец!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Fantastisch!",
+    "lang": "Фантастика!",
+    "umschrift": "Fantastika!",
+    "formel": "Фантастика!",
+    "informel": "Фантастика!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Sehr schlau!",
+    "lang": "Molto intelligente!",
+    "umschrift": "",
+    "formel": "Molto intelligente!",
+    "informel": "Che furbo!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Gibt es ein Problem?",
+    "lang": "C’è un problema?",
+    "umschrift": "",
+    "formel": "C’è qualche problema?",
+    "informel": "C’è un problema?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kein Problem.",
+    "lang": "Nessun problema.",
+    "umschrift": "",
+    "formel": "Nessun problema.",
+    "informel": "Tutto ok.",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Wohin gehst du?",
+    "lang": "Dove stai andando?",
+    "umschrift": "",
+    "formel": "Dove sta andando?",
+    "informel": "Dove vai?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Was?",
+    "lang": "Come, scusa?",
+    "umschrift": "",
+    "formel": "Mi scusi, come ha detto?",
+    "informel": "Come, scusa?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kannst du das reparieren?",
+    "lang": "Puoi ripararlo?",
+    "umschrift": "",
+    "formel": "Può ripararlo?",
+    "informel": "Puoi ripararlo?",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Glückwunsch!",
+    "lang": "Congratulazioni!",
+    "umschrift": "",
+    "formel": "Le mie congratulazioni!",
+    "informel": "Congratulazioni!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Gut gemacht!",
+    "lang": "Молодец!",
+    "umschrift": "Molodets!",
+    "formel": "Молодец!",
+    "informel": "Молодец!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  },
+  {
+    "de": "Kein Glück.",
+    "lang": "Niente fortuna.",
+    "umschrift": "",
+    "formel": "Non è andata bene.",
+    "informel": "Che sfortuna!",
+    "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
+    "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
+    "categorie": "Allgemeine Ausdrücke"
+  }
+]
