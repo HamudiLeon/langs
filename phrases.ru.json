@@ -7,7 +7,7 @@
     "informel": "Извините, я не знал.",
     "description": "Diese Phrase wird verwendet, um sich zu entschuldigen, wenn man etwas nicht wusste oder nicht bewusst war. In Russland wird es häufig in formellen und informellen Situationen genutzt.",
     "when": "Verwendet, wenn man sich entschuldigen möchte, weil man sich einer bestimmten Information nicht bewusst war.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Entschuldigung, kann ich mir einen Drink bestellen?!",
@@ -17,7 +17,7 @@
     "informel": "Извините, могу я заказать напиток?",
     "description": "Diese Frage wird in Bars oder Restaurants verwendet, um höflich nach einem Getränk zu fragen. In Russland wird es meist in formeller Weise genutzt, aber auch informell unter Freunden.",
     "when": "Wird in Restaurants oder Bars genutzt, um höflich eine Bestellung aufzugeben.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Können Sie mir Ihre Meinung geben?!",
@@ -27,7 +27,7 @@
     "informel": "Можете дать мне своё мнение?",
     "description": "Diese Phrase wird genutzt, um nach einer ehrlichen Meinung oder einem Feedback zu fragen. In Russland ist es üblich, eine direkte und offene Antwort zu erwarten.",
     "when": "Verwendet, wenn man ehrliches Feedback oder eine Meinung von jemandem einholen möchte.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Entschuldigung, kann ich dich um etwas bitten?!",
@@ -37,7 +37,7 @@
     "informel": "Извините, могу я вас попросить об одолжении?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Hallo, kannst Du mir deine Meinung zu meiner APP geben? Ich habe hier thailändische Sätze, die ich von dir untersuchen lassen möchte. Sagst Du mir ob diese korrekt sind?",
@@ -47,7 +47,7 @@
     "informel": "Ciao, mi dai la tua opinione sulla mia app? Ho alcune frasi in thailandese da farti controllare. Mi dici se sono corrette?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Haben Sie einen Moment Zeit?!",
@@ -57,7 +57,7 @@
     "informel": "У вас есть минутка?",
     "description": "Eine höfliche Art zu fragen, ob jemand kurz Zeit hat, um eine Frage zu beantworten oder etwas zu besprechen.",
     "when": "Wird genutzt, wenn man höflich um Aufmerksamkeit für eine kurze Frage oder ein Anliegen bittet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Wie kann ich das machen?",
@@ -67,7 +67,7 @@
     "informel": "Как мне это сделать?",
     "description": "Wird verwendet, um zu fragen, wie eine bestimmte Aufgabe oder Handlung durchgeführt werden kann.",
     "when": "Wird verwendet, wenn man eine Anleitung oder Hilfe bei der Durchführung einer Aufgabe benötigt.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Kommunikation & Verständnis"
   },
   {
     "de": "Kann ich Ihnen helfen?",
@@ -77,7 +77,7 @@
     "informel": "Могу я вам помочь?",
     "description": "Eine höfliche Art anzubieten, jemandem Unterstützung zu geben, entweder bei der Arbeit oder im Alltag.",
     "when": "Wird benutzt, wenn man Unterstützung oder Hilfe anbietet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Woher wissen Sie das?",
@@ -87,7 +87,7 @@
     "informel": "Откуда вы это знаете?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Wichtige Fragen & Antworten"
   },
   {
     "de": "Wann ist ein guter Zeitpunkt?",
@@ -97,7 +97,7 @@
     "informel": "Когда удобное время?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Wichtige Fragen & Antworten"
   },
   {
     "de": "Was empfehlen Sie?",
@@ -107,7 +107,7 @@
     "informel": "Что вы порекомендуете?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Gibt es eine andere Möglichkeit?",
@@ -117,7 +117,7 @@
     "informel": "Есть ли другой вариант?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Wichtige Fragen & Antworten"
   },
   {
     "de": "Sind Sie sicher?",
@@ -127,7 +127,7 @@
     "informel": "Вы уверены?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Wichtige Fragen & Antworten"
   },
   {
     "de": "Kann ich etwas fragen?",
@@ -137,7 +137,7 @@
     "informel": "Можно задать вопрос?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Kann ich das anprobieren?",
@@ -147,7 +147,7 @@
     "informel": "Могу я это примерить?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Haben Sie das in einer anderen Größe?",
@@ -157,7 +157,7 @@
     "informel": "Есть ли это в другом размере?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Haben Sie einen Rabatt?",
@@ -167,7 +167,7 @@
     "informel": "У вас есть скидка?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Kann ich das zurückgeben?",
@@ -177,7 +177,7 @@
     "informel": "Могу я это вернуть?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Gibt es dieses Produkt in einer anderen Farbe?",
@@ -187,7 +187,7 @@
     "informel": "Есть ли этот товар в другом цвете?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Wo ist die Toilette?",
@@ -197,7 +197,7 @@
     "informel": "Где находится туалет?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Unterwegs"
   },
   {
     "de": "Wie viel kostet das?",
@@ -207,7 +207,7 @@
     "informel": "Сколько это стоит?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Können Sie mir helfen?",
@@ -217,7 +217,7 @@
     "informel": "Вы можете мне помочь?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Kann ich mit Karte bezahlen?",
@@ -227,7 +227,7 @@
     "informel": "Можно оплатить картой?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Einkaufen"
   },
   {
     "de": "Entschuldigen Sie, ich bin verloren.",
@@ -237,7 +237,7 @@
     "informel": "Извините, я заблудился.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Unterwegs"
   },
   {
     "de": "Gibt es hier WLAN?",
@@ -247,7 +247,7 @@
     "informel": "Здесь есть Wi-Fi?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Unterwegs"
   },
   {
     "de": "Können Sie ein Foto von uns machen?",
@@ -257,7 +257,7 @@
     "informel": "Вы можете нас сфотографировать?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Unterwegs"
   },
   {
     "de": "Ich brauche einen Arzt.",
@@ -267,7 +267,7 @@
     "informel": "Мне нужен врач.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Arzt"
   },
   {
     "de": "Ich bin Krank.",
@@ -277,7 +277,7 @@
     "informel": "Я болен.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Arzt"
   },
   {
     "de": "Ich habe Verletzt.",
@@ -287,7 +287,7 @@
     "informel": "Я получил травму.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Beim Arzt"
   },
   {
     "de": "Wo ist der nächste Geldautomat?",
@@ -297,7 +297,7 @@
     "informel": "Где ближайший банкомат?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Unterwegs"
   },
   {
     "de": "Können Sie das bitte erklären?",
@@ -307,7 +307,7 @@
     "informel": "Можете объяснить, пожалуйста?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Ich möchte bitte Reis mit viel Gemüse.",
@@ -317,7 +317,7 @@
     "informel": "Я бы хотел рис с большим количеством овощей.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Im Restaurant"
   },
   {
     "de": "Haben Sie gebratenen Reis mit frischem Gemüse?",
@@ -327,7 +327,7 @@
     "informel": "У вас есть жареный рис со свежими овощами?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Im Restaurant"
   },
   {
     "de": "Haben Sie gebratenen Reis mit Gemüse?",
@@ -337,7 +337,7 @@
     "informel": "C’è il riso saltato con verdure?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Ist das Fleisch drin?",
@@ -347,7 +347,7 @@
     "informel": "C’è carne dentro?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Haben Sie Essen ohne Fleisch?",
@@ -357,7 +357,7 @@
     "informel": "C’è qualcosa senza carne?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Haben Sie vegetarisches Essen?",
@@ -367,7 +367,7 @@
     "informel": "У вас есть вегетарианская еда?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Im Restaurant"
   },
   {
     "de": "Hallo oder Auf Wiedersehen",
@@ -377,7 +377,7 @@
     "informel": "Привет / До свидания",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Begrüßung & Verabschiedung"
   },
   {
     "de": "Auf Wiedersehen",
@@ -387,7 +387,7 @@
     "informel": "Ciao (quando ci si rivede)",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Begrüßung & Verabschiedung"
   },
   {
     "de": "Ich gehe jetzt.",
@@ -397,7 +397,7 @@
     "informel": "Devo andare.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Bis später / Bis zum nächsten Mal",
@@ -407,7 +407,7 @@
     "informel": "Ci vediamo dopo / Alla prossima",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Begrüßung & Verabschiedung"
   },
   {
     "de": "Viel Glück",
@@ -417,7 +417,7 @@
     "informel": "Удачи!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Gefühle & Emotionen"
   },
   {
     "de": "Danke",
@@ -427,7 +427,7 @@
     "informel": "Спасибо",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Entschuldigung",
@@ -437,7 +437,7 @@
     "informel": "Извините",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Kein Problem / Schon gut",
@@ -447,7 +447,7 @@
     "informel": "Без проблем",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Sprechen Sie bitte langsam.",
@@ -457,7 +457,7 @@
     "informel": "Пожалуйста, говорите медленнее.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Kommunikation & Verständnis"
   },
   {
     "de": "Bitte wiederholen.",
@@ -467,7 +467,7 @@
     "informel": "Пожалуйста, повторите.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Kommunikation & Verständnis"
   },
   {
     "de": "Verstehen Sie?",
@@ -477,7 +477,7 @@
     "informel": "Capisci?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Ich verstehe nicht.",
@@ -487,7 +487,7 @@
     "informel": "Я не понимаю.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Kommunikation & Verständnis"
   },
   {
     "de": "Entschuldigen Sie die Störung.",
@@ -497,7 +497,7 @@
     "informel": "Scusa se disturbo.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Vielleicht",
@@ -507,7 +507,7 @@
     "informel": "Forse",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Wohin soll ich gehen?",
@@ -517,7 +517,7 @@
     "informel": "Dove devo andare?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Ich gehe zuerst.",
@@ -527,7 +527,7 @@
     "informel": "Vado io per primo.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Es tut mir leid für deinen Verlust.",
@@ -537,7 +537,7 @@
     "informel": "Mi dispiace per la tua perdita.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Ich freue mich für dich.",
@@ -547,7 +547,7 @@
     "informel": "Я рад за тебя.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Gefühle & Emotionen"
   },
   {
     "de": "Ich bin stolz auf dich.",
@@ -557,7 +557,7 @@
     "informel": "Я горжусь тобой.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Gefühle & Emotionen"
   },
   {
     "de": "Ich fange an zu essen.",
@@ -567,7 +567,7 @@
     "informel": "Comincio a mangiare.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Gut gemacht!",
@@ -577,7 +577,7 @@
     "informel": "Молодец!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Lob & Anerkennung"
   },
   {
     "de": "Fantastisch!",
@@ -587,7 +587,7 @@
     "informel": "Фантастика!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Lob & Anerkennung"
   },
   {
     "de": "Sehr schlau!",
@@ -597,7 +597,7 @@
     "informel": "Che furbo!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Lob & Anerkennung"
   },
   {
     "de": "Gibt es ein Problem?",
@@ -607,7 +607,7 @@
     "informel": "C’è un problema?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Wichtige Fragen & Antworten"
   },
   {
     "de": "Kein Problem.",
@@ -617,7 +617,7 @@
     "informel": "Tutto ok.",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Höflichkeit & Anfragen"
   },
   {
     "de": "Wohin gehst du?",
@@ -627,7 +627,7 @@
     "informel": "Dove vai?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Wichtige Fragen & Antworten"
   },
   {
     "de": "Was?",
@@ -637,7 +637,7 @@
     "informel": "Come, scusa?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   },
   {
     "de": "Kannst du das reparieren?",
@@ -647,7 +647,7 @@
     "informel": "Puoi ripararlo?",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Alltag & Probleme lösen"
   },
   {
     "de": "Glückwunsch!",
@@ -657,7 +657,7 @@
     "informel": "Congratulazioni!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Lob & Anerkennung"
   },
   {
     "de": "Gut gemacht!",
@@ -667,7 +667,7 @@
     "informel": "Молодец!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Lob & Anerkennung"
   },
   {
     "de": "Kein Glück.",
@@ -677,6 +677,6 @@
     "informel": "Che sfortuna!",
     "description": "Diese Phrase wird in der russischen Sprache in verschiedenen Kontexten verwendet. Die Bedeutung hängt von der Situation ab.",
     "when": "Wird in unterschiedlichen sozialen und kulturellen Kontexten in Russland verwendet.",
-    "categorie": "Allgemeine Ausdrücke"
+    "categorie": "Allgemeine Redewendungen"
   }
 ]
