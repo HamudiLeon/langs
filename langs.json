@@ -1,8 +1,14 @@
 [
   {
+    "speach-lang":"ru-RU"
+  , "key": "ru"
+  , "name": "Russisch"
+  , "description":"Russische Sprach"
+  },
+  {
     "speach-lang":"th-TH"
   , "key": "th"
-  , "name": "Thai Sprache"
+  , "name": "Thai"
   , "description":"Thailand language"
   },
   {
