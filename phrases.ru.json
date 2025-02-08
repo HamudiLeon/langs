@@ -21,10 +21,10 @@
   },
   {
     "de": "Können Sie mir Ihre Meinung geben?!",
-    "lang": "Можете дать мне своё мнение?",
-    "umschrift": "Mozhete dat' mne svoyo mnenie?",
-    "formel": "Можете дать мне своё мнение?",
-    "informel": "Можете дать мне своё мнение?",
+    "lang": "Что ты думаешь по этому поводу?",
+    "umschrift": "Chto ty dumayesh' po etomu povodu?",
+    "formel": "ЧЧто вы думаете об этом?",
+    "informel": "Что ты думаешь по этому поводу?",
     "description": "Diese Phrase wird genutzt, um nach einer ehrlichen Meinung oder einem Feedback zu fragen. In Russland ist es üblich, eine direkte und offene Antwort zu erwarten.",
     "when": "Verwendet, wenn man ehrliches Feedback oder eine Meinung von jemandem einholen möchte.",
     "categorie": "Allgemeine Redewendungen"
